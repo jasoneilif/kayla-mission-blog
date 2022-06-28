@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Sister Jensen will be spending 18 months serving a full time mission
   for The Church of Jesus Christ of Latter-day Saints. These are her
   weekly letters.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/kayla-mission-blog/" # the subpath of your site, e.g. /blog
+url: "https://jasoneilif.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
