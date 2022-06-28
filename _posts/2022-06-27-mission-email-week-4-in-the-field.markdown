@@ -31,20 +31,20 @@ Thank you for your prayers and your support! I really appreciate it! I will keep
 
 Photo Descriptions
 My last group photo with my MTC district
-![My last group photo with my MTC district](/kayla-mission-blog/assets/image0.jpeg)
+![My last group photo with my MTC district]({{ site.baseurl }}/assets/image0.jpeg)
 Chandelier at the MTC
-![Chandelier at the MTC](/kayla-mission-blog/assets/20220620_091057.jpg)
+![Chandelier at the MTC]({{ site.baseurl }}/assets/20220620_091057.jpg)
 Sister Stark, Sister Ownby, and me on our last preparation day
-![Sister Stark, Sister Ownby, and me on our last preparation day](/kayla-mission-blog/assets/20220620_211238.jpg)
+![Sister Stark, Sister Ownby, and me on our last preparation day]({{ site.baseurl }}/assets/20220620_211238.jpg)
 Hanging out at the airport!
-![Hanging out at the airport!](/kayla-mission-blog/assets/20220622_171523.jpg)
+![Hanging out at the airport!]({{ site.baseurl }}/assets/20220622_171523.jpg)
 Cool clouds on plane
-![Cool clouds on plane](/kayla-mission-blog/assets/20220622_183211.jpg)
+![Cool clouds on plane]({{ site.baseurl }}/assets/20220622_183211.jpg)
 Setting sun on plane
-![Setting sun on plane](/kayla-mission-blog/assets/20220622_192025.jpg)
+![Setting sun on plane]({{ site.baseurl }}/assets/20220622_192025.jpg)
 City lights from the plane. (There was a cool lighting storm in the distance on the plane ride)
-![City lights from the plane. (There was a cool lighting storm in the distance on the plane ride)](/kayla-mission-blog/assets/20220622_194157.jpg)
+![City lights from the plane. (There was a cool lighting storm in the distance on the plane ride)]({{ site.baseurl }}/assets/20220622_194157.jpg)
 Me and Sister Giles at the temple
-![Me and Sister Giles at the temple](/kayla-mission-blog/assets/20220623_174924.jpg)
+![Me and Sister Giles at the temple]({{ site.baseurl }}/assets/20220623_174924.jpg)
 Me and Sister Giles at a cathedral
-![Me and Sister Giles at a cathedral](/kayla-mission-blog/assets/20220623_161820.jpg)
+![Me and Sister Giles at a cathedral]({{ site.baseurl }}/assets/20220623_161820.jpg)
