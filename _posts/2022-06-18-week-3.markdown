@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Mission Email Week 3 - Entering the Field!"
+date:   2022-06-18 16:09:05 -0700
+categories: mission
+---
+Friends and Family,
+
+I can't believe how fast time is passing! I leave for Pennsylvania this week on Wednesday! I am super excited, but also a little nervous and sad. I will really miss being at the MTC and I will miss my district, but it will be super cool to go to Pennsylvania! I will use all of the things I have learned from the MTC, and hopefully it should be a relatively smooth transition!
+
+This week was super busy, but amazing! Classes were great and I learned so much! I have also been enjoying a lot of devotionals! It was really cool because I did the MTC choir! We sang an arrangement of Nearer My God To Thee! It was so moving! Our choir director told us of the story behind it that I wanted to share! It is about Jacob from the Bible. He had just received the birthright from his father. His brother Esau was originally supposed to receive that birthright, but he gave up the birthright to Jacob for a pot of porridge. When Esau found out that Jacob had received the birthright, he was angry and wanted to kill Jacob. Rebekah, Jacob and Esau's mother, heard about this and convinced Issac, Jacob and Esau's father, to send Jacob to a different land. Jacob was confused because he was trying to do the right thing by taking the birthright because he had rightfully received it and he cared more about the responsibilities that came with it than Esau. Instead of being blessed and being able to stay with his family and have Esau go away, he was sent away into a desert alone without anyone or potentially anything. He went to bed that night with a stone for a pillow probably wondering if God had abandoned him. However, in his dreams that night, God showed him an amazing vision of steps leading to Heaven and God said "I am with thee, and will keep thee in all places whither thou goest, and will bring thee again into this land; for I will not leave thee". After so much trial, Jacob was blessed to have this amazing vision and he knew that God was with him even when he was all alone in the desert. He was so grateful for this tender mercy from God that he made an altar out of the stone he slept on and praised God. He called this place Beth-el or "house of God" similar to modern day temples.
+
+I love this story of Jacob because sometimes I feel like even though I am doing what the Lord wants me to do by going on a mission, it is hard, and sometimes I feel like I am in my own desert sleeping on my own stone of a sort. It reminds me that no matter where I go, the Lord is with me and He will take my trials or hard times and make something good come out of it. I know God loves each and every one of us and is watching out for us whether we are in a comfortable time in life or whether we are in the lowest or darkest times in our lives, and He is waiting for us to reach out to Him so He can help and bless us.
+
+Anyways, I don't really have too much time to share everything else I have learned from the MTC because there is so much, but I will try to share as much as I can in the future. One last thing I want to share is just how much I have realized how much God loves us. He is our Heavenly Father, and He loves us perfectly and infinitely. No matter how imperfect we are, no matter how much we believe in Him, no matter the time or distance, He loves us perfectly and eternally.
+
+Anyways, I need to sign off, but I will attach some photos before I do that. Here are the descriptions...
+1. My district in front of the Provo Temple
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_398600295528401.jpeg)
+2. Francis the ladybug ;)
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220618_143110.jpg)
+3. Me and my MTC teacher acting like penguins in front of the Provo Temple
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220618_142855.jpg)
+4. Me and my amazing companion Sister Ownby in front of the Provo Temple
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220618_142927.jpg)
+5. My district after the devotional with Elder Nash from the quorum of the 70
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_1037320900248389.jpeg)
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_3097716580538592.jpeg)
+6. Me next to a painting of Dan Jones, my 4th great grandpa, in the MTC.
+7. Me next to the map pointing to Pennsylvania
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220613_090255.jpg)
+
+I'll try sending a follow up email next week! Feel free to email me! I will try to respond on my preparation days if I can! On to Philadelphia I go!
+
+-Sister Jensen

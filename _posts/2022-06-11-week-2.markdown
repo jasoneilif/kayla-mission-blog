@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Mission Email - Week 2"
+date:   2022-06-11 17:27:05 -0700
+categories: mission
+---
+Hello again friends and family!
+
+This week has been crazy! I might have to make this email a little short because I only have a little time today.
+
+Anyways, this week I flew to Provo on Tuesday. It was super nostalgic being back in Provo since being at school! I got here pretty early, so I didn't meet my district or companion until the next day. It was a weird night! I didn't sleep very well because I was thinking and there was a weird flashing light. The ladder to the top bunk was also a little sketchy. It was great the next day though! I got to meet my district and my companion. They are super nice! Sometimes it gets a little rowdy with everyone together, but we are already acting like we have been in the same district for a while. The first thing we did while we waited for everyone to arrive was have a special lesson from Elder and Sister Sorenson. It turns out they are from Richland as well and their granddaughter is someone I knew from high school seminary! That was a really good lesson! That day I spent the day fangirling about everything at the MTC. I had walked around the outside of the MTC during my time at BYU, but it was crazy thinking I was actually at the MTC! Later that day, we had a devotional about the Character of Christ. It was so powerful and inspirational! It was amazing to me to think that Christ was so selfless. He was always looking outside of Himself. Even when He died on the cross and was suffering unimaginable pain, He looked outside of Himself and made sure to ask one of His followers to take care of His mother. When He fasted and went without food or water for 40 days and Satan was tempting Him, He rightfully deserved to receive heavenly help and strength from angels because He was physically and spiritually drained, but He didn't receive that. Instead, He was the one who sent angels to minister to John who was in prison. Christ was a perfect example of selflessness that I look up to. I hope I can become a little more like Christ and look outwards more and inwards less. 
+
+Yesterday was also an amazing experience! All of my classes were amazing and I learned so much! I was reminded of how important Jesus Christ is in my life and in the lives of every single person on the Earth. Because of Him, death is not the end and we get to live again after we die someday. He also made it so that if we turn to Him and try our best to be better, our sins and mistakes can be forgiven and we can live with our families for eternity through the sacred ordinances at the temple. Through Him, we can find strength and peace when life is hard. I know that Jesus Christ felt all of our pains, sicknesses, sorrow, and weaknesses, and that because of that He knows how to help us and He understands us perfectly.
+
+Something else I have been reminded of is just how much God, our Heavenly Father, loves every single person on the Earth. He knows what we are going through and wants to help us find true happiness. I know He hears and answers every prayer and can give us strength and peace when we turn to Him.
+
+Today, I had the amazing opportunity to go to the Provo temple. It was beautiful! I was so happy to go because I was feeling so stressed earlier today. The schedule was catching up on me and I was overwhelmed by the amount of things I needed to do. When I went to the temple, I was reading in John 14:27, and it talked about finding peace in Christ. I prayed for peace, and by the end of my session at the temple, I was feeling so much peace!
+
+Anyways, thank you all for your support and love! I will keep you all updated as much as I can! Here are some pictures!
+
+-Sister Jensen
+
+P.S. That is my district and my companion below. I also added a picture of one of my favorite flowers.  
+
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220609_085946.jpg)
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220609_170435.jpg)
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220610_165101.jpg)
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220610_165109.jpg)
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220611_162922.jpg)
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220611_163100.jpg)
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220611_164523.jpg)
+
