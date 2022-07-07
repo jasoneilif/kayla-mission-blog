@@ -1,0 +1,27 @@
+.post-nav {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.post-nav p {
+    flex: 1 1 auto;
+}
+
+.post-nav p:first-child {
+    padding-right: 0.5em;
+    width: 40%;
+}
+
+.post-nav p:nth-child(2) {
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+    text-align: center;
+    //width: 10%;
+}
+
+.post-nav p:last-child {
+    padding-left: 0.5em;
+    text-align: right;
+    width: 40%;
+}

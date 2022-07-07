@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Mission Email Week 5"
+date:   2022-07-05 07:45:05 -0700
+categories: mission
+---
+Happy Independence Day one day late! 🎇🎆
+
+I didn't write yesterday because I got my preparation day switched this week to Tuesday because yesterday my district volunteered at the Revolutionary Run next to Washington's Crossing. It was really fun,  and it was a nice break from normal missionary work.
+
+Anyways, this week has been a blur and I feel like time has passed so quickly. I don't know if I remember half of the things that happened this week,  but I will try my best to relate what has happened. Overall, this week has been a Rollercoaster! It started off pretty good with a fun district council with the other missionaries in my district. After our meeting, we went to a pizza place called Pinas Pizza Three. The pieces of pizza were huge and delicious! Later that day on Tuesday, we had a wonderful meal of enchiladas with Sister Ross and her son. She is a Sunday school teacher, and we had a really cool conversation with her about revelation and finding answers from God. (By the way, her lesson on Sunday was so good!) That night we also had fun doing face masks! 😅
+
+On Thursday, it was so cool because we got to serve in the Philadelphia Temple! It is so beautiful there! I can't wait to go next Thursday to clean again! It was super funny because after we finished cleaning, one of the temple workers gave us funny name tags and sunglasses and took us to the roof of the temple. It was so pretty up there! That day, we also had the chance to study Visitor Center. I had a really good study in the Book of Mormon. Later that day, I was a mess though. We were calling one of our friends Greg, and I had a hard time speaking for the role play we did beforehand, so the lesson didn't go as well as I had planned. My companions were so supportive though, and they helped me feel a little better. My companions are awesome!
+
+Another hard thing from this week was the many mosquito bites I got. Some of them were swollen to a few inches in diameter, and they were super itchy. Needless to say, I now have a goal to put on mosquito repellent before going outside.
+
+Friday was probably the worst and best day of my mission so far. It started off really slow. We had two different meetings and so we were cooped up all morning and a lot of the afternoon. I was super bored. It was really nice getting out to visit Greg though! I was a little nervous about this because last night's call didn't go so good, but it was actually really cool! Then we went to The Bishop's house and ate yummy biscuits and gravy! I was still feeling kind of from yesterday and the lesson at The Bishop's house didn't go as well as I had planned. That and a few other things made me feel depressed. I kind of broke down and started having negative thoughts wondering why I was there if I didn't say anything, and I felt like I wasn't good enough. When we got back to the apartment, I decided to open adjusting to missionary life since I had literally just had a workshop on adjusting to missionary life. I followed the directions in the book, and I followed its direction to pray. I told Heavenly Father about my struggles and pleaded for help and the ability to speak. After about 5 minutes I got ready for a call with Rob, someone we were going to have a Bible study with. When we called him, he wanted to meet in person at Starbucks in half an hour for our Bible study. As soon as we finished our call with rob, we got a random call from this guy named Robert. We got so excited, that we accidentally told him a lot, and I was so happy because I actually talked. I also felt the Lord's guidance as I did! It was a mini miracle! I felt a lot better after that and a lot more confident! Then we rushed to Starbucks to meet with Rob. It was really cool talking to him! That experience was definitely an answer to my prayers! After that experience, I have been happy and hopeful!
+
+Anyways, we ended up doing other lessons after that which were super amazing, and I have felt a lot more confident to say things! I have been growing in so many ways, and I love the area I am in! The people are so nice, and it is beautiful! I am so greatful to be having these experiences! I should probably sign off for now because I have a busy day, but I miss you all, and I hope that your Independence Day was great!
+
+-Sister Jensen
+
+Picture Descriptions!
+
+1. My district at the pizza place! 🍕
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220628_125736.jpg)
+2. Face masks! Mine was a little more goopy
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220628_214233.jpg)
+3. A fancy companion dinner we made!
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220629_171140.jpg)
+4. A fun walk for exercise time at a pond!
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220630_074337.jpg)
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220630_074328.jpg)
+5. Me and Sister Brockbank at the Rev Run!
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220704_100620.jpg)
+6. My district at the Rev Run!
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_515761100343459.jpeg)
+7. Sister Giles, Sister Brockbank, and I looking festive for Independence Day!
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220704_110907.jpg)
+8. Fun times at a member meal (birthday party 🎉 🥳)
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_1760691730934491.jpeg)
+
+Here is the picture from the Temple service, and I also forgot to mention that I went to a castle on a walk! Haha! 
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220630_160609.jpg)
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220628_080119.jpg)
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220628_080413.jpg)
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220628_080423.jpg)
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220628_080715.jpg)
