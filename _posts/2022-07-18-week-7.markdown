@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Mission Email Week 7"
+date:   2022-07-18 14:43:00 -070
+categories: mission
+---
+Hello friends and family!
+
+This week has been like a rocket going into space! 🚀 It started off kind of slow and tiring. I was so exhausted and my sunburn hurt a lot. It was great though because each day got better and better, until by the end of the week, I was full of energy and excited to do missionary work.
+
+It was so cool because this week, I got to play my violin a lot this week! 🎻 I played at the pier next to the Delaware River on Monday and may put out a video on Facebook sometime. I also played for a sweet old lady in our ward named Wanda. It's always fun to visit Wanda!
+This Sunday, I also gave a talk about being a peacemaker! It was actually really cool because I wasn't too nervous and I didn't rush through my talk! I'll attach it below if you want to read it!
+
+Oh yeah, also we have Malda on date for baptism! I am so excited for her! She has been coming to church for 35 years and hasn't joined the church yet. We had to make it a surprise though because she didn't want to know the date,  but we made a deal to tell her two weeks before her baptism date so she can have an interview and prepare. We just told her on Sunday, and she seems excited! I would have never thought that we would be have a surprise baptism date!
+
+Also, our friend Rob came to church again, so I am super excited about that! The members were really good about helping him feel welcome!
+
+Speaking of the members, we have been having a lot of meals at their houses! I didn't realize how popular Mexican food is for meals! We have had tacos, taco salad, burritos, fajitas, and enchiladas! One day though we went to Bishop Ware's house and we had quiche and crepes for dinner for Bastille Day! Apparently the bishop and his wife both served their missions in France!
+
+We also served at the temple again and cleaned the 4th floor. It was so pretty!
+
+Well, I should probably go! Feel free to email me!
+
+Sister Jensen
+
+Picture Descriptions!
+
+Photo Description
+1 In front of the church
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_745280183348027.jpeg)
+2 Group meal part 2
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_807138536917549.jpeg)
+3 At the love sign in Philly
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_1011125959573923.jpeg)
+4 Toothbrush party
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_1662441284127289.jpeg)
+5 Keeping the heavy cream safe
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_3095592654036866.jpeg)
+6 Haircut for Sister Brockbank
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_1749227852076823.jpeg)
+7 Playing violin at the pier
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_463657115592458.jpeg)
+8 Trying to protect myself from the sun after getting sunburned lol 😆
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_540286054511943.jpeg)

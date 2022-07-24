@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Mission Email Week 6"
+date:   2022-07-11 14:00:00 -0700
+categories: mission
+---
+Hi everyone!
+
+Sorry this email might be a little short because we had a crazy zone preparation day! This week was pretty awesome! We invited our new friend Rob to come to church and he actually came! It was so exciting! We also taught Pam this week about the temple! She has a new goal for a baptism date when she is able to start coming to church! I am super excited for her! We also taught our friend Malda. She has been coming to church for many years,  but she has never accepted the invitation to be baptized because she doesn't feel worthy and she can't forgive herself. It's so sad because that's the only thing keeping her from being baptized. I am praying that she is able to overcome those negative feelings about herself so she can feel like she can be baptized.
+
+Anyways, this week we had a lot of meetings like zone conference and a leadership meeting and other small meetings. Today we also had a zone p day with the other missionaries in my zone. We went to the Rocky Steps, took pictures with the Thinker, played softball, got some delicious food, walked around Philadelphia, went to a cathedral, and I got very sunburned.
+
+That's why my email has to be so short this week, but it was pretty fun. I want to leave of with a really good scripture I used a lot this week. It is in 2 Nephi 25:26. It says "And we talk of Christ, we rejoice in Christ, we preach of Christ, we prophesy of Christ, and we write according to our prophecies, that our children may know to what source they may look for a remission of their sins". I like this scripture because it reminds me of how important it is to make Christ the center and focus of our lives. He is the one who can help us be the people we want to be and he is the source of true peace! Speaking of peace, I am giving a talk next week in sacrament meeting about peace! That should be fun!
+
+Also, the pictures and descriptions are down below!
+
+-Sister Jensen
+
+Picture Descriptions!
+
+1 After zone conference with my district
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_486615123465252.jpeg)
+2 The Thinker
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220711_114256.jpg)
+3 Cathedral
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220711_120831.jpg)
+4 Also the cathedral
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220711_120833.jpg)
+5 Fun walk in Philly
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_738732030773132.jpeg)
+6 My district at the cathedral
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_1158575531371266.jpeg)
+7 Next to the city hall in Philadelphia
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_726344312004080.jpeg)
+8 On the Rocky Steps
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_2324796197667859.jpeg)
