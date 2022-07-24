@@ -33,7 +33,6 @@ Photo Descriptions
 My last group photo with my MTC district
 ![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/image0.jpeg)
 Chandelier at the MTC
-![Chandelier at the MTC]({{ site.baseurl }}/assets/20220620_091057.jpg)
 ![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220620_091057.jpg)
 Sister Stark, Sister Ownby, and me on our last preparation day
 ![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220620_211238.jpg)
