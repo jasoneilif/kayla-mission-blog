@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Mission Email Week 8"
+date:   2022-07-25 10:42:00 -070
+categories: mission
+---
+Happy Pioneer Day everyone!
+
+This week was so fun and hot! Most days it's been in the 90s, but we have been surviving!
+
+On Monday we had a district p day and I learned how to use a golf club for the first time! We also played volleyball which was super fun!
+
+On Wednesday, we got to go to the temple with James and the ward! It was his first time going! Going to the temple is a special treat for missionaries since we usually only get to go every 6 months. The temple is such a special place! It was also cool because on the way there and back we watched a movie called The Testaments! It was so good! It tells the story of a man named Jacob and his family living in ancient America. It's a realistic fiction film based on a true story in the Book of Mormon about what life in America might have been like at the time when Christ came to the Americas. It was a great reminder that Christ can heal us physically, spiritually and emotionally!
+
+Anyways, on Saturday night we went to Jarrettown and knocked doors there! It was funny because a man opened his door and proceeded to tell us to be in politics or sales after our missions because we were getting practice in from knocking doors. He also told us that when he was in second grade, he got his own practice knocking doors. Anyways, knocking doors that day was really hard because it was 100 degrees outside! After that though we went to a stake Pioneer Day celebration! It was fun and our friend Rob came! We had lots of food and we did a tug of war! Sadly, we missed the fireworks show afterwards.
+
+Not much else happened other than having 2 different taco nights at members houses this week! The Garcias made homemade chips which were really good! I also can't believe this transfer is almost over! We have transfers on the 2nd! Time has gone by way to fast!
+
+Actually, I just remembered that we went on a walk and saw tons of wildlife! We saw a heron, ducks, turtles, and a fox!
+
+I hope all of you have had a great week!
+
+Here are the photo descriptions!  
+1 Getting water ice (they say it like wooder ice) and ice cream!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220719_163309.jpg)
+
+2 Me and Sister Giles  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220721_125835.jpg)
+
+3 Me in front of my apartment complex  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220721_130815.jpg)
+
+4 At the temple with James!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/IMG_20220721_212543.jpg)
+
+5 Another fun walk!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220723_080833.jpg)
+
+6 With my district at the Pioneer Celebration!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220723_205947.jpg)
+
+7 At the Pioneer Day Celebration with Rob  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/FB_IMG_1658627259351.jpg)
+
+-Sister Jensen
+
+P.S. I totally forgot to attach my talk from last week! Here is the [link]({{site.baseurl}}/church-talk) to it!
