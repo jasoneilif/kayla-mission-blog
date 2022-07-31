@@ -29,6 +29,7 @@ baseurl: "/kayla-mission-blog/" # the subpath of your site, e.g. /blog
 url: "https://jasoneilif.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
+facebook_username: kayla.jensen.39501
 
 # Build settings
 theme: minima
