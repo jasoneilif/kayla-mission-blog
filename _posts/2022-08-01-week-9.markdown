@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Mission Email Week 9"
+date:   2022-08-01 15:31:00 -070
+categories: mission
+---
+Hi friends and family!
+
+This week has been yet again another blur. Most of our friends had the flu or COVID so we didn't have a lot of lessons. It was really cool though because we went knocking doors expecting to visit a member, but we never found them. Instead, we found 3 other people who wanted to potentially meet with us!
+
+We also had an amazing member meal with Sister Ross! She has a kitten room which was so fun! The kittens were so tiny and cute! We were on exchanges that day with the sister training leaders. Since there were three of them, we were able to split into three groups of two! I was with Sister Hunsaker! Sister Ross was so nice and got all of us books! It's been so good reading it so far!
+
+Also it was really sad because we ran over a racoon which happens to be Sister Giles's favorite animal. It was literally a stormy night.
+
+Also on Sunday we taught the 5th Sunday lesson which was a little stressful but good.
+
+We also had a "funeral" for our district leader who is leaving his mission. (Don't worry. He didn't actually die) We set up a funny photo. 
+
+I don't remember much else about this week, but I am super excited for Malda's baptism that's coming up! I will try and remember more about this next week, so I have more to share!
+
+Have a great week!
+-Sister Jensen
+
+P.S. We called Pam this morning, so we have 20 minutes extra for p day!
+
+1 Eating delicious bagels  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220801_083904.jpg)
+
+2 Fun dinnertime  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220725_104039.jpg)
+
+3 Eating delicious bagels pt 2  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220801_083912.jpg)
+
+4 Eating delicious bagels pt 3  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220801_083915.jpg)
+
+5 Fake funeral photo  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_596375552073929.jpeg)
+
+6 Fake funeral photo pt 2  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_8014327905308082.jpeg)
+
