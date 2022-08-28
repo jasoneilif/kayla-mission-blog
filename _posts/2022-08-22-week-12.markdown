@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Mission Email Week 12"
+date:   2022-08-22 07:28:00 -070
+categories: mission
+---
+¡Hola mi familia y mis amigos!
+
+Sorry about the random Spanish! I think my ward is rubbing off on me. It’s been so fun being in a mixed English and Spanish ward! This week has gone by so fast! I literally feel like last Monday was two days ago! I guess time flies when you are having fun and doing the Lord’s work haha!
+
+This week, we had so many good lessons! We met with Chad twice this week and they both went really well! He is a huge fan of Legend of Zelda and so when we were talking about Joseph Smith, he ended up comparing him to Link from Legend of Zelda. It was so funny! We also had a lesson about the Plan of Salvation which was super good! Hopefully he can come to church sometime! We also had a really good lesson with Jim! I got to play my ukulele again and it was so good!
+
+We also had so many good member meals this week! I got to meet Bishop Finlayson and his family. It was so fun being around their family! I learned how to play a pirate game and had tacos yet again! It was so funny because we were planning on sharing the story of Ammon with their family for a mini lesson, but they already knew the story and James proceeded to tell us the whole story in great detail. We were super impressed with their scripture knowledge!
+
+On Wednesday, we had dinner with Sister Woods and her mom! It was so fun! It was so nice going there because I had been worrying about connecting with members in the ward. It was so fun having dinner with them because I felt like I really connected with them! Also, I discovered I really like meatloaf!
+
+On Thursday, we had dinner with the Sheltons and the Spanish sister missionaries! I felt like I connected with the Sheltons too! It was such a cool night because we ended up sharing our conversion stories and how we recieved our own testimonies of the gospel of Jesus Christ! I really needed that spiritual experience! It helped remind me of the reason why I am on a mission which is to help others experience for themselves the joy that comes from the gospel and to come closer to Christ. It was also a good reminder that God is aware of us individually and helps us in very different ways according to our needs.
+
+Anyways, it was also super fun because on Friday and Saturday we had exchanges! I was companions with Sister Harris for a day and Sister Bull was companions with Sister Fisher for a day. Me and Sister Harris went to Paneras and got some delicious food. Then we went door knocking. The first few people just opened the door and said no right off the bat without even listening to what we had to offer. Then further down the street it was so cool because we saw a door that had a fairy on it and a sign that said ring here and an arrow pointing down. I found my new favorite doorbell! In order to ring it, you turn a knob on the door and a bell sounds. It was the most unique doorbell I had ever seen! Then we walked a little further and saw a really cute house with a willow tree like the one in Pocahontas in front of it. It was so cool because a guy named Justin opened the door and he was super nice. He let us share a message and then we saw his grandma come to the door. We were scared that she would shoo us away, but she was also super nice! Then we went back to the apartment after taking pictures in front of corn.
+
+The next day we had a really cool lesson with Dodalina! She is super nice and we had a really good discussion! After our lesson, we knocked more and then got Cwalhens which is an ice cream shop. It was really good, but I was so full afterwards. Then we ended exchanges and me and sister Bull went to the BBQ <i>(Dad - at an activity with their ward)</i> which was pretty fun! I was too full for the food, but we got to talk to a lot of people in our ward!
+
+That was pretty much all that I did this week! I hope you all have had a great day!
+
+Sister Jensen
+
+P.S. Photo Descriptions!
+
+1. Sister Brockbank, Malda, and Sister Giles at Malda's baptism  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/FB_IMG_1660697163532.jpg)
+
+2. Exchanges!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220820_163220.jpg)
+
+3. A cool plant I saw near the cornfield  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220819_194158.jpg)
+
+4. Me and Sister Harris in front of the cornfield  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_597917852006549.jpeg)

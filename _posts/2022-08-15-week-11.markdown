@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Mission Email Week 11"
+date:   2022-08-15 12:45:00 -070
+categories: mission
+---
+Hi everyone!
+
+This week has been amazing and way too fast! I feel like I just wrote my last email two days ago! On Monday, I went to the Valley Forge National Park and walked around! It was so pretty and it was cool seeing a place so important to the history of the United States! I took way too many pictures haha.
+
+It was so cool because Malda's baptism was on Sunday! I got to see it over zoom! I was a crying mess though because I was so happy for Malda and I really missed her and the rest of the Morrisville Ward.
+
+On Tuesday, I ate way too much. I had Hulal with my district for our district council meeting which was really good, but it was a lot of food. I had also made zucchini bread with the zucchini Steve gave us the week before. Then we had dinner with the Greens and we had a three course French meal. It was delicious, but there was so much food! By the time I made it to my second quiche, I was so full I felt sick. That night I threw up. I decided after that I would control my diet better and not eat so much haha!
+
+Funnily enough though, the next day we went to Shrikant's Indian restaurant and got way too much food there. He gave us more than we asked for. It was really good, but we were so full afterwards! Oh yeah, I forgot to explain! Shrikant is someone we are teaching! Oops haha!
+
+Anyways, after that we were better with food at Sister Wolfe's house and the Rothey's house. We also had dinner with the Coldacina's and had a lesson with Shrikant after. Anyways, that was a lot of food this week.
+
+Other than food, missionary work has been going good! We have been having so many miracles with tracting! I feel like every time we go out we find two people who are interested who let us share a message!
+
+One day, we went out and were heading to one place then accidentally got lost. We knocked at a neighborhood and met a man named Jack. He was super nice and offered us some Gatorade and fizzy water! He then referred us to his neighbor across the street. It was an 80 year old man playing basketball. Apparently, he had a world record for free throws or something like that in basketball! Sister Bull learned some tips from him haha! We also met this nice lady named Debbie! It was also so cool because one day after eating with the Rothey's we normally stay super late and talk, but we left early to go park finding. As soon as we made it to the park and were getting ready to walk around, we heard a car struggling to turn on. We were able to help this guy named Michael and his family jump start their car. It was so cool because had we left too early or too late, we wouldn't have been able to help them! We also gave the zucchini guy Steve some zucchini bread and he texted us and said thanks even though he originally didn't want to give us his number! I had a funny moment this week because we were tracting and walking down the street one night at 8pm and this nice couple said hi. I was so embarrassed because I responded with "Good Morning!" I guess I still have work mode or just don't have a sense of time anymore 😅
+
+We also had a really cool lesson with Jim this week! We talked about faith and how we can increase our faith as we pray and read scriptures and experiment upon the word. It was really good! I also played him a song on the ukulele which really connected with him! He is a drummer and does music for his work! It's super cool!
+
+Speaking of miracles and faith, this week, I have been learning a lot about miracles and I found a really cool scripture that I wanted to share in Moroni 10:23-24. It says "And Christ truly said unto our fathers: If ye have faith ye can do all things which are expedient unto me. And now I speak unto all the ends of the earth—that if the day cometh that the power and gifts of God shall be done away among you, it shall be because of unbelief." I think this is so interesting because I realized that it is easier to believe that Jesus did miracles and that they happened in the past, but it's harder to believe that they will still happen today. It's a good reminder that we receive miracles after we have faith that they will happen. Faith or believing in God and His power even though we can't see it right now is so important!
+
+Anyways, I should probably sign off! I still have shopping to do!
+
+-Sister Jensen
+
+P.S. Here are the picture descriptions for the week!
+
+1 After dinner with the Rothey's with the Hermanas  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_471357214447285.jpeg)
+
+2 After dinner with Sister Coldacina and Shrikant  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_394932306095815.jpeg)
+
+3 Valley Forge Monument  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220808_142434.jpg)
+
+4 This is what the soldiers slept on  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220808_145218.jpg)
+
+5 All the tissues from after Malda’s baptism haha  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220814_134912.jpg)
+
+6 I made a sunflower bag for Sister Bull  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220814_181405.jpg)
+
+7 Another monument  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220808_135835.jpg)
+
+8 Baking zucchini bread and cookies  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220809_213212.jpg)

@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Mission Email Week 10"
+date:   2022-08-08 06:38:00 -070
+categories: mission
+---
+Hi everyone!
+
+This week has been crazy! Sunday was transfer announcements, and they said that none of us here were going to be transfered. We were really excited! On Monday we did a cool service project with our district and said goodbye to everyone who was leaving. Elder Oliver gave sister Brockbank his guitar and me his ukulele and I was super excited to play it!
+
+We also had a cool lesson with James on Tuesday. Josh Ware, one of the young men in our ward joined the lesson. He is going on a mission soon! After the lesson, we went around the neighborhood next to James's house and knocked some doors with Josh. At one of the houses, we met a really nice lady named Tammy! She said she was busy but that she would be available later that day. We came back after dinner and shared a message with her. She was so excited to hear the message and we set up an appointment for later this week. We also ran into a bunch of other people who were really nice and let us share a message with them.
+
+On Wednesday, we went to the Hart's for dinner. They had some really good insights and cautioned us to not burn out as missionaries and to stay strong after our missions. I really needed that because I have been feeling kind of empty spiritually lately. I started a new goal to do something to strengthen my own testimony each day before going out to strengthen other people's testimonies. It was so sad though because we were leaving after the Hart's to go to a lesson with Rob and he said he was done coming to church and having lessons with us. Then 5 minutes later we got a call from the assistant missionaries to the president. They said I was emergency transfered to Valley Forge because a sister never made it to the mission from the MTC. I was really sad to leave Morrisville. My companions took me to Walmart though and we got matching rings and ice cream.
+I packed up my things and the next morning I headed out to Broomall to meet my new companion.
+
+At first I was really sad, but my new companion is awesome! We connected really quickly! It was amazing because we saw so many miracles the last 3 days! We balance with each other speaking and our tracking <i>(Dad - tracting, or going door to door)</i> has been going really well! So many people have let us share a message and we found at least 5 or 6 people who were interested in the Book of Mormon! It was so funny because one time we were talking to a man who was interested in having a copy of the Bible and the Book of Mormon and so we gave him one and were about to leave. It was so funny because he ended up randomly giving us some veggies from his garden! Later in the week we also had a lesson with one of our friends named Charles! He randomly gave us Chick-fil-A which was apparently not normal for him. It was a good lesson!
+
+Also church was really good! It's kind of cool because half of our ward speaks Spanish, so me and Sister Bull share the ward with the Spanish sisters. This gives me a great opportunity to learn more Spanish! After church, we also had a great member meal with the Moores! It was so fun!
+
+Anyways, that's pretty much all so far this week. I'm still a little sad that I left Morrisville and all the people there, but it has been amazing here and Sister Bull is so great! I have never been able to talk very much at lessons until coming here!
+
+I appreciate all of the prayers and support from you all! Have a great week! Feel free to send emails to me throughout the week!
+
+Sister Jensen
+
+Photo Descriptions
+1 Last hoorah with the trio  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220803_191326.jpg)
+
+2 Meeting Sister Bull  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220804_154559.jpg)
+
+3 A fun walk  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220805_073806.jpg)
+
+4 Next to a beautiful river  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220805_073923.jpg)
+
+5 The river  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220805_073758.jpg)
+
+6 Selfie time  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220806_095121.jpg)
+
+7 Lesson with Charles  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220805_191548.jpg)
+
+8 Cool train tracks from our walk  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220805_075355.jpg)
