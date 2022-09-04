@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Mission Email Week 13 - Fifteen Minute Miracle"
+date:   2022-08-29 08:02:00 -070
+categories: mission
+---
+What's up everyone? I have the answer... the sky. Sorry about that. I am in a super weird mood this week because it has been all over the place! Also, I decided that my emails are a little boring so I wanted to spice it up a bit haha.
+
+Monday was pretty fun! It was our district p-day and we went to the King of Prussia mall which is a super big mall. We walked around to a whole bunch of stores and I got a selfie with a giant stuffed bear! It was super fun! We also ended up getting lost which was kind of fun. That night was a little crazy because we had dinner with Shrikant for a lesson. It didn't go very well. We tried to teach about the gospel of Jesus Christ and give him a soft baptism invite because we both felt like we needed to do that last time, but ironically this time we both felt like we needed to teach him the Plan of Salvation, but we went forward with our original plan and it didn't go super well.
+
+That didn't start our week off very good and so on Tuesday both me and Sister Bull were feeling down. That day we felt like we didn't get a lot done and it was kind of a hard day. It did end pretty good with a fun member meal with the Engles at Mod Pizza! They are so sweet! We had a really cool discussion about family history! I love family history! I think it is so cool how we have so much technology available to find our ancestors and learn about them. I love learning about them. I wish I had more time as a missionary to do family history work, but its ok because I can use this time to help others discover the joys of finding their family and doing family history work. Anyways, that night, tracting was a little hard. No one let us share a message and one lady rejected us harshly saying "get off my property now!" That was a little rough.
+
+Anyways, Wednesday was much better than Tuesday. We got to help out at the Food Pantry at daily bread which was fun! Then we had a good lesson with Charles!
+
+Thursday was a little more rough. We ended up dropping at least 5 people from our teaching list including Chad. His mom got on one of the calls and told us to stop contacting him. He was one of our most interested friends we were teaching. That day, Tony also texted and said He was done having lessons with us. We also dropped a few other people who hadn't been responding to our messages. It was a sad day.
+
+Friday was a little better. We were able to go to the temple to do service and so we got there early so we could do personal study and have lunch there. For lunch we went to the love park and it was the weirdest lunch I have ever had! We were just sitting there eating our food and on one side there was a mini protest with some people shouting through megaphones and 10 police officers sitting in front of a building watching and on the other side a girl in a swimsuit was walking her pet alligator through the fountains! Lets just say, I was not expecting lunch to be that crazy! We left lunch and had our zone call at the temple visitor center and then we went to the roof of the visitor center to do our personal study. My study there was really good! I felt like Heavenly Father really helped guide my study and I learned a lot about covenants! It was so cool! Serving in the temple was so good! It made the hard things from the day before a little better. Then we had a good member meal with Sister Wolfe! It was really good! Knocking afterwards didn't go so great, but that is ok. We ended up getting in contact with two people who hadn't responded for a while during phone call time.
+
+On Saturday, we had the best day ever. It was filled with so many tender mercies and miracles! We made a goal earlier that week to find 10 people who were interested in hearing more about the gospel that week and we had only found 2 at this point. We decided that on Saturday we would work harder and put in more effort for finding. We knocked for 4 hours and we were able to find 4 people who were super nice and were interested in hearing more! We were definitely guided because we were going down one street, but Sister Bull had a feeling to turn onto a different street. We started going and almost no one answered the door. We made it to the second to last house on the street and it was a miracle because the lady named Jane and her daughter Faye were both interested in hearing about the Book of Mormon! We left knocking feeling so excited about missionary work and went to a lesson with Jim which was super good! After the lesson, we started driving to go home because our lesson went over time. I remembered that we had planned to go knocking and I asked Sister Bull if we still wanted to go knocking. She decided that it would probably be good if we knocked even if it was only 15 minutes and we stopped at the nearest street. We started knocking and about 6 doors in we met this really cool guy named Joey! He was so excited about our message and was genuinely interested in what we had to say. He also had so many questions for us and then shared his whole life story of how he came to believe in Christ and have a better relationship with Him. I think it was no coincidence that I had that thought or that we stopped right at that street. We are super excited to teach him! We also hope his wife is interested as well! It was so cute because he had his little dog tied to his motercycle and apparantly we had caught them 2 hours after they had just gotten back from the hospital with their new baby girl! So cute! I am seeing so many times when the Lord has led me and sister Bull to the people we need to see and it is so amazing! I am so glad to be a missionary!
+
+Yesterday, we had a fun member meal with the Rotheys! They are so fun! We also had Stake Conference which was super good! Most of the talks were about covenants or two way promises with God and how they can draw us closer to the Savior and give us more power in our lives! It was so cool! I know that as we make these covenants with God through ordinances like baptism that we can find more strength and peace in our lives and come closer to God! I have felt this in my own life as I have made some of these covenants with God!
+
+Sorry this is such a long email! There was a lot that happened this week! Hopefully I didn't bore you all with so many words! Have a great week!
+
+-Sister Jensen
+
+P.S. Photo Descriptions
+1. Me in front of the temple  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220826_160644~3.jpg)
+
+2. Me in the mall  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220822_112913~2.jpg)
+
+3. Sister Bull and I in front of the temple  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220826_160712.jpg)
+
+4. Me and Sister Bull at the Love Park  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220826_104110.jpg)
+
+5. A beautiful day!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220822_192738.jpg)
+
+6. Me and a giant stuffed bear 🧸 😄  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220822_110713.jpg)
+
+7. Sister Bull and I with the Hermanas at the Rotheys  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_476606027341081.jpeg)
+
+8. Having dinner with Shrikant  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220822_203119.jpg)
+
+9. District Preparation Day at the mall  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220822_105141.jpg)
