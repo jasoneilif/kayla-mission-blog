@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Peacemaker Talk 7/22"
-date:   2022-07-25 10:42:00 -070
+date:   2022-07-25 10:42:00 -0700
 categories: mission
 ---
 Here is my talk from last Sunday! I had this written on paper and quickly typed it out on my phone, so it might have problems like grammar or incomplete thoughts. Hope you enjoy!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mission Email Week 12"
-date:   2022-08-22 07:28:00 -070
+date:   2022-08-22 07:28:00 -0700
 categories: mission
 ---
 ¡Hola mi familia y mis amigos!

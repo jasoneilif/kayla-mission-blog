@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mission Email Week 8"
-date:   2022-07-25 10:42:00 -070
+date:   2022-07-25 10:42:00 -0700
 categories: mission
 ---
 Happy Pioneer Day everyone!

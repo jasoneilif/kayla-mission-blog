@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Mission Email Week 14"
+date:   2022-09-05 06:16:00 -0700
+categories: mission
+---
+Buenos dias friends and family!
+
+This week has been so good! On Monday, we had another dinner lesson with Shrikant at a really good Mexican restaurant called Plaza Azteca. It was super cool because they made the guacamole on a cart that they brought around to the tables. The lesson went a lot better than our last lesson with him. Everything about the lesson went well except for the fact that we had already had dinner with the Millers that night. He insisted though so we went and split a fish taco meal. It was pretty good! He gave us the leftover guacamole and spicy sauces and we took that home. 
+
+The next day was district council and that was pretty good! We also made disgusting egg flavored bread for our friend Charles at his request. It was a special Keto bread for Charles' birthday so he could eat it, but it was so weird! It tasted like the egg skin at the bottom of the pan when you make scrambled eggs. He said he liked it though,  so I guess that's all that matters. We also had dinner with the Nielsens that night which was so fun! They have a cute little 1 month old baby and a little 3 year old. They were both so cute! That night we broke out the guacamole and habanero sauce. Sister Bull knows I like spicy things so she challenged me to drink the spicy habanero sauce. She took a video to see if she could get a funny reaction to the spice. Funnily enough it didn’t really affect me other than the fact that I ended up drooling. It was so funny! I was definitely not expecting that!
+
+The next morning I had a sore throat and a stuffy nose. The first thought I had was COVID so I called Sister Gatrell, the health coordinator for the missionaries, and she set up a COVID test appointment. Soon after calling, Sister Bull asked if I had drunk water after drinking the spicy habanero sauce and I said no and drank some water. My sore throat and stuffy nose went away. Sadly, I had to take the day off from going places because I didn’t know for sure if I had COVID or not, so I had to miss the food pantry service and we had to cancel our dinner appointment which actually turned out fine because she was going to cancel it anyways and the Young Women in our ward were so nice and made us dinner for their youth activity. We picked it up that night and there was a whole tray of lasagna, a whole tray of brownies, and a bag of salad and bread. It was so much food that we still have some lasagna and bread! Sadly the day was really long and hard because we had to stay indoors for safety purposes. I did get to give myself a test which was kind of weird and fun. We also got to crochet to post on a Facebook page which was unique!
+
+The next day, I got my results and it was negative. I guess I had spicyitus haha. Since I was negative and had no more “symptoms” of being sick, we went on a district blitz which is where all the other missionaries in our area go and knock in one neighborhood. We were expecting to find a lot of people who were interested, but we found only one person. Everyone was pretty nice though! It was cool because we met someone named Lee. He said to come by later, so we might do that sometime when we have time. After the blitz, we headed over to Chintina’s house for a lesson. It was so good! We could really feel the spirit during the lesson and it was so fun talking with her about our purpose here on the Earth and where we are going after we die. I love how there is so much hope in the gospel. Heavenly Father allows all of his children to have the opportunity to learn about His gospel and to choose to follow Him or not. I also love the hope the Savior brings! As humans, we die and sin because we live on a fallen world and have agency to choose, but through Jesus all people will be alive again because He conquered death and pain when He rose from the dead. Also, when we choose to follow Him and repent or change through Christ, we can be forgiven of our mistakes and return to live with our Heavenly Father. Anyways, that lesson with Chintina went so well, and she even gave us orange juice that she had made herself! It was so good! 
+
+On Thursday, it wasn’t a super eventful day, but we did missionary work and weren’t out of it, so that was good. It was a little sad though because we had our last dinner with the Wolfe's because they moved this week. It was so fun being with them one last time!
+
+On Friday, we had a lesson with Joey which was super good, although I think we left him with a lot of information at once. Hopefully we didn’t overwhelm him! He said he wants to meet again though, so I guess it wan’t too bad. 
+
+On Saturday, it was a good day! We met a nice lady named Dale who ended up talking to us for a while haha. We also had a lesson with Jim which went very good! We invited him to pray to know for himself that God is real. Faith is an action and in order to increase our faith we have to exercise it by acting such as by praying, living a commandment or reading the scriptures. After we put in this effort and have faith, then we are able to receive a witness of the truth. I hope Jim has taken our invitation to heart. This gospel has brought me so much joy and Jim really needs more joy in his life.
+
+Sunday was such a good day! I had a really good personal study about the Old Testament temple of Soloman and Tabernacles. We also had a really good lesson in the second hour of church. Sister Bull and I helped teach 3 minutes of the youth lesson. It was about how two are better than one. It was so cool thinking about how we can be one or unified with the others around us as we turn to God and follow Him. We might have differing views and it might be hard to get along, but as we align our wills with God's will and help each other and serve like Jesus did, we can get along better and overcome differences. Here is the scripture that goes along with that part of the lesson: Ecclesiastes 4:9-10
+
+4:9. Two are better than one; because they have a good reward for their labour.  
+4:10. For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up.
+
+Anyways, I hope everyone has a wonderful week!
+
+-Sister Jensen
+
+
+Photo Descriptions
+1. Eggbert the keto egg bread buckled up and ready to go  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220830_160631.jpg)
+
+2. A beautiful rainbow on a rainy day  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220830_190902.jpg)
+
+3. Our crocheting creations  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220831_181955.jpg)
+
+4. Dinner from the Young Women!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220831_204040.jpg)
+
+5. Fun with the hermanas!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220818_205946.jpg)

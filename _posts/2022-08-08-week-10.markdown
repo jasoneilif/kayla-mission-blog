@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mission Email Week 10"
-date:   2022-08-08 06:38:00 -070
+date:   2022-08-08 06:38:00 -0700
 categories: mission
 ---
 Hi everyone!
