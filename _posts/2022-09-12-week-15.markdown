@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Mission Email Week 15 - Rainbows after the rain"
+date:   2022-09-12 11:23:00 -0700
+categories: mission
+---
+Hi again!
+
+This week has been kind of crazy to be honest! It has been raining almost every single day this week, but it has been pretty fun! Also, there have been so many miracles!
+
+On Monday, we had a really good lesson with Shrikant! We had been really struggling to know how we could help Shrikant and we weren't sure where he was at. We tried to talk to him about temples, but that didn't go very well. We were at the Coldecinas and Sister Coldecina started to ask him about the Restoration and he didn't remember anything from that lesson! It was a major breakthrough! We started to reteach him about the Restoration and it was so powerful. I could really feel God helping me say what I needed to say. I recited the account of the First Vision from memory for the first time in that lesson, and I could definately feel the spirit guiding my words. It was so good especially after having a not so good p day.
+
+On Tuesday, it was raining hard when we went to district council and the highway was closed due to flooding. I have never experienced that much rain at a time! There were little rivers going down the street! After district council, we went to Chintana's house for a lesson. It was really good even with the dog and her granddaughter being kind of distracting haha. We got in the car and all we could smell was dog. Sister Bull looked at her skirt and realized that the dog had used her skirt as toilet paper. It was so funny! That is the second time we have run into doggie doo doo. I think I forgot to include this in my email, but a few weeks ago, I stepped in dog poo at a member's house with my bare foot. I was very surprised! It came right off though so that was good. I felt bad for the members because they probably felt really bad. Fun times!
+
+On Wednesday, we helped out at Daily Bread again! It was really fun because we helped out in a different area and it was really fun! I love serving!
+
+Saturday was kind of hard because after knocking for a while, I felt like falling over. I think it was a combination of dehydration and heat exhastion. We decided to get some water at Wawa and go home. I crashed for 2 hours sleeping, but I felt better afterwards.
+
+On Friday, it was so good! We went to the temple to serve and it was so good! Later that night we ended up going to the Garcias for dinner and it was so good! Word got out that I knew how to play the piano and they asked me to play something. I improvised a song and it was so cool! Later yesterday, I got to write another song to share the gospel and it was such a good experience! I think I am realizing that I can use my talents to share the gospel! It was such a cool experience!
+
+Anyways, I should probably sign off! Have a great week!
+
+-Sister Jensen
+
+P.S. Here Re the photo descriptions! 
+1. Fun with the hermanas!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_404169798466547.jpeg)
+
+2. Ukulele pictures!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220910_130805.jpg)
+
+3. Cool picture I took on a walk  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220910_080945.jpg)
+
+4. Me and Sister Bull  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220908_210606.jpg)
+
+5. Next to the brown river haha  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220906_164929.jpg)
+
+6. Matching pants! Ninja go!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220905_143741.jpg)
+
+7. After a walk in the woods  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220906_171453.jpg)
+
+8. Guacamole night!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220907_171353.jpg)
+
+9. At the Garcias! :)  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_409734041309053.jpeg)
