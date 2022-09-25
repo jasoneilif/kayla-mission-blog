@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "Mission Email Week 16"
+date:   2022-09-19 14:39:00 -0700
+categories: mission
+---
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v15.0" nonce="xaQqSb3N"></script>
+
+<div class="fb-video" data-href="https://www.facebook.com/100066853792117/videos/1435757326934198/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/100066853792117/videos/1435757326934198/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/100066853792117/videos/1435757326934198/"></a><p>I&#039;m proud to present Kayla Jensen&#039;s original song &quot;Promised Land&quot;! This song is about Nephi and his family traveling through the wilderness, told from the perspective of Nephi&#039;s wife. 
+
+Nephi and his family were told by the Lord to get out of Jerusalem because it was prophesied that it would be destroyed. They had to leave everything that they knew; their comfort, their home, their friends and travel into the unknown. They had to put their trust in the Lord.
+
+1 Nephi 17:13
+
+Put a 🌊 in the comments  if you want to hear more!👇👇👇
+
+#PromisedLand #Nephi #Jesus #Trustinthelord #music</p>Posted by <a href="https://www.facebook.com/people/Ellie-Bull/100066853792117/">Ellie Bull</a> on Tuesday, September 20, 2022</blockquote></div>
+
+Hello friends and family! 
+
+This week has been filled with change, learning, and growth! This last week was transfers and I am fortunate enough to stay in the Valley Forge 2nd area! I am super excited to stay here another 6 weeks! This was Sister Bird's last week here in her mission though. She left behind a legacy of service and love here in the Pennsylvania, Philadelphia Mission! On Monday, we said goodbye to Sister Bird for the last time at Sister Rothey's. We had a goodbye party for her! At the party, Sister Rothey told a fun story about her life which I thought was pretty cool! Then we left and said our goodbyes to Sister Bird. It was sad, but I am so excited for her to bless the lives of those in Utah! She will do so many great things!
+
+Tuesday was transfer day so we didn't have district council. We had extra time to do finding though. That day was really hard to be honest. I woke up feeling ok and we did our missionary activities, but by the end of the day, I was emotionally drained and all over the place. I honestly don't know what happened, but by the next day I was fine again. 
+
+On Wednesday, we served at daily bread again and it was really fun! Sister Whitehead got stung by a wasp though so that was crazy! There were so many wasps swarming the carts we would bring to the people! On that day, I met Sister Pattersen who is the new Hermana in our zone! She is so fun! 
+
+Saturday was so good! We woke up with smiles on our faces and we were ready to get to work! we knocked for 4 hours which might have normally been exhasting, but we actually had a lot of fun! I wasn't even tired until I sat in the car and realized my back was so sore! I think this extra energy had to do with my super good personal study that day. I watched a video about Finding Faith in Christ. It was so good because it depicted Jesus's life events of him healing the sick, suffering for us, dying on the cross, and living again! I will put the link to the video <a href='https://www.churchofjesuschrist.org/study/video/feature-films/2004-01-01-finding-faith-in-christ?lang=eng'>here</a>.
+
+I would highly recommend it! 
+
+Speaking of personal study, my personal study has been so good! I have been studying Isaiah and I hve realized how much I love Isaiah! Normally, I would be confused and skim over his teachings in the Book of Mormon, but I decided to take it slow and actually try to understand it. I am beginning to love and understand the teachings of Isaiah! One of my favorite verses that I studies this week is in 2 Nephi 8:22(Isaiah 51:22). It says "Thus saith thy Lord, the Lord and thy God pleadeth the cause of his people; behold, I have taken out of thine hand the cup of trembling, the dregs of the cup of my fury; thou shalt no more drink it again." We often have trials or other pains in our lives either because of outside forces that we can't control or because of bad choices we made, but through Jesus Christ, these pains can be taken away whether in this life or the next.
+
+I also love Isaiah 26:19 which says "Thy dead men shall live, together with my dead body shall they arise. Awake and sing, ye that dwell in dust: for thy dew is as the dew of herbs, and the earth shall cast out the dead." Christ also made it possible for us to live again someday. Death is not the end! I think the use of herbs is significant because they are savory and have healing qualities most often. Savior is only one letter off from savor and He is our healer! I also think the use of dew is significant because water is necessary for life and dew seems to come out of nowhere. Dew also comes right as the sun begins to rise. Christ is like the sun. When He rose from the dead, He brought this living "dew" to all people. He gives us life and this life He offers us comes from a source we cannot reprodcuce on our own. I love the scriptures!
+
+Anyways, on Sunday it was crazy because I was at a potluck for Josue a member from the Valley Forge 2nd ward because he is serving a mission like I am and at this potluck, I saw a Synica Jensen get stung by a wasp twice! That makes two times I have seen someone get stung by wasps in a week! I also had the opportunity to write a song with Sister Bull on Saturday which was super fun! We should be posting that sometime soon!
+
+Anyways, I miss you all and hope you have a good week!
+
+-Sister Jensen
+
+Photo Descriptions:
+1. Before a lesson with Charles  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220916_184558.jpg)
+
+2. We found a castle while knocking!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220916_145408.jpg)
+
+3. Cool picture of Sister Bull   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220915_163344.jpg)
+
+4. With Hermana Patterson and Hermana Whitehead   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_411139907780890.jpeg)
+
+5. Making a transfer board with cookies!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220913_142117.jpg)
+
+6. Fun knocking doors!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220915_163317.jpg)
