@@ -25,7 +25,7 @@ My tears are falling to the ground.
 My children, they follow me,  
 but where are they following me to?  
 Falling down, upon the ground.  
-Soon the sun will rise.  
+I don't know when the sun will rise.  
 I will give it some time!  
 
 Trust in the Lord!  
@@ -51,7 +51,7 @@ I'll trust in the Lord!
 Trust him with all,  
 all of my heart,  
 all of my heart.  
-I'm starting to see, the light he sheds for me.
+I'm starting to see, the light he shines for me.
 
 I'll trust in the Lord!  
 Trust him with all,  
