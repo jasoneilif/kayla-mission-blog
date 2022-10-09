@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Mission Email Week 18"
+date:   2022-10-03 14:08:00 -0700
+categories: mission
+---
+Hi everyone!
+
+It's been a fun week! I had the opportunity to watch the prophet and apostles of the church speak in general conference this weekend! There were so many good talks! If you haven't watched it already, here is the link to one of the sessions!
+
+https://www.churchofjesuschrist.org/study/general-conference/2022/10/sunday-morning-session?lang=eng
+
+I am so grateful to live in a time with living prophets! I know that President Nelson is the prophet on the Earth today and that he speaks the words of Christ! I have personally found a lot of peace and direction for my life this general conference!
+
+It has been really rainy this week and Sister Bull was sick so we spent a lot of time indoors. We did have a lesson with An which was ok, but it was a little awkward We also did a lot of phone calls!
+
+It was funny because one day we were knocking some doors in the rain and I had a funny encounter with a spider. There was a spider next to a doorbell, but I decided to ring it really fast so the spider couldn't get to me, but as soon as I rung the doorbell, the spider jumped! It was dark so I didn't see where it went. I'm glad there wasn't anyone at that house or around because they would have been confused by the lady at the door freaking out and saying "ahh!" haha.
+
+We also had a surprise gift from our friend Charles! He was so nice and got us both some really cool boots! Now I have some boots for the Winter! 
+
+I just remembered that I also had zone conference this week! It was really fun! We heard from our mission president and some other missionaries! It was really good! We also had some Costco pizza! Poor President Harding had been on a pizza diet for 5 days haha! Speaking of pizza, we also had a really fun meal with the Sheltons and the hermanas! It was so funny because it was double pizza for the day! Anyways, at zone conference, we also got new devices in our cars to help keep us safe. I don't like them as much as the old ones because they are so quiet you can't hear them and they are behind the sun shield now instead of close to the dashboard. It's ok though! Oh yeah, it also has cameras and a microphone which is new. They aren't using it yet, but they will eventually.
+
+Oh yeah, I have now been a missionary for officially 4 months! I can't believe how fast time is going by! I celebrated with a mini apple pie!
+
+I think that is mostly what happened this week. I am losing my memory of the week more and more and it goes by so fast! I hope you all have an amazing week!
+
+-Sister Jensen
+
+Photo Descriptions
+1. Zone conference!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/FB_IMG_1664735994909.jpg)
+
+2. Having fun in the rain  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221002_192059.jpg)
+
+3. One day we brushed our hair and it was so poofy 😆 lol  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221001_224352.jpg)
+
+4. Charles gift of boots to me and Sister Bull  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221001_183056.jpg)
+
+5. Our general conference setup  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221001_113840.jpg)
+
+6. A cool braid I did on Sister Bull  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220930_220625.jpg)
+
+7. After dinner with the Sheltons?  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_1492084614637296.jpeg)
+
+8. Dressed up for a rainy fall!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221002_202345.jpg)

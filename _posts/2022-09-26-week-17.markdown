@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Mission Email Week 17"
+date:   2022-09-26 16:47:00 -0700
+categories: mission
+---
+¡Hola mi familia y mis amigos!
+
+It's been another rollercoaster ride! I must be in an amusement park or something!
+
+On Monday, I got to clean the temple with a whole bunch of other missionaries and it was so uplifting! We moved a whole bunch of furniture and raised up a giant thing of carpet. It was really scary though because the things holding up the carpet gave out and almost hurt one of the temple workers. She seemed okay though.
+
+Tuesday was a little more rough because after District Council the elders told a scary story which left me in a negative mood. I just felt really dark and felt like my heart was a stone. I ended up reading about Joseph Smith and how before he prayed to God, he was surrounded by Darkness and his mind was filled with inappropriate thoughts. He cried out to God In Prayer and after doing that he saw a pillar of light and Heavenly Father and Jesus Christ. I know that Jesus Christ is the light and life of the world and that when we feel dark when we turn to him he can fill our lives with light. 
+
+On Wednesday, we went to the food pantry for service again and then we knocked doors. It was unsuccessful though because the Jehovah's Witness missionaries had already stopped by that neighborhood and no one wanted to listen. It was really fun though because afterwards we went to the Engle's house for dinner for Sister Amberson's birthday. The food was so good and we had a really fun time talking with them.
+
+On Friday, we had interviews with President Harding which were really good! President Harding is a really good mission president!
+
+On Saturday, it was a really good day! We had an amazing lesson with Chintana! She is so sweet! She gave us more home squeezed orange juice! 😋 She is also planning on coming to church with us on the 9th! We taught her about the gospel of Jesus Christ and about how she can be with her husband Hank again and that through God's power or the Priesthood, she could be sealed to her husband in marriage for eternity. She asked "You honest?", and we happily replied "Honest". I am so grateful for this knowledge that families can be together forever! After that we went to Jim's house for a lesson about the Word of Wisdom or God's law of health and about how important it is to take care of our bodies! Then we went to Joey's house to see if he was okay since he hasn't been responding to messages and he was home! It turns out he was just busy. Then we finished off the day having a lesson with Charles! He was nice and got us Chick-fil-A! It wasn't the best lesson, but that's ok!
+
+On Sunday, we had a really great testimony meeting! It was great hearing from the members of the congregation! I am super excited for General Conference coming up when everyone can hear from the prophet and apostles! I always feel more spiritually uplifted and committed to do better afterwards! Later that day we went walking around the Valley Forge National Park to see if anyone was interested. We ended up meeting An! He is super cool! We are going to try setting up a lesson with him tomorrow! After that we started taking to this guy who invited both of us to go rock climbing which we said no to because we can't go rock climbing and we were worried he was trying to ask us on a date. Funnily enough, later that night while we were doing social media finding, a girl tried asking me out too over messanger. It was so weird! It also rained a lot on Sunday which was really fun! I stood on the balcony and got kind of wet haha! It was also fun because Sister Bull caught a toad and taught it about Jesus
+
+Anyways, I can't think of anything else that happened so I will sign off! Have a great week everyone! 
+
+- Sister Jensen
+
+
+Photo Descriptions
+1. This is the toad we taught haha  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220925_191517.jpg)
+
+2. Fun day walking around!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220925_185451.jpg)
+
+3. Beautiful sky  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220925_182452.jpg)
+
+4. I crocheted a doughnut! 🍩   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220925_164138.jpg)
+
+5. Having fun knocking doors!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220922_162621.jpg)
+
+6. We found a secret library!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220922_161303.jpg)
+
+7. My district after district council!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_1068339554051456.jpeg)
+
+8. A cool caterpillar we found!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20220921_164320.jpg)
+

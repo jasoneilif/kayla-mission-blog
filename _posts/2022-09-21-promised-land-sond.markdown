@@ -50,7 +50,7 @@ and let him lead.
 I'll trust in the Lord!  
 Trust him with all,  
 all of my heart,  
-all of my heart.  
+all of my heart. (Now I am start)  
 I'm starting to see, the light he shines for me.
 
 I'll trust in the Lord!  
