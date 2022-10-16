@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Mission Email Week 19"
+date:   2022-10-10 08:10:00 -0700
+categories: mission
+---
+Hello friends and family!
+
+This week had some good moments, but let me tell you, it was like trying to swim up a river!
+
+Sister Bull was sick at the beginning of the week and soon after she got feeling better,  I got sick. It was really hard too because Sister Bull's grandpa was sick. I didn't know how to help and the stress was high. I felt really depressed at the beginning of the week. It was also hard because we had to cancel a lot of our lessons because we were sick.
+
+On Sunday, Sister Bull's grandpa died. Even though it is most certainly a very sad occasion, it was so hopeful to remember God's plan for us. I know that death is not the end and that someday our spirits will reunite with our bodies in a perfected form. There will be no more death and we will be able to see our loved ones again. Even with this hopeit is still hard parting from loved ones for a time. If you could still keep Sister Bull and her family in your prayers, that would be great.
+
+I honestly don't have too much else to say except that we had a really wonderful sacrament meeting at church and it was so nice hearing all the members who spoke. We also had a good discussion about covenants or two way promises with God such as the ones made at baptism (We promise to take upon us His name, always remember Him, and keep His commandments. In return He promises His spirit to be with us.) The covenants we make with God can bring His power into our lives and can help make our lives easier. It doesn't take away our problems, but it connects us with the Savior. The Savior then can strengthen us to be able to get through our trials and overcome our weaknesses. I am so grateful I have made covenants at baptism and in the temple, the house of the Lord.
+
+I hope everyone has a great week! Remember that Heavenly Father and Jesus love you!
+
+Sister Jensen
+
+Photo Descriptions:
+1. Photoshoot with Sister Bull. I had a little too much fun editing 😅  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221008_185545.jpg)
+
+2. She was doing a hero pose  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221008_185816.jpg)
+
+3. This one isn't edited by the way. So pretty!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221008_183139.jpg)
+
+4. The train tracks looked so pretty that evening!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221008_183046.jpg)
+
+5. Another photoshoot with Sister Bull   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221008_190249.jpg)
+
+6. The leaves were so pretty!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221008_190623.jpg)
+
+7. Ok, I got a little carried away with this one lol.  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221008_191021~3.jpg)
