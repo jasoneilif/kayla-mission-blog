@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Mission Email Week 20 - 20 Years Old!"
+date:   2022-10-17 14:47:00 -0700
+categories: mission
+---
+Wow, I can't believe I am officially 20! I get to spend my entire time being 20 on my mission, and that's pretty cool! This week started off a little rough, but it has gotten better and better! We had the opportunity to serve in the temple and that really helped lift our spirits after a rough couple of weeks.
+
+This Sunday, it was so exciting because our friend An came to church for the first time! He really enjoyed it and almost everyone in the ward or congregation introduced themselves to him. It was so fun! 
+
+I have a lot of birthday plans so this email is really short. Have a great week!
+
+Sister Jensen
+
+Photo Descriptions
+1 After a meal  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_1067505113947615.jpeg)
+
+2 I made a mushroom  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221014_111514.jpg)
+
+3 I made a dolphin  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221014_111318.jpg)
+
+4 Fancy biscuits and gravy meal  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221012_174206.jpg)
+
+5 Fun at service!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_804376597429166.jpeg)
+
+6 Close up of biscuits and gravy  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221012_174420.jpg)
