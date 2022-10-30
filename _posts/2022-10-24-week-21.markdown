@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Mission Email Week 21"
+date:   2022-10-24 14:43:00 -0700
+categories: mission
+---
+Hi everyone!
+
+This last week was hard saying goodbye to Sister Bull, but it was a good last week. We had exchanges on Tuesday and Wednesday and that was so fun! I was with Sister Fisher! We had a really fun time! We went to a member meal where we had some jalof rice and fried fish which was so good! The fish had bones and I was surprised when the members began eating the bones like potato chips! On Wednesday, we had a fun dinner with the Engles! They are so sweet!
+
+On Thursday, it was such a good day! Me and Sister Bull stopped by some members and ended up knocking on some doors around them and met Tom and Rubi who are really cool! Hopefully we can set up lessons with them! Later we also met this really cool member family named the Reyes who are so nice! Sister Reyes' granddaughter Wanda is so cute! She showed me her unicorns and her Roblox game. It was so fun! We also stopped by another member named Robert! We had a really cool conversation!
+
+Sunday was kind of bittersweet seeing Sister Bull say goodbye to everyone. Sadly none of our friends came to church. We did get in contact with Chintana and Joey again though! Keep Joey in your prayers! His family is going through a lot right now and he is super busy!
+
+This week is crazy with transfers! Turns out I am companions with Sister Hewlett and she is super cool! I also have to drive which I was a little scarred at first since I spent 5 minutes trying to figure out how to start the car. Apparantly I started it fine. It was just quiet and I didn't know it had already started. I have been ok so far driving in PA haha.
+
+Have a great week and remember Jesus loves you and that you can find strength through him!
+
+-Sister Jensen
+
+Photo Descriptions
+1 The Engles and us at Mod Pizza  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221019_181415.jpg)
+
+2 Eating at Panera!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221022_172025.jpg)
+
+3 Last time for Sister Bull in Valley Forge park  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221022_081047.jpg)
+
+4 With the hermanas  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221023_113224.jpg)
+
+5 With the hermanas and their friends!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221023_112720.jpg)
+
+6 Celebrating our last day with bacon and eggs  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221024_083834.jpg)
+
+7 Having fun with Hermana Patterson  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221024_104908.jpg)
+
+8 Fancy meal!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221020_184409.jpg)
