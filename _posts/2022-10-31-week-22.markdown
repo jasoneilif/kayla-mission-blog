@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Mission Email Week 22 - Adventures With Sister Hewlett"
+date:   2022-10-31 08:09:00 -0700
+categories: mission
+---
+Hi everyone!
+
+Happy Halloween! This week has been muy loco (very crazy).
+
+On the first day of the transfer it was crazy! We stopped by some members and met some really cool people. It was funny though because after talking to Melissa, we accidentally almost went in the wrong car. I came up to the door and was super confused because the floor had tons of leaves and sister Hewlett was also confused because there was a whole bunch of random stuff. Then we realized we were in the wrong car! Luckily we took the right car haha. Later that day, we ended up stopping by Wawa and it was kind of late, but we both felt like we were missing something. Sister Hewitt suggested that maybe it was the one member that we hadn't stopped by, so we prayed about it and felt pretty peaceful about it and headed to the members house. When we got there, we realized that the house number didn't exist and while we were trying to look at it on maps in the dark on the grass because we were next to a busy street without a sidewalk, a creepy car started to slow down next to us and then proceed to turn around. When it came by the next time we started to walk very quickly to the car and then to run. We went as fast as we could and my heart was racing so fast! As soon as the car went past the street again, we started the car and turned the opposite way! Luckily we were able to get out of there pretty fast. Once we got back, we had a weird experience on Facebook Messenger. We ended up talking to this weird lady who started to overshare and said she had a husband and a girlfriend who were supportive of that situation and that she wanted to meet me too but not talk about the gospel. That was a little creepy. That was a crazy day!
+
+Sunday was so crazy and awesome! We ended up having a really cool sacrament meeting where Bishop gave a talk about having your own testimony and it was so good. Also, An came! It's so cool because he's starting to really understand the gospel and feel these feelings of peace. He actually kept his commitment to read 3 Nephi 17 and he actually understood it! We had had a really good lesson with him and the Engles earlier and it was really cool. And all of the ward members are fellowshipping him! Yay! Also, our mission president started to have baptism accountability with all of the missionaries on Sunday nights so that's been interesting!
+
+This week we had a lot of member meals. We had dinner with sister Miller and her sons and we also had dinner with the Bradleys and the Garcias and we also had lunch with Sister Weidler and Brother Grant. It was so good! I love all the members of this Ward!
+
+Oh also we had the best experience trying to get my flu shot. We tried to get my flu shot at CVS, but they were closed and didn't have walk-ins available so we ended up walking in and out of CVS a whole bunch of times and there is this guy playing saxophone in front and we may or may not have tipped him with some change and also a pass along card. Then we decided to go to Giants instead and we happened to run into none other than Joey! It was so cool!
+
+Also funny story, we ended up going to the Trunk or Treat which was kind of weird because it was so small and in the daytime, but it was still pretty cool. We weren't supposed to dress up but we ended up maybe kind of wearing princess colors. I was Cinderella and sister Hewlett was Aurora. It was so fun because we had s'mores, but one of my marshmallows fell on the ground so I picked it up but then it got on my hands. Sister Hewlett thought I would be funny if we high-fived and so we high-fived and our hands were stuck together. We were demonstrating comp Unity haha. It was so sticky!
+
+Anyways, on that note, I will sign off! Enjoy Halloween!
+
+-Sister Jensen
+
+Photo Descriptions
+
+1 Cool spiderweb!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221025_074632.jpg)
+
+2 Walk next to the Schuylkill River!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221025_074856.jpg)
+
+3 Fall photoshoot  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221029_171058.jpg)
+
+4 Photo in front of the church  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221029_171410.jpg)
+
+5 Sister Hewlett in front of the church  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221029_171432.jpg)
+
+6 Fall photoshoot with Sister Hewlett  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221029_171134.jpg)
+
+7 Companion unity with sticky fingers! 😆  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221029_181715.jpg)
