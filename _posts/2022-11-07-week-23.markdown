@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Mission Email Week 23 - Pillar of Light Literally"
+date:   2022-11-07 14:49:00 -0700
+categories: mission
+---
+Hi friends and family!
+
+This week has been one crazy week!
+
+Monday was Halloween and I dressed up as Mirabel from Encanto, but missionary style. That night we had some Walmart doughnuts and watched some videos on the church website about addiction recovery and mental health to replace our scary movie night haha.
+
+On Tuesday we had a council with our district in the middle of nowhere in a church building. It was so pretty there! We also had exchanges which were really fun! I was companions with Sister Fisher!
+
+On Wednesday we served at Daily Bread again and then later we had a really good lesson with An! He has been trying to gain a testimony of the truth for himself recently and has been seeking an answer through prayer. If you would like to pray for him this week that would be very appreciated! 
+
+On Thursday we had the opportunity to serve in the temple which was so fun! I also had a really good personal study before the temple about patience.
+
+On Friday, we planned out our week which was very needed because we had found a whole bunch of people
+
+Saturday started off a little rough, but it was cool because once I got up and tried to do the work even though I was sad, I saw so many miracles! We ended up knocking on this one street and we met this guy named Matt. He let us share a message and we began sharing the message of how the church of Jesus Christ was restored to the earth and Joseph Smith. Sister Hewlett began to tell the story of Joseph's vision of Heavenly Father and Jesus Christ saying "I saw a pillar of light exactly over my head above the brightness which decended gradually until it fell upon me." It was in this moment that the clouds in the sky departed and we had our own pillar of light. It was so funny because Matt took a quick glance back saying "What the?!?" It was a special little miracle from God. We shared the rest of Joseph's vision where he saw Heavenly Father and Jesus Christ and Matt said we could come by again! It was so cool! Here is the link to the story of Joseph's vision in case you want it!
+
+https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?id=p9-p20&lang=eng#p9
+
+Anyways, after that cool experience, we found a few others who were ok with us coming back when they weren't so busy and we started to head towards a street we had planned to knock on, but it didn't seem to exist so we parked on a nearby street. We knocked a few houses and came to the last house and left a pass along card with our number on it. It was so cool because a man who works at the house named Ray called us and said he was so happy to get the card and to learn. We called him and had a really cool lesson with him. We ended the day with another cool lesson with our friend Charles and the Sheltons! It was a good conversation about aligning our desires with God's and following Him as His sheep.
+
+On Sunday, An came to church again and it was so cool because members were talking to him so much that we didn't even have a chance to ask how his study went this week. I am so happy that the members are befriending An!
+
+Today, we got to help The Coldesinas put up their Christmas tree! It was so fun! I am excited for Christmas! Anyways, I hope everyone has a great week!
+
+-Sister Jensen
+
+Photo Descriptions
+1 Halloween movie time!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221031_203446.jpg)
+
+2 My new district!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221101_121041.jpg)
+
+3 My district in front of the church  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221101_121137_01.jpg)
+
+4 On the roof of the visitor center next to the temple  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221103_113603.jpg)
+
+5 Ditto   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221103_113627.jpg)
+
+6 In front of the temple!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221103_115852.jpg)
+
+7 Sister Hewlett and I in front of the temple  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221103_113440.jpg)
