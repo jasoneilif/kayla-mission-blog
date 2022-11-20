@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Mission Email Week 24"
+date:   2022-11-14 11:37:00 -0700
+categories: mission
+---
+Hola mi familia y mis amigos!
+
+On Tuesday we had district council which was pretty fun. It was so funny because we had a really awkward lesson with our friend Elisabet about the Word of Wisdom and law of chastity. We were introducing her to elders who would take over her teaching since she moved and so we had invited the elders on the lesson. I don't think anyone else thought it was awkward though. Me and Sister Hewlett were probably just overthinking everything haha. It was sad though because Matt wasn't able to meet with us that night.
+
+On Wednesday, service was really busy this week, but that made it really fun! It was kind of a laid back day since Sister Hewlett was exhausted, so I took some time to clean and make the apartment a better place to feel the spirit. I also had some extra time to study the scriptures! One verse I really liked was in 2 Nephi 1:15. It says "But behold, the Lord hath redeemed my soul from hell; I have beheld his glory, and I am encircled about eternally in the arms of his love." When we turn to Him, He encircles us in the arms of His love where we are safe. I love the wording of this verse!
+
+On Thursday, we had our weekly planning session like usual and then we made some pumpkin chip cookies! We literally spent 4 hours stopping by people and dropping off cookies! It was so cool, and we were finally able to get in contact with Chintana!!!! I am so happy! This time she gave us pineapple juice!
+
+On Friday, we had a mini miracle because we had started praying for inspiration on who we could reach out to and serve and I had a random thought to reach out to Dennis. The only problem is that we didn't know anyone named Dennis in our area. It was funny because literally one minute after discovering that, we got a friend request from someone named Dennis!
+
+On Saturday, it was fun because we had a lesson with Paul a returning member and the Coldesinas. He was really nice and took us all out to eat. It was funny though because we got in the car and it smelled like yogurt that had gone bad. We looked around in the car and discovered that Chintina’s pineapple juice that we had forgot to take out of the car had broken and gotten all over. Luckily the restaurant was right next to Walmart so we got some cleaning supplies and took an emergency stop at the car wash. It took a while to clean out the juice, but we finally mostly got it out. Unfortunately the smell of pineapple gone bad lingered in the car. We tried airing it out with the windows, but that didn't work, so we took a stop at a gas station and got air fresheners. That made it worse though because it just added more fruity smell on top of the other and it was so gross! Hopefully it goes away sometime! When we got back we messaged my messenger friend John Gerald and he said he went to church in his area this Sunday! I am so happy!!!! I hope that went well for him! Also, speaking of friends going to church. An has been fellowshipped by the members in so many ways. They are inviting him to so many things and it makes me so happy!
+
+On Sunday, it was so cool because we were going park finding while recording a video of the sunset for social media and we ended up meeting someone else named Ray! It was so cool and also literally so cool! It was really cold and windy! We were so excited!
+
+Anyways, I hope your all have a great week! Remember that the Savior is always reaching out and that He loves you! 
+
+-Sister Jensen
+
+Photo Descriptions
+
+1 Near the Schuylkill River!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221112_140815.jpg)
+
+2 Sister Hewlett  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221112_140832.jpg)
+
+3 Me  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221112_140846.jpg)
+
+4 A cool rose I found on a rainy day  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221111_144950.jpg)
+
+5 During a recording session 😄  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221107_211057.jpg)
