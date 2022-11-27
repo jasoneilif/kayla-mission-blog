@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Mission Email Week 25"
+date:   2022-11-21 13:08:00 -0700
+categories: mission
+---
+Hello friends and family!
+
+This week has been one crazy week! On Tuesday, we had district council as usual and we also had dinner with the English family. The English family is so cool! Basically, they gave us two referrals and also offered their home for a lesson with An! It was so nice of them! We stopped by their neighbor, Donna and Dave's house since Haley English said they might be interested and they were super nice! They were busy with dinner though, so they asked if we could come back on Thursday which was perfect timing because that was when we had planned to have An’s lesson with the English family. 
+
+On Wednesday, we served at Daily Bread like usual and I saw some of the same people who had come earlier! They are so nice!
+
+On Thursday, we had zone conference which was so good! I realized that I had let what others say get to me and cause me to lower my goals to feel better about myself rather than increase my faith and make goals that stretch myself. Later that day, we had a really cool lesson with Donna the neighbor of the English family. It was so fun and she was so nice! She also sounded super interested! Sadly the next day she said she didn’t want to meet anymore after research. She must have found anti resources. Hopefully that isn’t the case though. She is so cool! After her lesson, we went to the English’s for a lesson with An. It was such a good lesson and the English’s invited An over for Thanksgiving which I thought was so sweet! An is progressing so well and I am so excited to see him continue!
+
+On Friday, we had a really crazy day with so many things going on. We had an early morning all mission call which lasted an hour and a half and then we had a cleaning inspection. Right after that we headed to interviews with our mission president. It was a crazy morning! Then after interviews we headed straight to the sister training leaders for exchanges where we switch companions for a day. I was with Sister Christiansen this time and it was so fun! We had a delicious meal with the Garcias and then we sat in the car and had a phone call lesson with Chris, one of the sister training leader’s friends. It was such a cool lesson! We invited him to come to church with us, but he didn’t end up making it unfortunately this Sunday.
+
+Saturday was a crazy day as well because we had exchanges which lasted most of the morning and afternoon. It was fun because I got taco bell which was so good! I hadn’t had it in a long time! After that, we went to a lesson with Dan with a member in our congregation named Sister Miller. She was so excited! It was so cool because before we had lessons with Dan on his front porch while his wife sat inside and didn’t participate. We didn’t even have his phone number because he didn’t want to give it to us. It was so cool with this lesson though because Dan let us inside his house and we had the lesson with Dan and Anita. It was kind of hard to teach them with their cute dog Brindle distracting everyone and also with Anita’s lack of hearing, but it was such a blessing to have Sister Miller because she loves dogs and she talks louder which was good for Anita. It was so cool to see them connect!
+
+Sunday was so good too because we had the primary program where all the children at church sing for everyone and share their testimonies! It was so beautiful! I especially liked the song “I Will Walk With Jesus”
+
+I hope everyone has a great Thanksgiving! I am so grateful for all of you and your support! Have a great week!
+
+-Sister Jensen
+
+
+Photo Descriptions
+1 Sister Hewlett and me  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221116_190346.jpg)
+
+2 Being silly in district council  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_631796085347790.jpeg)
+
+3 My district  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_3508701049408377.jpeg)
