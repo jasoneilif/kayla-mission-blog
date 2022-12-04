@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Mission Email Week 26"
+date:   2022-11-28 14:59:00 -0700
+categories: mission
+---
+Happy Thanksgiving!
+
+This week has been filled with so many miracles! Also, I hit my 6 months this week which is crazy!
+
+On Monday, we had Friendsgiving which was really fun! We ate a lot of food! We also had dinner with the Sanders which was good!
+
+On Tuesday, we had district council which was really good! We went knocking at a place the English family had suggested which was so cool! We ended up meeting a guy named Taylor right outside of where we parked and the first house we knocked on was a lady named Cindy who let us in her house and share a message! It was so cool! Hopefully we can set up lessons with them! That night, we had a really fun dinner with the Moore family. They made tostadas which were so good, and we played telephone to talk about how the spirit speaks to us!
+
+On Wednesday, we served at Daily Bread again which was fun! We also dropped off some more egg bread to Charles since he wasn't feeling well.
+
+On Thursday, we had Thanksgiving with the English's and there was a lot of people! An didn't come unfortunately though. We did get to drop some cookies off to Donna and her family though and she was super happy about us stopping by!
+
+On Friday, we ended up meeting Annie while knocking who is looking for a church! It was so cool! We also met Frank who might be interested
+
+On Saturday, we went to Helen the other sister's friend's baptism. It was good although An was supposed to come, but he was out of town. He was also out of town for church sadly.
+
+On Sunday night we set up our Christmas tree which was really fun! I am so excited for Christmas!
+
+Have a fun week everyone!
+
+-Sister Jensen
+
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221124_090821.jpg)
+
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221127_222049.jpg)
+
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221127_222105.jpg)
+
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_509317134566419.jpeg)
+
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_582000683730073.jpeg)
