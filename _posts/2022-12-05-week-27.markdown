@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Mission Email Week 27 - Miracles!!!"
+date:   2022-12-05 14:14:00 -0700
+categories: mission
+---
+¡¡¡Hola familia y amigos!!!
+
+As one of my favorite songs says "there can be miracles when you believe!" This week has been full of them and I am so excited because I get to stay in Valley Forge another transfer to see where they lead!
+
+On Tuesday, we had our last district council with Sister Fisher since she is going back home. I was actually companions with her for the day since we had exchanges. It was so fun on exchanges! We ended up going to knock on someone's door that the sister training leaders knew, and we were almost to the street when we saw a man holding up charging cords for his car asking for help to get his car started, but people kept on driving by, so we turned around so we could get to a better position to help him. This is the second car I have helped start on my mission! It's like we are being led to them in a way so we can be there to answer their prayers! It was so cool because he was so happy to get help. After that we parked back on the street we were going to knock and we knocked on the door. While we were waiting, this guy who we think was homeless randomly came up to us and started talking about random details about his life that we probably didn't need to know, but it was really fun. Hopefully that brightened his day! After that, Sister Fisher didn't like the smell of our car so she bought some ocean spray, but it smelled like men's cologne, so that was interesting lol. The ocean spray smell went away the next day through so that was good. After that, we went to one of their friends house for a lesson which was pretty good! She was really nice! It was kind of funny though because there was a thumping sound coming from the heater and Sister Fisher called it a rat in the heater, so I guess that happened. It was a really good lesson and we talked about how God can help us stay strong in a world where there is so much commotion! After that, we had dinner with the Engles at Mod pizza and it was so good! Then we met Samantha at the church for her baptismal interview. Samantha is so nice!!!! Sadly me and Sister Hewlett couldn't go to her baptism because we didn't have any of our friends going.
+
+On Wednesday, we served at daily bread which was fun! We had a lesson with An that was okay but we found out that he just got a new job and so he is too busy to come to church and potentially meet again. It was kind of a sad lesson. It was more happy later though because we had dinner with the Rotheys which was really good!
+
+On Thursday, I don't remember what happened lol. I don't think much else happened except for weekly planning.
+
+On Friday, it was so fun! We helped Sister Miller make raspberry meltaway cookies for an activity she was going to and then we went to help rake leaves for Trudy and her husband Donald! It was so cool because we met Trudy at church when her brother Ray took her there while he was visiting. He gave us her number and asked if we could help out with her leaves. We asked if any of the ward members would like to come help over our Facebook group and it was so cool because Noelia a member who is less active who I hadn't met came to help. She brought a leaf blower with her and the job with just the three of us was done in about an hour. Donald and Trudy were so happy and surprised. They invited us in for hot chocolate and cookies and it was so fun getting to know them all! It was a little hard to understand Noelia because she speaks spanish, but luckily Trudy knew spanish and translated for us. It was so cool! After service, we went back to Sister Miller's because she said to come back to grab some cookies, and we took the cookies to our member meal with the Garcias. The Garcias made some really delicious hondurian food as well as some pesto. It was so good!!!! I wanted to eat more, but I was stuffed! I closed off our meal by singing Silent Night for them and it was really special!
+
+On Saturday, it was so cool because we had Sister Zackrison come with us to stop by Chintana's house to drop off cookies and share a message, but when we got there, her son Paul answered the door and said that Chintana was sick. It was sad and we felt bad that Sister Zackrison came all the way out there in the rain for that, and we had some other stops to make, so we invited her to come with us. It was so cool because when we stopped by Baoli, she happened to be outside of her house taking care of groceries and we ended up being able to share a message with her and talk. It was so powerful when Sister Zackrison shared her testimony of the gospel and we were able to set something up with Baoli next week! Later that day, we also had a lesson with Brother Murphy that was really cool too! We talked about temples and how they can bring us blessings to us and our families! He was so happy and he seems like he wants to work towards getting a temple recommend! He ended up treating us and the Coldesinas who were on the lesson to food and it was really good!
+
+On Sunday, it was so crazy! Ray, one of our friends who lives out of our area, came to church with us! It was so cool because the service was really good and the members were so good at fellowshipping him! He also really enjoyed Sunday School and really connected with the teacher. Our Sunday School teacher even offered to come on a lesson with Ray! It was so cool! Ray told us he could feel God's presence at church! After church, we had an impromptu lesson with Ray and Sister Rothey helped out with that! It was such a good lesson and he had so many questions that we had to tell him to write them down and save them for a future lesson! It was so cool! After saying goodbye to Ray, we stayed in the church building for a few hours while we waited for another lesson we had that day with Taylor, one of our other friends! Our lesson with Taylor was so good! The Badstubners came with us on his lesson and it was so good! We talked about how we hear him, and it was so cool hearing how he has already felt God in his life through music. Speaking of music, he sings opera so if I have the opportunity to ever come to his baptism, I am already planning a special musical number having to do with opera! Let's hope he gets to that point. He said he is stubborn in his faith, which is understandable, but he started off not even wanting to talk about differences and ended up being fine with praying about Joseph Smith! It was so cool! I think its so cool that I get to teach Taylor because I feel like I relate a lot with music and how the spirit can speak through music, so hopefully I can use that to help him understand the gospel! After our lesson with Taylor, we had dinner with the Zackrisons and had some really delicious French toast caserole and egg, sausage, biscuit caserole! Also, that night we watched the Christmas devotional which was so good! That night we also had a fun spa night lol.
+
+Anyways, I have been seeing so many miracles and it is so cool! I know that the Lord is in the details and he puts us in other peoples' paths and puts others in our paths for a reason. I hope you are able to see miracles this next week as well! Have a great week!
+
+-Sister Jensen
+
+Photo Descriptions:
+1 Last District Council lunch!!!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_698108611622679.jpeg)
+
+2 Exchanges with Sister Fisher!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_1697065310694592.jpeg)
+
+3 Dinner with the Engles. They started walking away lol 😂  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_1253991078503331.jpeg)
+
+4 Hermana Patterson, Hermana Wheelwright, Sister Fisher and me!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_475758387784119.jpeg)
+
+5 Spa night with cucumbers  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221204_215513.jpg)
