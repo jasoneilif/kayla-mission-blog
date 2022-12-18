@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Mission Email Week 28"
+date:   2022-12-12 13:30:00 -0700
+categories: mission
+---
+Hello everyone!
+
+On Tuesday, we didn't end up having district council because it was transfers. There is a new sister in our district who actually came on her mission at the same time as me. Her name is Sister Anderson! She is one of the new sister training leaders! Instead of doing district council we had a lesson set up with Frank. He had sent in a referral and we had called and set up a time to have a lesson with him. We brought Sister Sanders with us and we rang the doorbell for apartment c. No one answered, but all of a sudden a man came up behind us and asked which apartment we were trying to get into and we said c. He said that was his apartment. We asked if his name was Frank and he said yes. We reminded him of his appointment he set up with us and he had no recollection of us at all. We asked if he would still like us to talk with him more and he said he wasn't interested. It was so weird. I wonder if someone either pranked him or if he set up the appointment when he was on something haha. We felt bad for taking Sister Sanders with us in the rain for an appointment they didn't even remember, so we walked down the street and knocked on Cindy's door. Her daughter Lydia answered and told us all about how her mom was so excited to meet us and how she had told Lydia all about it. She was at a yoga class though at the time which was crazy because Sister Sanders knew a lot of friends who use the same yoga place. What a coinidence!
+
+On Wednesday, we had service like usual which was super busy! They were running all over the place and there were cars parked on the side of the street because there wasn't any parking left! It was crazy! Later that day when we were knocking doors, we ended up meeting a super nice lady who was interested in hearing more about the gospel! She speaks Portuguese though so we are having Sister Marroquin from our congregation come with us to help translate.
+
+On Thursday, we planned for the week and it was such a good planning session! After weekly planning, we stopped by Chintana's house and she was home! We invited her to come to church and she said she would come in two weeks! We are super excited about that! Later, we had dinner with Sister Shelton at Paola's Pizza! The pizza was really good! Sister Shelton invited a man named John who was sitting by himself to join us at our table and we ended up sharing about some of our beliefs. Although a friendly conversation quickly turned into a Bible Bash between Sister Shelton and John. I didn't know what to do and kind of just sat there helpless watching it unfold. When things died down a little and Sister Shelton was distracted, I left him with a Book of Mormon and invited him to read to find out for himself and he was happy to have a copy. I left that restaurant feeling so down and by the time we made it back to the apartment, I was in tears because I feared that we had caused him to not want to hear about the gospel and I worried that he would never be open to the gospel again.
+
+On Friday, we had the opportunity to serve in the temple which was such a needed break from the stresses of missionary work! We cleaned the sealing rooms which were beautiful as always. I love the temple! I always notice how clean and orderly it is inside as well as the overwhelming peace and joy I feel once I get to the grounds. In Philadelphia it is especially noticeable because you go from busy city streets and many worldly things and a fast pased lifestyle to the temple where everything is peaceful and calm and heaven centered. It is really a safehaven! It was also so great because I got to have personal study on the temple grounds before service and had a bunch of things weighing on my mind including the rough night from the day before as well as the increased stress and mental problems I have been having, and it was such a comfort to read the scriptures and find verses that spoke directly about those concerns. I have been learning that we are all in the Lord's hands and He is watching over us. Even though the night before was hard and I felt like I couldn't control the situation, I can't mess up God's plan for John and things will work out eventually. John is in His hands. I have also learned that sometimes we plead with Heavenly Father to take away our trials and hard things away, and sometimes He doesn't because He knows we can grow from them. Jesus asked Heavenly Father if He could take away the pain, but Heavenly Father didn't because Jesus needed to go through those pains, but Heavenly Father did send an angel to strengthen Jesus. Sometimes in our lives, Heavenly Father won't take away the problem, but He will strengthen us to be able to bear those burdens.
+
+On Saturday, we ended up having a lesson with Matt again finally and we also met a super sweet lady named Maxine and shared a message with her! Later that night, we had the ward Christmas party! It was so fun! Brother Murphy came and he picked up our friend Jim! It was so cool because they seemed like buddies! Kevin and Jessica came as well and they seemed to enjoy the activity! It was so cute because all the little kids dressed up for the nativity scene and sang Away in the Manger! It was so adorable! We were running around the whole time trying to help with everything and talk to the people there, so I think I burned off the calories from the large ham dinner we had. It was so fun! That night, we talked to Joey one of our friends over the phone about blessings of healing since he's been going through a lot. He wanted a blessing so we were going to come by after church.
+
+On Sunday, we went to church which was in Spanish again. Sadly none of our friends came to church, but it was a good service, so we had a good time. Me and Sister Hewlett and two of the men in our congregation drove to Joey's house for the blessing, but he wasn't home and he wasn't answering any phone calls. That was really sad. Later that day was good though because we ended up meeting this really nice family while knocking doors. Their names are Nadia and Abdul! They are interested in having us come back again next week which is super exciting! After meeting Nadia, Abdul and their family, we headed to the Bookwalters and had a fun dinner with them!
+
+Anyways, have a great week and stay warm!
+
+-Sister Jensen
+
+Photo Descriptions
+1 Funny sign we found🤣  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221206_124806.jpg)
+
+2 Nativity at the temple!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221209_121646.jpg)
+
+3 Serving at the temple!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221209_121650.jpg)
+
+4 Me next to the nativity  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221209_121546.jpg)
+
+5 We met the grinch at our ward Christmas party! 😂  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_1184796022170208.jpeg)
