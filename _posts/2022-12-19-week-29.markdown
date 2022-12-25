@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Mission Email Week 29 - Merry Christmas"
+date:   2022-12-19 14:29:00 -0700
+categories: mission
+---
+Merry Christmas everyone!!!!
+
+I can't believe it's already the week of Christmas! I guess it doesn't feel like it should be Christmas yet because of the lack of snow here in Pennsylvania. We'll see if it is a white Christmas or not. I am super excited for this week though! We have the Christmas service coming up which should be good! Hopefully our friends will show up this week especially since they haven't been coming the last few weeks.
+
+This week was a pretty good week!
+
+On Tuesday, we had district council which was good and then had lunch at Costco. It was so cool because we ended up seeing our friend Jessica who is less active. I hope she comes to the Christmas service! I guess she never misses the Christmas service. It sounds like she is going to bring her husband Kevin along too! We also had exchanges on Tuesday which was really fun! I got to go with Sister Anderson
+
+On Wednesday, we served at Daily Bread again which was fun and cold! It has gotten so busy at Daily Bread for the holidays.
+
+On Thursday, Sister Hewlett was not feeling well so I basically did a lesson with Ryan all by myself. It turned out really good and we have a return appointment set up next week!
+
+On Friday, we had interviews with President Harding and they were really good!
+
+On Saturday, we had a really cool lesson with Baoli over smoothies and other drinks. It was so cool because Sister Zackrison came too! Then we had lunch nearby in a park which was fun. That night, we had a lesson with Brother Murphy and the Coldesinas over oreos which was really good!
+
+On Sunday, we didn't have anyone come to church, but we did have a really cool lesson with Taylor at the Badstubner's house! We talked about sharing Christ's light with others and finding more of His light ourselves by reading the Book of Mormon!
+
+Anyways, I hope you all have a very merry Christmas!
+
+-Sister Jensen
+
+Photo Descriptions
+1 Sister Anderson and me!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_694858345505711.jpeg)
+
+2 On exchanges!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_875086960187176.jpeg)
+
+3 A cool tunnel we found!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_1558617391308836.jpeg)
+
+4 Just how we like it 😂  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221217_204418.jpg)
+
+5 A funny sign we found at a park  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221217_143204.jpg)
+
+6 Sister Anderson, me, Sister Christiansen,  and Sister Hewlett on exchanges!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221213_064056.jpg)
