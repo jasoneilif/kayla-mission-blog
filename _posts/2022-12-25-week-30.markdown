@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Mission Email Week 30 - Happy New Years"
+date:   2022-12-25 07:36:00 -0700
+categories: mission
+---
+Happy New Years everyone!!!!
+
+I can't believe this year is almost over! It feels like it just started! This week was festive, fun, and a little weird!
+
+On Tuesday, we had a really fun district council with the other missionaries in our district! The elders brought us some wawa which was really good! It's kind of funny because I didn't even know wawa existed until my mission! It's like a gas station mixed with a convenience store, mixed with a fast food restaurant that makes a large variety of food and drinks. Anyways, that was really nice of Elder Gray and Elder Reed. After district council, we went to a car wash to finally get the pie juice off of our backseat. It was so clean after they were done. We decided that in the future if someone gives us food or a drink, we will either hold it on our laps or tripple bag it to avoid spills in the future.
+
+On Wednesday, we served at daily bread, the food pantry, which as usual was really fun! It's pretty cool because the sister training leaders in our area are basically like the sister assistants to the president, so they were on exchanges (swapped companions for a day) with other sister training leaders from a different area. It was so fun seeing Sister Stark and Sister Jaques at Daily Bread! That night, we stopped by Leann and gave her a Book of Mormon in Portuguese! She was busy and couldn't talk right then, but hopefully we can talk again! After stopping by Leann, we stopped by the Linds, a less active member family in our congregation, and it was so fun talking with them! They have a little 5 year old and he was showing us all of the things he had recieved for Christmas and the ornaments he had made. After stopping by the Linds, we stopped by another house nearby and we met a sweet lady named Sarah! We invited her to the Christmas service and she said she would try to make it.
+
+On Thursday, we had a special zone conference with all the other missionaries in our area! It was so fun! There were a lot of musical numbers and I was a part of almost all of them. They had asked me to be the chorister for the hymns we sang including the giant music program the Gatrells put on. My arm was a little tired near the end 😅 I also sang in our special musical number in the middle with some other missionaries! We also had a fun ham lunch with cheesecake! It was really good although I was so full by the end haha. During our meal, we had a talent show for all the missionaries and I played a song on my ukulele and sang. I was so nervous because that was the first time I had ever wrote a song on the spot for a large group of people. Normally, I just write a song on the spot for one person or a small group. I guess it turned out good though even though I was nervous. It was fun watching all the other missionaries perform their talents! There was magic, juggling, jokes, and music! After the talent show, we had a white elephant! It was really weird because the Hardings had us get in small groups and link arms in a circle, move our presents a certain number over and then wander through the sea of missionaries until the music ended to repeat again. I ended up getting some socks and candy. Also, the Wildes handed out some prizes to missionaries for good driving and clean cars, and our car was one of the cleanest and I was in the top ten for the least speeding violations! That was pretty fun!
+
+On Friday, the weather got crazy! We recieved a message from our mission president saying that there was going to be extreme weather coming up that day and to take certain cautions. We took an emergency stop to Walmart in the morning to get things in case our water lines broke or in case our electricity went out. It was raining at that point. About 3 hours after we got home, it started to get super windy and the rain turned into sleet and then snow. It dropped from 50 degrees to 5 degrees that day and the wind chill was in the negatives. We stayed inside that day and planned for our week. We ended up having to contantly run our water in a thin stream and our lights flickered a little every once in a while, but we were blessed to not have anything too bad happen. The snow didn't stick and the roads hadn't gotten icy so by Saturday, we were able to drive again.
+
+On Saturday, during personal study we heard a fire truck siren and it was getting close to our apartment. Worried, we looked out the window and we saw the fire truck coming down our street with Santa on the top! It was so fun! I was definately not expecting that! It was so fun because during lunch, we went with Sister Anderson and Sister Christiansen, the sister training leaders, to the store to get some stuff for stockings for our companion. After that, Sister Hewlett and I ended up making almond bread (egg bread) and cookies to give away for the Christmas season. We dropped off the bread to Charles and then stopped by Lee afterwards to invite him to our Christmas service. We also ended up contacting all of our contacts to let them know about the Christmas service! It was crazy! We sent almost 100 messages! That night after hours, we ended up watching The Grinch which was so fun! We don't normally get to watch movies, but President Harding approved the new animated Grinch this Christmas!
+
+On Sunday, it was so fun! This Christmas was very different from any other Christmas I have ever had, but it was still fun. We woke up and after planning our day, we made blueberry muffins and sausage and had some chocolate milk. That was good! Then we opened the stockings we made for each other. After our studies, we baked the cookies we had started the day before and then put them in boxes and on plates. We delivered some cookies to the local fire and police apartment and it was so fun! We tried other fire and police departments, but they weren't open. We also dropped off some cookies for some other friends. It was really fun! We got to stop by Kevin and Jessica's house and talk with them for a while. Then we went to the Christmas service! It was really good and there were some really good music numbers! Sadly none of our friends came. They either confirmed and then canceled last minute or they never responded or said they couldn't make it. I was so sad that they missed it! After church we did some online missionary work with the hermanas and then went to the Rothey's with them. We had a really good ham dinner and played a game after. They also gave us some gifts which was so nice of them!
+
+Anyways, I hope you all had a wonderful Christmas and that you have a happy New Years!
+
+-Sister Jensen
+
+Photo Descriptions
+1 There is a "panda sanctuary" on the way to Daily Bread and I finally got a picture of it! I think it's so funny!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221221_085601.jpg)
+
+2 During one of our mission calls, President Harding dressed up as the Grinch 😂  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/Screenshot_20221223-120740_Zoom.jpg)
+
+3 Dropping off cookies to the police  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221225_123701.jpg)
+
+4 Santa Claus came to town...on a fire truck!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221224_091210.jpg)
+
+5 Opening stockings  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221225_074033.jpg)
+
+6 Matching Christmas pajamas  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221225_074554.jpg)
+
+7 Weird ice that fell from the sky  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/Screenshot_20221226-103243_Photos.jpg)
+
+8 Egganezer Scrooge the eggbread 😂  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221224_162924.jpg)
