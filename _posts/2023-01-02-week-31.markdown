@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Mission Email Week 31 - Holiday Miracles"
+date:   2023-01-02 12:55:00 -0700
+categories: mission
+---
+Happy New Year everyone!
+
+This week was packed with miracles! It was almost like a present from God for Christmas! Even though I was sick for most of the week, we were still able to see miracles and progress happen here in Valley Forge which was a blessing!
+
+On Monday, it was really fun because we had a mini party with the other sister missionaries close by for our preparation day! It was fun! We had pizza and played Taco, Cat, Goat, Cheese, Pizza!
+
+On Tuesday, we had exchanges with the sister training leaders and I was with Sister Anderson again! We had district council and I had been assigned to lead a discussion. It was really fun because I used some goldfish crackers for an analogy on how we need to recognize when we have a problem and be honest with ourselves and others so we can get help and healing before it gets worse. We also did a drawing activity with crayons to draw our favorite scripture stories and find how the lessons are found in the stories. I kind of felt like I was in kindergarten again haha.
+
+After district council and lunch, me and Sister Anderson headed to Yelfie's house, someone who had sent in a request to meet with missionaries. We knocked on her door and she let us in. She was so cool! She was looking for a church and had talked to the hermanas before since she can speak Spanish as well. She hadn't read the Book of Mormon though because she couldn't read well and she also hadn't come to church because she didn't have a ride, so we showed her the Book of Mormon app and offered her a ride to church. She accepted an invitation to read the Book of Mormon and come to church! It was so cool because she shared her story of how the Lord had been in her life and how He has a plan for her. It was so cool hearing her faith and how she puts her trust in the Lord.
+
+After stopping by Yelfie, we stopped by Ziah's house, another person who had put in a request to meet with the missionaries. She wasn't home, but her mom Sabrina and her sister were home and let us in. They explained that Ziah had run away from home and their family situation was not the best. They hadn't been able to get in contact with her, but gave us her new phone number. We said a prayer with Sabrina and her daughter and left. We called Ziah's new phone number and she actually answered! She hung up after only a minute though. 
+
+After Ziah, we stopped by a few other people and made some good contacts. Then we were going to stop by this one person, but we parked on the wrong side of a busy street so Sister Anderson decided we could walk down the street to a lady named Gretchen's house, cross the street at the nearby light and make it to the person's house. We knocked on Gretchen's door and she was home! We started teaching her the restoration. It was so cool! It was sad hearing about her abusive husband that kept on breaking into her house. About halfway through the lesson, we heard something near the back door. Gretchen went to go check on the noise. Sister Anderson and I were worried it was her abusive husband and Sister Anderson pulled out her pepper spray. Luckily Gretchen came back and said it was probably just her cats. Relieved but a little shaken, we finished the lesson. It was such a powerful lesson and spirit was definitely there! She accepted an invitation to read the Book of Mormon and come to church!
+
+We came back to the apartment and had a mini celebration over all of the friends we had been able to teach that day! It was so happy! Sadly, that night my throat hurt really bad and I had a fever.
+
+On Wednesday, we headed back home and decided that it would be best to stay inside since I was sick so we didn't spread it to anyone else. We did a bunch of phone calls and texting as well as Facebook. We also had a phone call lesson with Ryan! It was so cool because he had actually taken the time to read the testimonies at the beginning of the Book of Mormon as well as the first few chapters of 1 Nephi. He even looked up a podcast to help walk him through the Book of Mormon and he also noticed repentance as a theme. It was so cool because everything he said led to each point in the gospel of Jesus Christ and after we were done, we invited him to be baptized and he accepted! Ryan is so prepared! We are so excited for him. We couldn't set a date for him to be baptized yet though because he hadn't been to church yet, but we will set a date for him this week!
+
+On Thursday and Friday, we did even more contacting and Facebook. There wasn't too much that happened, but I had a really cool personal study about becoming converted to the Lord. We can come to know Jesus Christ and have a testimony that He is real, but even more important is becoming converted to Christ by following His teachings and having a change of heart. It's kind of like the difference between having knowledge and wisdom!
+
+Anyways, on Saturday, we ended up having to cancel a lot of things because of my sickness, but we were able to still do a church tour with Ryan over zoom. It was really good! Ryan had invited his brother to join, but once it was over zoom, his brother wasn't able to join us. Ryan had a flat tire that morning, but he still ended up joining on the zoom anyways. It was so good! Later that day, we decided to get out of the apartment and take some pictures of the cool fog and that night, we celebrated the new year by counting down and toasting with Martinellis. It was fun!
+
+On Sunday, it was kind of a rough start to the day for me, but once we watched church over zoom, my mood was able to change. The talks were so good! We were worried if Ryan was able to come since the Engles didn't see Ryan at church, but we texted Ryan and he said that he came. He really enjoyed the talks and said he would love to come in the future! We are so excited for Ryan! That night, we realized that we hadn't found anyone that week to start teaching to meet our goal for the week, so we called some people in our contact list who hadn't been taught in a while and we were able to have an impromptu lesson with our friend Crystal! We will be teaching her on Friday and we are so excited for her!
+
+I am so excited for this next year and these next couple of weeks! God still works miracles and He is mindful of who we are and where we are. I hope that you will all be able to recognize the hand of the Lord in your lives this year and that 2023 will be a good year!
+
+-Sister Jensen
+
+Photo Descriptions
+
+1 District Council coloring creations  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221227_120144.jpg)
+
+2 Eating sunflower seeds during contacting  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221228_202340.jpg)
+
+3 Fun foggy picture of Sister Hewlett  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221231_161526.jpg)
+
+4 Fun foggy picture of me  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221231_162206.jpg)
+
+5 We were opposite matching!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221231_213110.jpg)
+
+6 Ta da!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221231_213145.jpg)
+
+7 Cheese!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221231_213159.jpg)
+
+8. Statue with cool fog  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20221231_160850.jpg)
+
+P.S. If you are wondering about what happened to my head, I was making pumpkin spice hot chocolate and I was throwing the garbage away around the corner and I smashed my head against the wall. Oops!
