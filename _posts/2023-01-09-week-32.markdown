@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Mission Email Week 32 - Sick Miracles!"
+date:   2023-01-09 14:52:00 -0700
+categories: mission
+---
+Hello again everyone!
+
+This week has been crazy! I was sick for most of the last week, so our activities were almost all virtual this week. 
+
+On Tuesday, we joined district council over zoom. It was sad because the sister training leaders had Sister Giles, my trainer in Morrisville, and her companion with them, but we weren't able to say hi to them. It was ok though! It was nice talking over the phone a little bit!
+
+On Wednesday, we were able to have a zoom lesson with our friend Ryan! It was a little chaotic because Sister Badstubner who had joined us on the lesson, only had 30 minutes. We talked about the plan of salvation and invited him to be baptized on February 4th, but he said he wasn't ready for that yet. We invited him to pray about a date for baptism and he accepted! Later that day after reaching out to a bunch of people on the phone, we had a lesson with our friend Nancy! She agreed on a time for regular lessons and we are super excited about that!
+
+On Thursday, we had a lesson with Chi, one of our new friends that we met over social media! She is super cool! After having a lesson with Chi, we planned out the next week and then spent the rest of the day contacting people on our phones.
+
+On Friday, we were happily surprised to have Rochelle call us unexpectedly on the phone. She had not been taught yet because the missionaries in the past hadn't been able to get in contact with her, but we had decided to try emailing her since no one had tried that yet. She said she would love a lesson, so we had an impromptu lesson on the spot. She was so sweet and she ended up sharing her own testimony with us!
+
+On Saturday, we didn't end up doing anything too interesting other than our Facebook live at the end of the day! That was pretty fun!
+
+On Sunday, we decided that I was well enough and had quarantined long enough to go to church! I wore a mask just to be safe and we had a fun time there! The testimonies shared were really good! Ryan came to church and he really liked it! He is really becoming a part of the ward! It was so cool because without prompting he brought up baptism and said he wanted to be baptized on June 24th! We are so excited for him! We won't be missionaries in Valley Forge for his baptism, but we are super excited to watch over zoom or come visit for the day. After church, we stopped by a lot of people we weren't able to stop by earlier in the week. It was so cool because we met some really cool people and members of our congregation that we hadn't met before!
+
+Anyways, we thought this week was going to be less successful since we were inside all day, but it was actually one of our most successful weeks! I can only attribute that to Heavenly Father. This week helped me remember I can't do missionary work on my own. Heavenly Father is the one who makes these things happen. This is His work, not my work! Miracles are real! I hope all of you are able to see God's hand in your life and that you will be able to recognize the miracles and tender mercies in your lives!
+
+Have a great week!
+Sister Jensen
+
+Photo Descriptions
+
+1 Dinner break at Valley Forge National Park   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230104_164716.jpg)
+
+2 Cool memorial!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230104_170607.jpg)
+
+3 Selfie next to the Schuylkill river!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230107_152723.jpg)
+
+4 This is what happens when you do face masks lol. You either become a super hero or a zombie 😂  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230108_215256.jpg)
+
+5 Cool cabins in the woods on a lunch break drive  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230104_163326.jpg)
+
+6 Sister Hewlett in front of a cabin!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230104_164716.jpg)
