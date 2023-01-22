@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Mission Email Week 33"
+date:   2023-01-16 14:46:00 -0700
+categories: mission
+---
+Hello everyone! This week I wanted to share some of the things I learned as well as some of the experiences I have had this past week!
+
+On Monday night, we decided to stop by a bunch of people since we hadn't had the opportunity to last week. We hadn't seen much success in going out and a lot of people were either gone or at their house, but didn't really want to talk to us. I was kind of down and after stopping by Leann and having one more unsuccessful stop by, we started to drive home. About halfway down the street, I felt like we weren't done in the neighborhood and so I turned the opposite way. I wasn't sure if it was a prompting from the spirit telling me to go or if I was just too depressed to end on that bad note, but I decided I better do it anyways in case it was a prompting. At one point, we parked and we started knocking a few doors expecting to find someone amazing who was looking for the gospel. This was just another disappointment when these people were not only not interested, but even more passive aggressive about it than everyone else we had stopped by. I had an image of a red ribbon on a door pop into my head, so we walked around the corner and tried those doors, but there was no ribbon and no one interested. I was so confused because I had hoped it would lead somewhere because I thought it was a prompting from God. Even more discouraged now, we got back in the car and started heading back home again. We came to a stop sign around the curve and I saw some Christmas lights still up to the left and I noticed a wreath with a big red ribbon on the door. We were already way past our time to be out knocking and I was discouraged from the last side track not leading anywhere, but I didn't want to miss following a prompting from God, so I sighed and turned left. We parked and knocked on the door. I was thinking about what we could say to her and I had a random thought to say we were messengers from God. It was an unusual but true statement for us, but I decided I would say it anyways. After a little while, a woman named Lily opened the door. I told her we were messengers from God there to tell her a message of hope and peace about Jesus Christ. She agreed to hear a message and we had an amazing discussion about Jesus Christ and how His gospel had been restored to the Earth. She took a Book of Mormon and said she would be interested in talking more with us. She didn't know if her mom would be ok with it though, so she said she would have to talk with her first though. It was definitely a miracle and those were definitely promptings from God. I may not have realized it at the time, but those first couple of thoughts might have been promptings even though those initial contacts didn't lead anywhere. Those thoughts helped us get to Lily's door at the right time. I know that the Lord leads and guides us! I am learning that I need to follow the thoughts and feelings that I feel as long as it is good, because it very well could be coming from God, and even if it is from me, it is a good thing anyways, so I shouldn't worry.
+
+On Tuesday, we had district council like usual except Sister Hardy and Sister Price joined us because they were doing exchanges with Sister Anderson and Sister Christiansen. I was super excited to see Sister Hardy because she trained Sister Bull, my last companion in Valley Forge. It was fun updating her on what has happened since she left Valley Forge II. After district council, we went to the nearby Chick-Fil-A for lunch with our district. It was super fun, and we even had pictures taken with some of the employees. After lunch, we had some people to visit, so we tried visiting them. We did get a phone call from Tom Howell saying that we were invited last minute to dinner and a Bible study, but we already had plans with the Millers for dinner. Sister Hewlett felt like we needed to visit the Millers, so we went to the Millers. Before that though, we stopped by a few people! One of them named Kevin ended up talking to us for at least a couple hours sharing with us about how he believed every conspiracy theory he had heard about. It was crazy! I just couldn’t keep track of all the stuff he believed! He said we could call and talk again, so I'll have to see how that goes haha. After that we rushed to our member meal with the Millers. It was so fun! We had some pulled pork sliders which were really good and we had a Christian music jam out!
+
+On Wednesday, I served at Daily Bread which was really fun! After that, we had another phone call with Ryan! It was so good! We talked about Lehi's vision of the tree of life and how it relates to our lives! Its so good! Here's a link to an app in case anyone is confused haha. I'm not sure if it still works, but if it does its really fun!
+
+https://apps.apple.com/app/tree-of-life-ar/id1487993258
+
+https://play.google.com/store/apps/details?id=org.lds.ldstol
+
+
+On Friday, we cleaned the temple! I really needed that! We also met someone named Jay who is super cool!
+
+On Saturday, I found out that I am leaving Valley Forge. I am super sad about leaving! I will miss everyone so much! I am going to Cherry Hill 2nd area in New Jersey with Sister Moore! Sister Hewlett served most of her mission in New Jersey and she told me all about it!
+
+Nobody came to church with us on Sunday,  because Ryan had to go with his mom to church, but it was good because me and Sister Hewlett talked in church! My talk was on following God's will which was just what I needed because I was really sad about leaving Valley Forge, but I realized that if I follow God's will and go to my new area, I will be blessed for doing that and ultimately find happiness by doing that! I cried on and off most of the day and packed some that night. I am still kind of sad, but I am so excited to meet the people in Cherry Hill and expand my circle of friends! Maybe there is someone in New Jersey who needs the gospel taught to them by me! I guess we'll have to see what this next transfer holds!
+
+I hope you all have a great week!
+
+-Sister Jensen
+
+Photo Descriptions
+
+1 Sister Price, Sister Hardy, Sister Christiansen and Sister Anderson    
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230110_105151.jpg)
+
+2 District council   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230110_105210.jpg)
+
+3 I made lemon ricotta biscuits! They are so yummy 😋    
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230112_174222.jpg)
