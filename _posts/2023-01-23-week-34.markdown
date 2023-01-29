@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Mission Email Week 34 - One Crazy Week!"
+date:   2023-01-23 12:39:00 -0700
+categories: mission
+---
+This week has been an adventure! I moved to Cherry Hill on Tuesday. It was hard saying goodbye to Valley Forge especially all of the amazing people I had met and it was hard leaving behind an area I had worked so hard in! It was so fun saying hello to old friends at Broomall though! I got to see all of my past companions and a few other sisters from past districts! Sister Moore is so cool! Also, the place we are staying at is so cool too! It’s this cute little house at the end of a street and it has a lot of charm! It also has a basement and is huge compared to all the other places I have lived in on my mission! Cherry Hill is like Bridgeport without the hills and a giant bridge lol. I feel like the names should be switched. Anyways, we have so many lessons and so many friends here! It’s crazy! We have had so many lessons with people!
+
+On my first day here, we had a super cool lesson with Samuel! He is super cool! He had been to church apparently before and we were teaching him the Plan of Salvation. We weren’t even planning on it, but we ended up inviting him to be baptized and to pray about a date to work towards and he accepted! We are super excited! Also, we have a super cool friend named Marvin who is getting baptized this month! So many baptisms to look forward to! We also have a bunch of other people we are teaching or who are interested! It’s a little overwhelming how many friends we have, but it definitely keeps us busy!
+
+It was so cool because on Wednesday, we had a lot of miracles! That day some of our lessons fell through, so we decided to stop by some people who had sent in an online request for missionary visits, but who we had never been able to get in contact with. We weren’t able to reach any of the people we meant to get in contact with, but we did end up meeting Jamie and Li Ling! We went to Jamie’s house and asked for Lynn, but Lynn didn’t live there. Jamie was interested in hearing a message though and so we got her contact info! Later we also ended up stopping by Lauren, but she wasn’t home either. We were walking back to the car and I noticed a house that was white and teal (my two favorite colors) and I decided to knock on that house if only to compliment them for the cool paint colors. Li Ling answered the door and even though it was hard talking to her because she spoke Mandarin, we learned that she was interested in the Bible and learning more about God and we got her contact info so we could get her in contact with missionaries that spoke Mandarin! It was so cool!
+
+The miracles on Wednesday didn’t end there! We received a referral for someone named George. He had requested to learn more about the Book of Mormon, so we texted him to set up a time to call and drop off a Book of Mormon and within like 10 seconds, he responded! It was so fast! Normally, when we text someone they don’t respond the first time we reach out or they don’t respond at all, so this was a miracle! He is so interested in hearing more and we are super excited to teach him!
+
+Thinking about past Thursdays, I didn’t expect Thursday to be so crazy, but it was! We started off our day with weekly planning and I got to learn about my new friends here in Cherry Hill. It was really tiring, but we got through it! After weekly planning we had three different lessons planned one right after the other! Our first lesson was with David! He is super cool! He was concerned about being baptized into a different church because he had already been baptized in his current church. We explained to him how The Church ofJesus Christ of Latter-Day Saints has God’s power and authority on the Earth! It was passed down from Jesus Christ to His apostles to Joseph Smith and now to the priesthood holders on the Earth today! It was such a good lesson! Our other lessons fell through so we decided to contact a whole bunch of people who we had gotten contacts for. We hadn’t reached out in a while to a lot of them, but it was so cool because we ended up setting up over 10 lessons for the next week! It was crazy! After that, we had dinner which was a needed break and then we headed over to the relief society activity with the women in our congregation in the rain. It was so fun! We painted and since the video wasn’t working and I didn’t have YouTube on my phone, I painted a blue flower. We also had some fun mixed drinks with different sodas and juices! The ladies there were so nice! I am so excited to serve in their congregation!
+
+On Friday, we spent a lot of time in the house contacting different people, so both me and Sister Moore were really tired by the end of the day. It was fun though because we had a lesson with Magda, someone we had contacted earlier in the week! She is so cool! Her faith is so strong! We taught her the restoration and set up a time for next week! We also had a lesson with Sister Boon! It was so fun and she was nice and gave us some snacks! It was hard near the end of the day though because we spent almost the entire time on the phone. After a zone call, we were finally able to get off of the phone. I was planning on going to bed, but after vacuuming the floor, I noticed the vacuum had a lot of stuff in the canister, so I emptied that. Then I noticed that there was some stuff stuck up inside so I got that out. Then I realized that the filter could be washed so I rinsed that off and then I couldn’t just leave the vacuum all dusty so I wiped that off too. Then of course I noticed that I got a lot of dust on the floor so then I swept the floor. So much for getting to bed early haha.
+
+On Saturday, we had a really cool lesson with Marvin and we talked about the priesthood and how he would have the opportunity to serve others. It was so cool! Then we also had a lesson with our friend Priye which was a little chaotic because she was at a party, but it was good! We also had some plans to stop by some people. None of them were home, but we ended up getting lost on Google maps because it took us to the wrong address. We decided that since we were there we might as well knock there anyways. We knocked on the door and a really sweet lady named Kia answered the door! She let us share a scripture and we asked if she wanted to learn more about the Book of Mormon and she said she would pray about it! We already ask everyone to pray about the Book of Mormon for themselves, so it was really cool seeing her already going in that direction!
+
+On Sunday, I got to go to church in my new area! It was so fun saying hi to everyone! Everyone there was so nice and even though it was smaller than I am used to, it was so fun! Also, apparently our friend Darryl came to church, but we didn’t recognize him because we had never met him in person. After church, Brother Garcia brought us and Sister Conti some burritos for lunch which was very needed since we hadn’t had actual food this week. After that we had a bunch of meetings and didn’t do much else.
+
+Anyways, we have a lot of lessons scheduled for this week and I am super excited to meet more of our friends here in Cherry Hill! I hope you all have a great week!
+
+-Sister Jensen
+
+Photo Descriptions
+
+1 Walking in New Jersey  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230118_135807.jpg)
+
+2 Walking in New Jersey Part 2  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230118_135819.jpg)
+
+3 Pretty Sunset  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230120_165919~2.jpg)
+
+4 Relief Society Activity!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/FB_IMG_1674424806912.jpg)
+
+5 My painting  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/FB_IMG_1674424808711.jpg)
+
+6 Funny drink combos😂  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_3134992806790610.jpeg)
+
+7 Opposite matching!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230121_195713.jpg)
+
+8 Me and Sister Moore with a cherry filter😄  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230121_195850.jpg)
