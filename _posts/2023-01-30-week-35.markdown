@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Week 35 - A Crazy Week"
-date:   2023-01-23 13:39:00 -0700
+title:  "Mission Email Week 35 - A Crazy Week"
+date:   2023-01-30 13:39:00 -0700
 categories: mission
 ---
 Hello friends and family!

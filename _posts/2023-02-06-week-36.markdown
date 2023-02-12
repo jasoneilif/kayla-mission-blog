@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Mission Email Week 36"
+date:   2023-02-06 11:25:00 -0700
+categories: mission
+---
+Hello! I hope you all had a great week!
+
+This week was slightly less crazy, although sometimes me and Sister Moore felt like we were going crazy haha. It was really good!
+
+Monday was pretty normal. On Monday, after preparing for the week, we had dinner with Sister Horn and her sister and grandson at the Lamp Post diner. It was super good! I had a turkey blt-a! It was a good thing that me and Sister Moore only ordered one thing, because the portion sizes were huge. Sister Horn and her sister ordered more and needed a whole lot of take home boxes. Even me and Sister Moore needed 2 take out boxes!
+
+On Tuesday, we had a pretty crazy day! It was really cool though! We ended up going to Collingswood for a lesson with Olivia and her mom. We had set it up over the phone and texted a confirmation, but when we got there, her mom answered and didn’t even know who we were. Olivia came to the door and was absolutely confused as to who we were and why we were there. It must have been a prank. Since we were in the area and we don’t go there often since it is far away, we decided to stop by some people who had put in a request to meet with us, but who we hadn’t been able to get in contact with. It was super cool because we ended up meeting Marian and her friend JoAnn. It was so cool because we taught them the restoration and gave them each Book of Mormons. They were super sweet! Then we had a really good lesson with our friend George over the phone about God’s plan for us. He soaked it all in and had a lot of really good questions! After that, we stopped by Rebekah, a lady who had requested a Book of Mormon, but who had never received it. When we came by, she was outside doing yard work and came over and was so excited to see us! We gave her the Book of Mormon and she said she would love to talk more about the Book of Mormon with us! We had also stopped by some other people and were able to go through our contacts and organize them a little better which helped us feel a little less stressed! That was such a good day!
+
+On Wednesday, we had zone conference bright and early. We had to get there an hour early so I could practice the upcoming musical number with Sister Van, Sister Giles trainer! We had only found out about the musical number on Sunday, so we needed to practice together beforehand. It was funny because I also led the music again. I guess now that they know I can do music, they will probably ask me to do stuff every time lol. They didn’t tell me that I would be leading an actual choir piece, so I had no preparation beforehand. Hopefully I made Professor Broomhead, my conducting class’s teacher, proud for leading it on the spot with a lot of cueing! The musical number also went well! We played Lord I Would Follow Thee, and Sister Van played the flute and I played the violin. As for the actual information from the meeting, we had a cool safety training, and an inspiring training on involving church members in missionary work more. 
+
+On Thursday, we planned out our week and  contacted some people. We had a cool lesson with our friend Thatiana! She is doing so well and we are so excited for her to prepare to enter the temple! We ended the day by trying to have a lesson with our friend Lindsey. We were going to have Sister Armato on the lesson. It was crazy because Lindsey kept on putting the call on hold to talk to someone and every time we talked, Sister Armato kept on bringing up cats. At one point, Sister Armato said she didn’t think we should have the lesson and should just talk. We didn’t know what to do and so we ended up listening to Sister Armato and Lindsey talk for 1 hour about a lot of things most of which had to do with cats lol. Then Lindsey went on hold for a long time and Sister Armato talked for another 30 minutes about cats. Sister Moore and I were so confused the entire time.
+
+On Friday, it was so fun because we had a good lesson with our friend David and he had a lot of questions. We are thinking of having a church tour with him so he feels more comfortable coming to church. He is super cool! After that, we had a really good lesson with Sister Boon! We read through 1 Nephi 14 and watched the new Book of Mormon video which was super good! She also fed us some shrimp lol.
+
+On Saturday, we had 8 lessons scheduled, so we were planning on a busy day, but one by one all but one canceled last minute. We ended up stopping by some people instead. It was super cool because we stopped by Kathy who had put in a lot of referrals, but who had never gotten a lesson set up and she answered the door! We gave her a copy of the Book of Mormon and she accepted it as well as an invitation to read 3 Nephi 18. It was so cool! She also gave us some clothes which was super nice of her, but they smell like fish, so we might just get rid of them. We were pretty confused, and the confusion only increased when we tried to talk to our friend Thelma and she spent most of the time talking to her grandkids haha. We are calling her later though! Then we headed to the Chamberlains’ for dinner with Marvin! It was a good lesson and the food was good too! Also, their kids are so cute!
+
+On Sunday, it was so cool because Nneka and our new friend Kathy came to church and they really enjoyed it! Both of them expressed the desire to be baptized. We also found out that Sister Wise is next door neighbors to Kathy, so Sister Wise offered to get Kathy rides every Sunday! Sister Horn and Sister Armato testified of the importance of baptism and it was so cool! I am super excited about this week! Marvin’s baptism is coming up. I will likely hold it over zoom if anyone wants to watch! It will be Saturday at 11:00am EST
+
+I hope you all have a good week!
+
+-Sister Jensen
+
+Photo Descriptions  
+1 Dinner this week (pesto 😋)   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230130_175956.jpg)
+
+2 A plate I painted  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230131_100011.jpg)
+
+3 Me and Sister Van  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230201_142155.jpg)
+
+4 Sister Moore and I  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230201_142246.jpg)
+
+5 Frozen hot chocolate! It's so good!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230202_214706.jpg)
+
+6 Cats!!!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230202_220907.jpg)
+
+7 A beautiful sunset!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230203_170048.jpg)
+
+8 Sister Conti, Sister Moore, Me and Nneka!  
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/IMG_20230206_092350.jpg)
