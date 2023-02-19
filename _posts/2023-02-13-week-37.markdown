@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Mission Email Week 37 - Baptism, Break-in, Blessings"
+date:   2023-02-06 14:31:00 -0700
+categories: mission
+---
+Hello friends and family! This week has felt kind of like a weird fever dream and has been filled with miracles and tender mercies!
+
+On Monday, it was kind of a hard day. I was having a hard time emotionally. Luckily, it was a preparation day, so I was able to take it easy that day. It was bad enough that I didn’t feel like eating anything. I realized that I hadn’t eaten or drank anything at around 8pm and finally ate something and drank some water.
+
+On Tuesday, I felt a lot better, but still kind of drained from the day before. We went to Nneka’s house with muffins expecting to teach Nneka, but Nneka ended up teaching us. Meeting with Nneka was just what I needed because she helped me feel better and more optimistic. She is really amazing! After that, we went to district council which was just what I needed! After district council, Elder Vakalahi gave me and Sister Moore blessings and it was also just what I needed. It gave me a lot of hope and peace and helped me remember to trust in the Lord and find joy in Christ. We decided to go to Wawa’s for lunch since we were out and about, and we stopped at a park to eat. I had a really good chicken hoagie and it was so fun to be on the swings. It was needed to just feel like a kid for a little bit out in the warm sunshine. Then we went to the Buendia’s to help them out around the house. It was good to just sit and keep myself busy cleaning her stove and even though it was a little crazy with her grandkids running all over the house, it was so fun! Her grandkids were super cute and it was so fun serving Sister Buendia and her husband! After quickly changing out of service clothes, we headed to Plaza Azteca to have dinner with Brother and Sister Bolaños. I had some fish tacos and sopapillas and it was so good! I was super full though because I went from not eating hardly anything one day to eating way too much, so my stomach was not happy.
+
+On Wednesday, we had a lesson with Diane early in the morning at Dunkin Doughnuts. We were expecting to have her talk about her problems and how everything was going wrong in her life, but it was so cool because it seemed like this time talking with her because she had this light and hope about her that she didn’t have last week. We had invited her to give her burdens to the Lord, and I think she did that because the difference between this week and last week was so drastic. It was super cool because just like Nneka, she ended up teaching me a lesson that helped me with the problems I had been having this week. It was so cool! After our lesson with Diane, we had lunch and personal study and then went to Sister Cranmer’s house for a lesson. It went really well and it was cool because Sister Cranmer had a pet parrot that occasionally says things. After that, we went to the church for Marvin’s baptism interview. It was kind of stressful because Marvin had to have a last minute interview scheduled with President Cleveland, but they were able to get it scheduled for Friday and Marvin was able to get baptized on Saturday.
+
+On Thursday, we had weekly planning which was good. We were super tired afterwards because it took a lot longer than usual and a lot of our lessons that were scheduled fell through so we had to stay inside for a long time. It was beautiful weather though! It’s been in the 50s and 60s recently! We also had a really good member meal with the Twisdales. I had my first baked potato bar and it was really good! I didn’t know chili was good on potatoes!
+
+On Friday, we had a lesson with our friend Darrel at Wendy’s and Sister Wynne joined us! It was a really good lesson and we talked about the gospel of Jesus Christ! After the lesson with Darrel, we went to Sister Boon’s house for our regular lesson with her. We went to the door expecting to read 1 Nephi 15 with Sister Boon, and our friend Samuel answered the door. We hadn’t been able to get in contact with him for a while so it was weird seeing him there. They were having a business meeting so we weren’t able to have a lesson. It was kind of weird. It was cool seeing Samuel though! After we got home, we had a lesson with George which was really good! He had had been sick for a while so it was good having a lesson with him! That night, I was super worried about the zoom for Marvin’s baptism so it was hard to sleep, but in the morning I figured it out and could relax.
+
+On Saturday morning, we got everything we needed for Marvin’s baptism and headed out the door. I felt like I was missing something, but I didn’t know what it was and we were already running late, so we started to go towards the car. I asked Sister Moore if she had the keys and she held up the keys, so I locked the door. We got in the car and I realized I had left my phone inside the house. Sister Moore gave me the keys, but we realized that the keys didn't have the house key on it because it had accidentally fallen off earlier and we forgot to put it back on! We didn't have time to worry about the fact that we are locked out of the house, so we went to the church building and started to fill the font. Luckily everything was taken care of and Marvin's baptism was awesome! We are so excited for Marvin! After Marvin's baptism, we went back home and had to break in through a window to get inside the house. We decided to lock the outside door with the key so we don't do that again haha. After that, we went to Sister Massado's house for dinner and we taught Anajia. We had some tostados which were really good!
+
+On Sunday, we had Church which was really good! Marvin was confirmed and received the gift of the Holy Ghost and he said he was super happy afterwards! I tried to help in the primary and play piano, but that didn't turn out so good haha! After that he had a lesson with the adults which was really good. When we got home, we had a lesson with Samuel which was pretty good! Then later that night, we had a devotional from Elder cook which was really needed! He was talking about being grateful and loving others and our missionary work! It was super needed and I feel really inspired and motivated to do my missionary work.
+
+Anyways, I hope you all have a good week! Happy Valentine's Day!
+
+-Sister Jensen
+
+Photo Descriptions  
+1 Lunch at the Park   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230207_130204.jpg)
+
+2 Sister Moore on Freddy the dinosaur   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230207_131109.jpg)
+
+3 Me on Freddy the dinosaur   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230207_131204.jpg)
+
+4 Me and Sister Moore with Marvin on his baptism day   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230211_105951.jpg)
