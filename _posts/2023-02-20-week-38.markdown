@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Mission Email Week 38"
+date:   2023-02-20 11:32:00 -0700
+categories: mission
+---
+Hello everyone! Happy President’s Day!
+
+This week has been great! We taught a lot of lessons and we had a lot of fun!
+
+On Monday, we had fun time with our missionary district in the Medford area. We had some yummy enchiladas that Elder and Sister Schmidt made, some cookies Sister Allen made and some weird but delicious spanish rice I made. It was a rice a roni pack I found in the cupboard so it was a combination of rice and noodles and it called for a can of tomatoes, but I didn’t have any so I used a little less than a can of tomato soup. It was so weird because it was like spanish rice mixed with spaghetti and tomato sauce. It was good though! At the district party, we also played the card game scum which was really fun!
+
+On Tuesday, we had district council which was really fun! Sister Schmidt brought us all some crumble cookies to eat while we counseled together. After district council we went to taco bell for lunch with Sister Moore and Sister Armato. It was really fun! After lunch, it was funny because we were trying to get out of the parking lot and I was backing and some random dude was trying to talk to me but it was hard to hear him, so I kept on saying “What?” When I finally understood that he was trying to get my number, I asked if he was interested in learning about Jesus. He shrugged his shoulders and so I got Sister Moore and we gave him a card with our number. He probably wasn’t expecting that, but he got our number I guess haha. We still haven’t heard from him, so I guess he wasn’t that interested in learning about Jesus Christ’s restored gospel. 😂 We went to the church building from taco bell with Sister Armato and we showed our friend David around the church building so he would feel more comfortable with coming to church. He really liked it and just said “Alright!” Later that night, we had a really good lesson with Troy over the phone and then we went to Lisa and Nevaeh’s house. Lisa has been going through so much, so if you could all keep her in your prayers that would be awesome! 
+
+On Wednesday, we had interviews with President Harding which were really good and then we hung out at the nearby Walmart and did some missionary work over the phone and had a lesson with our friend Troy on the phone while enjoying some Auntie Ann’s pretzels. Later, at the church we had a really good lesson with Thatiana! She is doing so good! She is preparing to go to the temple and she is doing such a good job at increasing her testimony and reading the Book of Mormon. It was so cute because her little daughter Aurora was there too and she even helped her mom say the prayer at the end. After our lesson with Thatiana, we headed to Sister Horn’s house and had a yummy dinner of avocado tomato salad and falafels with hummus. It was so good! It was hard to leave on time though because Sister Horn kept talking, so we ended up getting back 20 minutes after curfew.
+ 
+On Thursday, after planning out our week, we went with some elders from Cherry Hill 1 to visit a member named Ricky who had moved from the Cherry Hill 1 area to the Cherry Hill 2 area. It was cool meeting Ricky! After that, we went to the Buendia’s for dinner and we had some tacos which were really good! They told us some cool stories and we had fun! It was also cool because their twin grandchildren were there! After dinner, we went to the relief society activity and it was so fun! We learned how to grow sprouts and had some avocado tomato sprout toast which was really good! It was so cool because our friend Diane was able to come and she made some friends and had a lot of fun!
+
+On Friday, we had a lesson with Sister Boon which went really well! We read 1 Nephi 17 and  had a really good conversation about trusting in the Lord and having faith instead of doubting and complaining. It was really good! We also had a lesson with Samuel which went pretty good! Later, we also had a lesson with Joel who had sent in an online request to meet with us a few days earlier. It went pretty good and we were excited to teach Joel, but later he ended up sending us inappropriate pictures of himself out of the blue and so we had to block his number and stop teaching him. That night, it was fun because we had a call with our district.
+
+On Saturday, we went to dinner with Sister Messado and Abria. Anajia wasn’t there because she had a party. We had some spaghetti and dragonfruit. I had never had dragonfruit before, but it was really good! It was kind of like a mix between kiwi and watermelon and it was bright pink. After dinner, we also had another lesson with Troy which was kind of chaotic because we were driving, so I had to teach the lesson pretty much by myself so that Sister Moore could drive. It turned out good though, and we made it to Lisa and Nevaeh’s house. We were actually able to teach Nevaeh, so that was good and it was so fun talking to both of them!
+
+On Sunday, it was so cool because our friend David came to church for the first time! He had a great time and he made a lot of friends! He said he would try making it to church again! Nneka also came to church and we had a lesson with her after church with Sister Horn! It was really good and Sister Horn invited Nneka to be baptized! Nneka is on date for baptism on March 26! We are so excited for her! She even said she would invite her mom to church and tell her son about what she has been learning. She was so excited! Church was also really good! We talked about how we can find lasting happiness through Jesus Christ that can still exist even through our sad or hard times. We also read through the beatitudes that Jesus Christ shared in Matthew 5 and talked about how sometimes because of Jesus Christ, the trials we go through can help us be blessed and be able to help other people. Later that day, we also had a lesson with our friend George! He loved it! It was so cool because he asked where he could go to buy larger copies of the pictures in the front of his copy of the Book of Mormon, so he could put them up in his house! After our lesson with George, we went to dinner with the Jensen family. We had a good stew and had fun talking with them! Then we went home and had a meeting with all the other missionaries in our mission over zoom.
+
+Anyways, I hope you all have a great week!
+
+-Sister Jensen
+
+Photo Descriptions
+1 My sprout seeds!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230218_073135.jpg)
+
+
+P.S. Sorry I don't have any more photos! I didn't take a lot this week!
