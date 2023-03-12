@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Mission Email Week 40 - Aloha New Transfer"
+date:   2023-03-06 12:15:00 -0700
+categories: mission
+---
+Aloha everyone! Sorry! My new Hawaiian companion, Sister Foukimoana, is rubbing off on me. She’s awesome! I am so excited for this transfer!
+
+On Tuesday, I met Sister Foukimoana and said goodbye to Sister Moore. Sister Moore is in Linwood, New Jersey now. I will miss her so much! It was so cool though being able to drive to Broomall with Sister Drake and seeing all the missionaries who went home last transfer! I even got to see Sister Hewlett! I am driving this transfer, so I drove all the way from Broomall, PA to Blackwood, NJ! I thought it would be crazy and full of traffic, but it actually wasn’t that bad! After getting Sister Foukimoana settled in, we stopped by some people and then went to Sister Horn’s for dinner! It was really good!
+
+On Wednesday, we went really far North into our area and stopped by people in Gloucester City and Collingswood! It was kind of a throwback to the beginning of last transfer when I went there on my first full day! I hadn’t really been back up there until that day, so that was really fun! It was really cool because we had another lesson with Marian! We taught her about the Plan of Salvation and she really liked it! Sadly, she said she is moving, so hopefully she continues to learn about the gospel wherever she ends up! We also got some food from wawa and ate at a nearby park. It was such a nice day!
+
+On Thursday, we had a lesson with our friend Darrel at McDonald's with the Wynnes! It was pretty good! It was weird though because in the middle of our lesson, this random guy in McDonald's came up and started talking to us about his book and started to give us some life advice. We gave him our card in case he wanted to learn more about the gospel. We got back into the lesson and finished it after that. After Darrel and the Wynnes left, we were about to leave and this other random guy in McDonald's was like “Do you have a business card?” We gave him our card and he said he had met with missionaries for a couple years a while back and he wanted to meet with missionaries again and have lessons! That was super cool!
+
+On Friday, we went to Sister Boon’s house and read another chapter with her! It went really well! We also had a lesson with our friend Lindsey! It was really fun! Sadly we had to reschedule our lesson with Nneka since she had a lot going on that day. We also weren’t able to get a hold of any of our other friends that day so that was sad.
+
+On Saturday, we had a lesson with Diane. It went pretty well! She talks a lot so we didn’t really teach her much, but hopefully we helped her just being a listening ear. After Diane, we went to Sister Horn’s house to help make decorations for the relief society activity coming up! After that, we had a great lesson with our friend Marvin! We are hoping he will be able to go to the temple sometime soon! Then, we went to Sister Messado’s house and had a lesson with Anajia. Anajia and Abria are so fun! They showed us their little seesaw and it was so fun!
+
+On Sunday, it was fast and testimony meeting! Fast and testimony meeting is typically the first Sunday of each month, and its where we fast for 24 hours or two consecutive meals and donate a generous money offering to give food to the poor. That Sunday, everyone in the congregation has an opportunity to go up front and share their thoughts and feelings about Jesus Christ and His gospel. It was so good because Lisa and Nevaeh came to church! They haven’t been in a while because of sickness, so that was exciting! The rest of the day we spent doing missionary work online. It was fun because we did a lot of phone calls and messaging at the nearby park. It was such a beautiful day! We were able to set up a lot of lessons for next week so that should be super exciting!
+
+Today, we are going to the baptism for the little Gomez girl! She just turned eight! Then we will go to eat with Sister Horn! We are super excited! Speaking of food, Sister Foukimoana introduced me to spam and it might be one of my new favorite foods! It’s so good!
+
+Anyways, I hope you all have a great week!
+
+-Sister Jensen
+
+Photo Descriptions  
+1 Sister Foukimoana, Sister Moore, Sister Fuiava, me   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230228_135421.jpg)
+
+2 Eating lunch at the park   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230301_125228.jpg)
+
+3 On the swings!    
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230301_131348.jpg)
+
+4 Getting gas! Guess what! They pump the gas for you here!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230301_164718.jpg)
+
+5 Me photo bombing a sunset like sasquatch 😆   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230302_175227.jpg)
+
+6 Looking cute for church!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230305_131024.jpg)
+
+7 After an all mission call   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230305_201553.jpg)
