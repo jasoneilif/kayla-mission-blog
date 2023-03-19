@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Mission Email Week 41"
+date:   2023-03-13 13:34:00 -0700
+categories: mission
+---
+Hello! Happy Saint Patrick's Day 🍀and happy Pie Day🥧! This week has been so cool!
+
+On Monday night, we went to Ava Gomez's baptism! It was so cute! After that, we went to dinner with Sister Horn!
+
+On Tuesday, we had our first district council as a new district! It was super fun and we learned how to blow an egg from Sister Schmidt. After that, we went to Chick-Fil-A for lunch and the owner of Chick-Fil-A happened to be there! It was crazy! After that, we had a lesson with Ama-edi which was really good! Then we did some contacts on the phone and decorated Lisa's door with paper hearts. She hasn't been doing too well.
+
+On Wednesday, we went to see Sister Olmo. She is so sweet! She took us out to eat and we had so much fun getting to know her! After Sister Olmo, we did some stop bys in the area. Most of the rest of the day was spent calling and texting people.
+
+On Thursday, we had a crazy experience stopping by someone who had sent in an online request! Bill had requested a Book of Mormon, but he wanted us to drop it off at his work at an auto shop. We went in and asked for Bill and the man pointed to the Boss's office. Bill is the boss for this place and so he was too busy at the moment to talk, but we left him with the book and a pamphlet. We walked out the door and were stopped by one of Bill's customers. He asked us about our missionary service and we ended up giving him our card. Just as we were about to say goodbye, Bill's employee came up and asked if he could have a copy of the Book of Mormon as well! We went to the car while the employee took care of the customer and then gave both of them a copy of the Book of Mormon!
+
+Right after that, we headed to interviews with president after accidentally almost heading home. It was really good although it felt super short! After interviews, we went to exchanges in Vineland. It took about an hour to get there so it kind of felt like a road trip! Once we got there, I went with Sister Hunsaker to a lot of houses to do stop bys. We drove around for about another 2 hours since they were so far away from each other and so it really felt like a road trip! It was so fun being companions with Sister Hunsaker because she was my first sister training leader I went on exchanges with when I was in Morrisville! When we got back, we had some spam and rice which were super good, and then while Sister Bull and Sister Foukimoana were out doing something else, we worked on Facebook. After that, we got Ritas which was so good!
+
+The next day, we traveled back to our area and went to Sister Boon's house for our weekly lesson. It was really good and we got to shell some shrimp which was really fun! Then we went to Nneka's house! It was so exciting because she wants to be baptized! We have her on date for the 16th of April and we are so excited for her! It was so cool seeing her mood when we got there and when we left. She was so sad at the beginning, but by the end she was so happy! Satan is really trying to keep her down and tempt her, but she is so strong and is relying on the Lord for strength! She definitely needs a lot of prayers and support though! After talking to Nneka, we went back home and did some phone contacts. That night we had a district call which was really fun!
+
+On Saturday, we went to Daniel's house. He had sent in an online request to have a Book of Mormon. We sadly weren't able to stay, but he was so excited. We felt bad that we couldn't stay and share a message. After that, we did some stop bys and tried to set up lessons with our friends.
+
+On Sunday, church was so good! Sadly Marvin wasn't at church to get his temple recommend, but Nneka came to church and she had a lot of fun talking to the ladies in our congregation at our mini social event after church in honor of pie day. It was really fun!
+
+-Sister Jensen
+
+Photo descriptions  
+1 Me and Sister Fo'ukimoana   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230307_103244.jpg)
+
+2 District lunch photo!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230307_135420.jpg)
+
+3 Eating dinner   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230310_191000.jpg)
+
+4 When your pen runs out of ink 2 times while you are on a doorstep 🤣   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230311_150722.jpg)
+
+5 What I ate for dinner 😋 (Spam included!)   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230312_182335.jpg)
+
+6 Sister Fo'ukimoana drew this! It's amazing!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230309_121418.jpg)
