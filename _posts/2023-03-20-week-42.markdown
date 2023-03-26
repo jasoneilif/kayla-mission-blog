@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Mission Email Week 42"
+date:   2023-03-20 12:43:00 -0700
+categories: mission
+---
+This week has been really good! On Monday, we had dinner with Sister Horn like usual. It was so fun! Then on Tuesday, we had district council. It was so good! We had the Pennsauken branch president come and talk to us about working with the members of the congregation to do missionary work. It was so cool because he talked about how it’s all one work. We shouldn’t put people in buckets and treat them differently because they were just baptized or they aren’t a member. It’s one work because we are trying to help each individual person make it to the celestial kingdom to live with God again. It was so cool seeing how we can all work together to strengthen each person in the gospel! Also, the Pennsauken Branch President brought us pizza so that was good! After district council, we went to Daniel’s house again with Sister Borden. He had read the entire Book of Mormon in 3 days and he really liked it. He had a lot of questions that we answered and it was really good! Daniel came to church on Sunday too! I think he liked it! He had to leave right after sacrament meeting so we never got to ask him.
+
+On Wednesday, we had zone conference. It was so good! We watched a video about the Savior instituting the sacrament. In case someone doesn’t know what the sacrament is, it is a special ordinance we do in church. Bread and water is blessed and passed around to everyone in the meeting. We take the bread and water to remember Jesus Christ and His sacrifice and for those who have been baptized, the sacrament allows us to renew the promises we make with God at baptism so we can have the Holy Ghost with us. We talked about the importance of the sacrament in our lives as well as the lives of our friends. One thing that really stuck out to me is how when we take the sacrament we can find more peace in our lives as well as a greater connection with Christ and Heavenly Father. After zone conference, we went to Nneka’s house and spent pretty much the whole rest of the day there. It was really fun! It is still going pretty slow trying to help her get ready for baptism, but she is super excited and staying strong. It’s been hard for her recently, but the Lord is helping to strengthen her.
+
+On Thursday, we planned out our week and did a lot of contacting. On Friday, we did more contacting since  our lessons fell through. Later that night we went to the church building to help set up for the relief society activity. It was really fun! Sister Foukimoana and I even got to help make some of the decorations!
+
+On Saturday, we had a lesson with Diane at her house this time. It was super cool and we even got to meet her friend Dennis who gave us some yummy soup! After having a lesson with Diane we went to the relief society activity. There were a lot of people who came! Lisa and Nevaeh were able to come and Lisa brought her roommate which was really cool because she didn’t really like us before. We also had a lesson with Norman which went pretty good! Then we went to Sister Messado’s and had dinner with her! Sadly Anajia and Abria weren’t there, but it was still fun! Then we went to Sister Boon’s house and had a really good lesson with her!
+
+On Sunday, we had a great sacrament meeting and lesson afterwards! After church, we stopped by some people and had some meetings. We also had dinner with the Wynne’s which was really good! 
+
+Anyways, that was the gist of my week! I hope you all have a good week!
+
+Hwyl (Bye in Welsh),
+Sister Jensen
+
+Photo Descriptions  
+1 Zone Conference outfits!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230315_142734.jpg)
+
+2 Spam dish 1   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230316_084700.jpg)
+
+3 Cool shades! 😎    
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_884019672873289.jpeg)
+
+4 Spam dish 2   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230319_142809.jpg)
+
+5 Zone Conference picture   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/FB_IMG_1679321863855.jpg)
+
+6 Role plays at zone conference with Sister Moore and Sister Fuiava   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/FB_IMG_1679321893225.jpg)
+
+7 Eating yummy food at zone conference    
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/FB_IMG_1679321910329.jpg)
+
+8 Oatmeal dish (Not spam 😂)   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230320_120658.jpg)
+
