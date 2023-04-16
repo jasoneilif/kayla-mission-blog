@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Mission Email Week 44"
+date:   2023-04-10 12:43:00 -0700
+categories: mission
+---
+Hi again everyone! This will be a short email since I just wrote, but it's been crazy!
+
+On Friday we met a super nice lady named Kathleen and we prayed with her and taught her about the plan of salvation since her sister is in the hospital. We also went over to Nneka’s house, but we ended up vacuuming instead of teaching her because she needed to shower. Hopefully she will actually be taught soon so she can be baptized!
+
+On Saturday, we had a really cool lesson with our friend Eddie who came to General Conference! He is so spiritual and it was a really good lesson! We also went to Sister Messado’s for dinner and taught Anajia! It was really fun because we did role plays and then after the lesson we helped make potstickers. It was delicious!
+
+On Easter, we left the house early and drove 30 minutes to Cherry's house so she could follow us to church, but she didn’t answer so while sister Foukimoana was writing a note for Cherry I knocked on a nearby door and awkwardly invited this random guy to church. Sadly he said "Naw, I'm good." We went to church and had a really good service! We had a really good musical number by a lady in our congregation and the little kids also sang a few songs. It was so sweet! It was so cool because I got to watch my friend Ryan's baptism over zoom! He is my friend from the Valley Forge 2 area! It was so happy seeing everyone, and Bishop Finlayson was able to baptize him! After that, we went to the Wynnes for dinner and it was so fun because their kids were there! They shared some Easter messages with us and it was awesome!
+
+Sadly, today I am packing because I was transferred to Medford, NJ! I will be companions with Sister Oliver though so that is exciting! She was in my district! Sister Foukimoana will be staying here and training while covering both Cherry Hill 1 and Cherry Hill 2. She's awesome, so I know she will do great! I am sad to leave her, but super excited to be companions with Sister Oliver!
+
+Anyways, I will write later! Have a great week!
+
+-Sister Jensen
+
+Photo Descriptions  
+
+1 My cleaning project for the week...the indoor porch   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230407_123838.jpg)
+
+2 Sister Anderson, Sister Giles, and Ryan   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_3591342714480675.jpeg)
+
+3 Ryan with the Finlayson Family   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/FB_IMG_1681073334552.jpg)
+
+4 A cool lime green tree   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230409_165044.jpg)
+
+5 Probably our last car selfie 😥   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230410_153713.jpg)
