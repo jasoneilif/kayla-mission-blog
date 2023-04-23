@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Mission Email Week 46"
+date:   2023-04-17 14:49:00 -0700
+categories: mission
+---
+Hello everyone!
+
+This week has been so fun and so crazy! On Tuesday, I had transfers, so I went to Medford with Sister Oliver! I absolutely love it here! It’s been so fun, and I love Sister Oliver! It’s funny because we are basically the same person!
+
+It was funny because literally as soon as I got here, the Sanchez family randomly took us to Rita’s. It was so fun! Their daughter Norma came and she is literally so sweet! We also got randomly invited by them to have dinner with them and it was really good! After we did some messaging, we had a great time with the Sanchez family and then we headed home to have a lesson with our friend Alexa! Alexa is so sweet! We had a lot of fun reading Alma 32 with her from the Book of Mormon!
+
+On Wednesday, we had a lot of fun! We get to serve at a thrift store, so that was really fun! We sorted clothes and folded bags. I met so many nice ladies there and one lady whose family was from Italy made us some ricotta pie! It reminded me of lemon ricotta biscuits just in a pie form instead of a muffin form. It was super yummy! After that we did some stop bys and then we went to the Guthe Family’s house for a lesson! It was super good and they are so amazing! We talked about the word of wisdom and how when we take care of our bodies like God intends, we are blessed! It was so good!
+
+On Thursday, we planned for our week and then we did some contacting and then we knocked on some doors. We ended up running into Michelle who was interested in hearing more! She was super nice! Like a lot of times, we had to knock on a lot of doors before we made it to her door, but we made it there and luckily we felt like we needed to knock on her door! After knocking on some doors, we went to Sister Foulk’s house for dinner. She is super sweet and she loves family history work! The food she made was really good too! After going to Sister Foulk’s house, we went to Cheryl and Bob’s house. Cheryl was recently baptized, but her husband hadn’t joined the church yet and he also hadn’t really been super involved in the lessons. It was cool though because when we went over this time, he had turned off the tv and sat down and listened in on the lesson! He even had some questions! I love them! They are so funny! The lesson was so powerful and spirit led!
+
+On Friday, it was a crazy day! We had planned to visit a member of our congregation, but when we got to her house, we remembered that we had an all mission call, so we hurried on the call 15 minutes late, and we potentially missed our opportunity to visit her. We stopped by a few more people in the area and then had a fun lunch at a nearby picnic bench. We had brought a chess board and had fun playing a game during our lunch break! Then we did some more stop bys, but it was super weird because while we were driving, a private investigator called us asking for the bishop’s number. That was interesting! We also met a super nice lady named Janet who we found knocking doors! She had to run out of the door, but we gave her a pamphlet talking about the Plan of Salvation. 
+
+On Saturday, it was such a weird day! We didn’t get quite enough sleep last night, so on Saturday morning, I was super brain dead. I was super weak and just felt like passing out. Luckily, I had just enough energy to get to the places we needed to get to. We went to Sister Paul’s house for lunch and it was so fun! She prepared so many fruits and veggies and it was super good! She is super sweet! Then after that, we did a few stop bys. It was crazy though because Sister Oliver felt like we needed to knock on a random door and it turned out to be Craig who is super cool! He had already seen missionaries in Salt Lake City, UT and he already had a copy of the Book of Mormon! He wasn’t super interested, but he let us share a little about the Plan of Salvation and left him some things to think about. It was really cool! Luckily, Sister Oliver wasn’t brain dead like I was! After that, we went to Sister Corbo’s house and had a super fun time talking with her! It was awesome! It was crazy because while we were there the weather turned into a super crazy thunder storm and when we left her house to get to the car, we were drenched in seconds! It was crazy, but we made it safely!
+
+On Sunday, we had a great time at church! It was so fun meeting everyone! It was a little scary because the member of the bishopric had me come up and share a little about myself. I wasn’t expecting that, but it turned out ok! It was crazy though because we ended up getting out of sacrament meeting half an hour early and having an extra half an hour of sunday school! It was really good though! After that, we had a super cool meeting with the bishop and his second counselor to talk about the members who had unknown addresses and phone numbers. After that, we received a referral for what appeared to be Michael Jordan, just spelled Micael. We were kind of freaking out, but when we called, it was a lady and she said she had just forgotten the hyphen so it is actually Mica-el. She is super cool and we should be talking with her this Tuesday! Then we had dinner with the Sanchez family again since they wanted us to drop off a Book of Mormon for them. It was super fun!
+
+Anyways, we have so many adventures coming up this week and I am super excited! I hope you all have a great week!
+
+-Sister Jensen
+
+Photo Descriptions
+1 Last Photo With Sister Foukimoana! 🥲   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230411_101240.jpg)
+
+2 First Photo with Sister Oliver this transfer lol   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230411_171128.jpg)
+
+3 Having fun with a crocheted raspberry!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230411_171158.jpg)
+
+4 First District Photo   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/Screenshot_20230412_213012_Messenger.jpg)
+
+5 I made Sister Oliver's hair into an orange bun literally 🍊 I even rubbed it in so it smells like one   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230414_184327.jpg)
+
+6 Car selfie!    
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230416_202016.jpg)
