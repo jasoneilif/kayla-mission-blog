@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Mission Email Week 48"
+date:   2023-05-01 15:01:00 -0700
+categories: mission
+---
+Hello everyone!
+
+This week was super fun! It was a little slow at times, but it was really good!
+
+On Tuesday, we had district council again, but this time it was in Sewell! The church building grounds there are so pretty! It kind of felt like a fairytale! Sadly, the sisters had to join over zoom because one of them had strep throat. After district council, we kind of felt unmotivated, so it was difficult to keep on doing missionary work, but we did ok! It was nice though because we had dinner with the Vancours and it was so fun! Their 3 kids were super fun and we had a blast talking with them!
+
+On Wednesday, we did service at the thrift store which was really fun! We sorted clothes and I steamed clothes for the first time! It was really fun! There was also a lady who came who only spoke Spanish and the ladies there didn’t speak any Spanish, so they had me attempt to communicate with her. It was kind of a train wreck because they wanted me to ask complex questions and she said a bunch of things I didn’t understand, but I think I was able to get the gist out that she should come tomorrow (mañana) when there were people who spoke Spanish working. Anyways, after we worked at the thrift store, we went to Sister Bjorn’s house for lunch and had a lot of fun! We talked a little about General Conference and we played the game Azul! I hadn’t played that game for a long time, so that was really fun! Her soup was really good too! After that, we had a lesson with the Guthe’s and that was really cool! We talked about how we can recognize spiritual promptings and Sister Guthe shared one of her favorite camp songs with us! It was so pretty! After going to the Guthe’s, we went to Bob and Cheryl’s house and talked about the principles learned in the story of Ammon! It’s really cool! It’s about an ancient american Nephite missionary who goes to enemy territory to teach the people there called the Lamanites about the gospel. Ammon becomes the king’s servant and defends his flocks by the power of God from the kings enemies. The king, King Lamoni, is so amazed because of Ammon’s power and Ammon explains that his power comes from God and teaches the king about Jesus Christ. King Lamoni and eventually his whole household have a miraculous vision in deep sleep and are all converted to Jesus Christ. Here is the link to the video in case you would like to watch it! (INSERT LINK HERE)
+
+After our lesson, we went to the Sanchez’s because they were hosting the youth paintball activity. Sadly, our lesson ran long so we got there right as everyone was leaving, but it looked like it was a lot of fun and one of the youth invited her boyfriend to come! She also invited him to come to church and I guess his family and him are potentially interested in learning more about the church! Even though we missed the activity, it was fun being with Norma and her friend while they played with balloons and talking with Sister Sanchez.
+
+On Thursday, we planned out our day using a fancy flower board that we made to help our friends more effectively. It is really fun! After that, we went to Mary and Dan’s house and it was so fun! They fed us lunch and then we helped Mary get ready for her family reunion! She loves family history so that is so fun! I love family history too! After that we went to the Ilori’s and taught their daughter who is preparing for baptism. We had so much fun and had a party! After the lesson, their mom fed us some white yam with spicy eggs that caused burning all the way through. We were super full since we had already eaten and then after a lesson that fell through with Sister Paul and Stephaney, Sister Paul invited us over and fed us even more food! Somehow we were able to fit it all in. She made some crab wraps which were really good!
+
+On Friday, we had lunch with the Sanchez’s at McDonalds which was really fun! We also were going to have a lesson with Dave and Sister Sheridan, but Dave wasn’t able to join. We did have a good lesson with Sister Sheridan though!
+
+On Friday, we did a lot of indoor contacts because of the rain, but we did meet this guy named David who is cool and might be coming to church sometime!
+
+On Sunday, church was really good! We also watched Sister Oliver’s friend Mike get baptized over zoom and it was so beautiful! We also went to Sister White’s funeral. She is an older lady in our congregation who just passed away. I never got to meet her, but Sister Oliver did sort of so we went to support the family. It was raining a lot this week so it kind of matched the mood. That night we had a fancy dinner though and we also watched a church movie about Christ and it was so beautiful! We didn’t realize until the next morning though that it was my 11 month mark, so that was good that we accidentally celebrated!
+
+Well, I hope you all have a great week!
+
+-Sister Jensen
+
+Photo Descriptions  
+1 Sister Oliver looks like the statue of liberty   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_2360656427437636.jpeg)
+
+2-5 District Council   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_3156195561193520.jpeg)
+   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230425_102908.jpg)
+   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230425_102825.jpg)
+   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230425_102650.jpg)
+
+6 Crazy face masks 😆    
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230428_223304.jpg)
