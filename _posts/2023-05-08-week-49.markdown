@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Mission Email Week 49"
+date:   2023-05-08 14:47:00 -0700
+categories: mission
+---
+Hello friends and family!
+
+On Monday, It was a little rough at first, but it was really cool because while we were driving to the church building to talk to our families, our Bishop called and said that our friend Rick had contacted him asking if he could become a member and be baptized! We were super excited because Rick had been coming to church to take his friend Brother Hackley for about a year, but he had never really taken the lessons before or expressed any desire to be baptized. We were so excited! He is being baptized on June 10th!
+
+On Tuesday we had a great day! We went to district council and it was really good! We also got a call from Cheryl and she was being really sweet and she wanted to help one of our members of the congregation who had just had a baby. After district council, we went to knock on a few doors and that didn't really go anywhere. We got home and had a late lunch And then we had a lesson with Alexa. It was really good!! It was going to go a different way, but we ended up realizing that we needed to share Alma 40 with her because her sister had just passed away. It was cool being able to follow the spirit for that lesson! We also were able to figure out why she wasn't coming to church and she shared her testimony of the Book of Mormon! We also came up with an idea to see more positive with something called find the geese because of this talk called The Imperfect Harvest which is really good. Here is the link in case you would like to read it! 
+
+https://www.churchofjesuschrist.org/study/general-conference/2023/04/54stanfill?lang=eng
+
+We say "find the geese" when we need to be more positive!
+
+Anyways, on Wednesday we were able to serve at the thrift store again and it was so fun! There were a lot of clothes that needed to be steamed so we did that pretty much the entire time! We went home and had lunch and right after lunch we went to the Guthe’s house and had a lesson with their friend Marlene! Marlene is such a cool lady! She does feet therapy and that's how the Guthe’s know her. She is very knowledgeable in the Bible and already knows so much truth without us even having to say much! She lead the conversation right through the points in the lesson! It was sad though because we were only able to mention Joseph Smith near the end and she had to go, do it was kind of an abrupt ending, but she said that could be for another conversation another day, so hopefully she wants to meet again! After that, we stopped by a member's house named Dotty, but she didn't answer. We went home and had dinner and then we went back to the Guthe’s again for another lesson but with them this time 😄 
+
+On Thursday, we planned out our week using our new flower board and that was really fun! We almost have everything cut out and put together! We were really sad about Rick though because he had said he wasn’t going to be baptized because it was hard to schedule something. We were both really exhausted, but we went to Sister Corbo’s to help her organize her files. I was fine at first, but by the time we left three hours later, I was absolutely exhausted. I had wobbly legs all the way home. As soon as we got home we had to have our phone lesson with Alexa. I was so sad because I totally fell asleep part way into the lesson on the couch. When I woke up finally feeling a little refreshed. I found Sister Oliver fast asleep on her bed. We kind of switched places energy wise lol. A little later we got a call from Sister Foulk and we were confused because we thought that we were having dinner with her at 6:30, but it was actually supposed to be at 5:30. We were about to cancel since Sister Oliver had a really bad migraine, but she said we could come anyways. Sister Oliver wasn’t feeling too well, so Sister Foulk was really nice and gave her a heating pack for her face and some medicine. She let us just sit and lay down for a little which was super needed!
+
+On Friday, we made a lot of cookies for a lot of people. It took a little longer than we planned, but it actually was a huge miracle! We stopped by Sister Branum and then we went to Sister Morgan’s house. She answered the door and let us in! We talked about all kinds of things and it was so great! It was a blessing because just before we had gotten there, there was a huge hailstorm that had ripped off leaves. We also seemed to have missed the hailstorm where we lived as well although it wasn’t quite as bad as where Sister Morgan lived.
+
+On Saturday, we attempted to finish our cookie run, but we weren’t able to get to all of the places we wanted to go. After our stop bys, we had a lesson with Bob and Cheryl that went really well! We talked about the story of Alma and Amulek in the Book of Mormon and it was really good! We decided to go on a walk for dinner and get some sushi since it had been a long and kind of rough day. We made it fun though!
+
+On Sunday, we had stake conference which was really good! I loved this one talk about some of the Saviors questions he asks and how it applies to our lives. It was really powerful! After that, we did our last cookie stop bys and since they were so close to our house, we decided to walk. It was super fun because I got to meet Julie and Joe and talk about plants and we also had a great time talking to Carol! We also delivered some cookies to a random neighbor we didn’t know. It was super fun, but we kind of forgot to introduce ourselves because we felt awkward and said goodbye as soon as we gave them the cookies. Next time, we will actually introduce ourselves haha. We were actually having so much fun delivering cookies that we accidentally skipped dinner and had to get on our late night meetings.
+
+This morning was not the best. We were both super worried because Rick changed his mind and did want to meet and we hadn’t gotten a member on the lesson. We were also stressed about getting everything done. It was so funny though because it totally worked out and that was one of the best lessons! Rick actually opened up a lot and Bishop Michels and his mom came and were just the people who needed to be on the lesson since Bishop Michels had been in the army and could connect with Rick who had been in the Marines. It was a super good lesson and since we hadn’t eated anything, we stopped by Taco Bell on the way back. Also we had the lesson in a really cool library with cool antique technology and books.
+
+I hope you have all been doing good and that you have a great week!
+
+-Sister Jensen
+
+Photo Descriptions  
+1 Car selfies!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230503_172541-COLLAGE.jpg)
+
+2 We were opposite matching    
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230506_184503.jpg)
+
+3 Our district leader challenged me to see how many paper worms I could put in my hair   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/Screenshot_20230507_163224_Messenger.jpg)
+
+4 I did Sister Oliver's hair!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230502_192105.jpg)
+
+5 Face mask time!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230505_224050.jpg)
