@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Mission Email Week 51"
+date:   2023-05-22 13:02:00 -0700
+categories: mission
+---
+Hello everyone! This week has been so full of miracles that I don't know if I can share all of them! It was an amazing experience for me and Sister Oliver! There were hard times, but there were also really good times!
+
+On Monday, we had to cancel our dinner appointment with the ward since President Harding said we can't have meals with members on Mondays anymore. We felt really bad about canceling and so we weren't in the right mood to do missionary work after 6pm. It was kind of hard, but we learned a lot even if we didn't end up actually doing any effective missionary work.
+
+On Tuesday, we had district council again. It was fun because this time we had a bake off and brought some baked good to snack on while we counseled together. We got to take the cheesecake that Elder Lindstrom made home and we snacked on that all week. After district council, we decided to try going to Eastampton since not many missionaries had done much there. It was so cool because we ended up randomly meeting Devon on our way back to our car. He was the one who asked what we did so we invited him to church. He said he would come! Later he texted saying he couldn't make it this week but next week. Normally people say they will come and then they don't come and don't tell you why, so it was a miracle that Devon let us know that he couldn't make it. After meeting Devon, we decided to go to visit Gregory since we had his contact info, but hadn't been able to stop by. On the way there, Sister Oliver accidentally made a wrong turn onto a different street, so we decided to just stay there and walk around inviting people to church. That was how we met Enya! She was outside washing her car when we showed up and invited her to church. She initially said no, but asked us about what we believe and about our church service and we started talking. We gave her a Book of Mormon and had a great conversation with her. By the end of our conversation 1-2 hours later, we had become besties and were bonding over VeggieTales and other random stuff. She invited us to her church and we invited her to our church so we will be visiting each other's churches this next Sunday. It was amazing and Enya already has so many spiritual morals and knowledge already. After that we had a surprise dinner with the Sanchez family. It was really fun and we had some really good food! I also played a duet with Norma on the violin and then played some hymns for them. They said they were going to kidnap me and keep me in New Jersey haha. It was so fun!
+
+On Wednesday, we served at the thrift store and had a lot of steaming to do again! It was so fun! We also found some cute clothes this time! We went home and had lunch and then we went to Freedom Park to invite people to church. It was so cool because that's when we met Michelle and Rick! They were sitting next to the Veterans memorial and we invited them to church. They said no, but Michelle started asking us questions about the church and we had a lovely conversation with them. We even had the opportunity to sing the children's song I am a Child of God to them and they loved it! Michelle loved it so much that she recorded us singing it and sent it to her son or grandson. It was so cool! After that we went home for a quick dinner and then had a lesson with Bob and Cheryl which went really well! We talked about the 10 commandments and how they came about. Then we went to the Guthe’s house and had a great lesson with them about an article titled [Anatomy of a Peacemaker](https://www.churchofjesuschrist.org/study/ftsoy/2023/02/05-anatomy-of-a-peacemaker?lang=eng). It was really good!
+
+On Thursday, we planned out our week and then we had a fun call with Brother Lucas! We sang him a song and had a good conversation with him! We also went around and invited people to church. I was super out of it and was really tired and my foot hurt and I had a headache so we took it easy. Then we went to Sister Foulk’s house for dinner. This time it was tomato spinach chicken and rice and it was so good! Afterwards, I was a little better, but it was still kind of a rough day. We were able to call Dotty Walton, a member we had wanted to reach out to and she was so happy to talk to us. We were able to set up a time to meet with her and her boyfriend John who had not been baptized yet.
+
+On Friday, my foot was feeling a little better and we spent a lot of the day cleaning up our contacts so that was good. We were even able to get in contact with some people we hadn't in the past.
+
+On Saturday, we had our lesson with Dotty and John and it went really well! Dotty and John are so fun! It was so cool because they were able to come to church on Sunday and John said he would try to read the Book of Mormon! It was awesome! After their lesson we took a short break and then we stopped by a member's house. Sister Oliver felt prompted to stop by Wendy’s house a few houses down. Wendy had put in a lot of online requests, but we had never actually been able to get in contact with her. We were so happy when her parents answered the door and said she was home! We had an awesome time talking with her and we were able to give her a copy of the Book of Mormon! It was crazy because she had just prayed 20 minutes before we came that she would receive more direction and then we showed up. We were able to be an answer to her prayers so that was awesome! She also came to church this week so we were super excited about that!
+
+On Sunday, we had a great time at church. A lot of our friends came to church and it was so fun seeing all of them. We also had some really good speakers! A little girl even gave a talk and it was awesome! Then we had a lesson with our friend Rick and Cheryl was able to help out! It went really well! After that, we did some other missionary work and even had the opportunity to teach another John over the phone. It was so cool! Then we had some meetings and then made some fish, quinoa, and broccoli which was so good! It was a good day!
+
+Anyways, I hope you all have a great week! 
+
+-Sister Jensen
+
+Photo Descriptions  
+1 Spirit animals! 🐱🦊   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230520_195619.jpg)
+
+2 Anajia was baptized in Cherry Hill 2 and I was so excited. Sad I missed it! I am glad it went well though!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_567898765514544.jpeg)
+
+3 I saw this bookmark and thought it was cool!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230521_094723.jpg)
