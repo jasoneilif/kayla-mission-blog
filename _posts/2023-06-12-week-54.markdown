@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Mission Email Week 54 - Tender Miracles"
+date:   2023-06-12 14:31:00 -0700
+categories: mission
+---
+Hello everyone! I know I say this a lot, but it really was a roller coaster of emotions! “I laughed! I cried! It moved me Bob” (VeggieTales quote haha) But like for reals I laughed, I cried, I mourned, and I smiled so much my cheeks hurt! It was a crazy week!
+
+On Tuesday, we had district council. It was super funny because everyone except our district leader and his companion knew that we were all meeting in Sewell which is the district leaders area. While all the sisters met at the Sewell building, the elders ended up going all the way to Cherry Hill. Since we didn’t have the key to the building we ended up having district council outside on the grass with the elders on a call while they drove to Sewell. Eventually they made it and we were able to have the rest of district council like usual. After district council, we all went to Wawa for lunch! After lunch, we went to the church for our lesson with Eric Andre, Ruth and Rebecca, and we had Sister Foulk and Even Foulk come for the lesson, but Eric Andre canceled last minute. We asked Sister Foulk if she would like to come with us to our next lesson with Kenny and Yashika and she said sure! Sister Foulk is the best! Sadly, when we got there, Yashika was in the car and it looked like she was crying. She told us to knock on the door and then she backed out of the driveway. We knocked and a teenage girl answered. She said none of the Kennys were home so we got her information and set up a time to come back. We were sitting in the car trying to figure out what we could do since our lessons were canceled and we started driving back. We passed the house and saw a truck pull into the driveway. Sister Spencer pulled the car over and got out to talk to him. It was one of the Kennys and he said no one had put in a request and we didn’t need to go over any more. It was super sad. We went back home for dinner and then had a crazy long lesson with John Wyatt. We did get to teach him a lot though!
+
+On Wednesday, we had service at the thrift store again and it was really fun! It was Sister Spencer’s first time! After service, we went to the store to pick up some veggies since we didn’t have time on preparation day to go shopping because of our lesson with Rick. I got some edumames and it was the best! After lunch, we went to Mount Holly to visit Tiana for our appointment, but she didn’t answer the door or the phone. It was really sad! We did some stop bys around the area and then we went to Bob and Cheryl’s house. We had a pretty good lesson. We were explaining about baptism and confirmation and then I realized half way through that what we were doing was missing the point. I shared a video about the Savior and as soon as we focused on Jesus Christ it changed the whole mood and spirit of the lesson. It was beautiful and we were even able to invite Bob to pray about baptism. Then we went to the Guthe’s for a lesson and that was really fun!
+
+On Thursday after planning out our day, we went to the church to finish Rick’s program and then we drove to Cherry Hill for interviews. It was so fun being back in Cherry Hill! After interviews, we drove to Vineland for exchanges.
+
+On Friday, we had exchanges with the sister training leaders. It was really fun! I was with Sister Sessions and we had some really cool miracles! We decided to knock on this one street and I felt like we needed to go left, but we ended up going right and all over the place. We eventually went left and it was perfect timing because we met Gio. He was interested in coming to church, but he lived in Norristown, PA. It was a miracle because I served in Valley Forge and had the address to the building in Norristown memorized. Right after we were about to leave, Gio’s friend Eli came to the car and we were able to invite him to come to church as well! He said he was looking for a church and had already read some of the Book of Mormon! Later after eating some Chik-Fil-A, we were coming out and I saw a lady that I felt like we needed to invite to church. Sadly by the time we got out, she was gone. I was backing Sister Sessions out of the parking space when I saw her walking near the Shop Rite parking lot and I told Sister Sessions and she took us straight over weaving through the Shop Rite parking lot. We eventually found parking and then walked over to where the lady had gone and she was with a whole bunch of other homeless people. We invited them to church and they all said they would love to come! It was so cool! Anyways after exchanges, we went home and got some rest for Rick’s baptism tomorrow.
+
+On Saturday, we went really early to the church for the family history activity and to set up for the baptism. We filled the font and made a fun decorative table. The baptism for Rick went really well! There was so many people that came that we had to do it in the chapel! Even President and Sister Harding came! Rick’s family all came to support him and Rick brought some pizzas his boss had given him for his baptism. It was so fun! Right after Rick’s baptism, I got to watch my sister Emma’s baptism and it was such a special time! I was so filled with joy! After watching my sister’s baptism and cleaning up a little, we knocked a few doors and then went to the Vancours for dinner! It was super fun!
+
+
+On Sunday, we were able to watch Rick receive the gift of the Holy Ghost! It was so special and he stood up front and shared his testimony with everyone! I also had the opportunity to play one of Sister Guthe’s favorite songs “Walk Tall You’re a Daughter of God” on the ukulele and sing. It turned out good! Then during second hour, we were able to teach Jason again! It was really good and he accepted the invitation to be baptized on the 2nd of June! We were kind surprised, but super excited! After church, we headed home for lunch and then back out to meet with Dottie and John! It was a really good lesson and we were able to have a really good conversation! We were able to invite John to be baptized and he accepted! We aren’t sure what day yet because we have to figure out a few more details, but it is really exciting! After that, we did the rest of the things we needed to do. That night was hard because our friend John Wyatt didn’t like something we shared with him and was really going through a hard time. We are still kind of worried about him, so if you could all pray for him, we would really appreciate it!
+
+
+Anyways, I hope you all have a great week! There are “tender miracles” every day! (That’s something I accidentally said on exchanges haha).
+
+-Sister Jensen
+
+Photo Descriptions  
+1 District council    
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_211716778425013.jpeg)
+
+2 Sister Spencer got a package   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230608_160115.jpg)
+
+3 Car selfie!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230608_195733.jpg)
+
+4 My table decor!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230610_105541.jpg)
+
+5 Table picture!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230610_105557.jpg)
+
+6 Sister Spencer, Rick, and I   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230610_132031.jpg)
+
+7 Sister Sessions and I   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_779339220243466.jpeg)
+
+8 Sister Spencer, me, Rick, and the Hardings!   
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_245288234865621.jpeg)
