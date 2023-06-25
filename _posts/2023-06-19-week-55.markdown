@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Mission Email Week 55"
+date:   2023-06-19 14:27:00 -0700
+categories: mission
+---
+Hello friends and family! Happy Father’s Day! I hope you all had a great day yesterday!
+
+This week was pretty good and eye opening. I was finally able to meet with a councelor. It was good to do that and I have a renewed desire to do things to be better mentally and be happier. I kind of realized that like any other illness or health problem, the doctors can prescribe medication or give you things to do that can help you get better, but you have to actually take your health seriously and do the things necessary to get better. I had a little mental health scare, but I don’t see myself coming home anytime soon because I have the coping skills I need and I have the Savior to help me. I will definitely have to be diligent, but I know I can do it! So far so good!
+
+Anyways, on Monday, we had dinner with the Sanchez family! It was really fun and we had a great time! We tried to call President Harding to talk about our friend who was struggling and he wasn’t able to talk since we had Elder Ringwood visiting the mission. We ended up getting some help, but it was kind of crazy and stressful.
+
+On Tuesday, we had district council which was ok. I was super depressed because during district council, we were going between participating with everyone and then going in the back to take care of lots of phone calls and other things relating to this friend. That district council meeting was rough because I just wanted to cry and let my brain process what was happening. After district council, my district leader Elder Roylance noticed that I wasn’t doing ok and asked if I would like a blessing. I said yes and he gave me a very needed priesthood blessing. For those of you who may not know what that is, the priesthood is the power and authority of God. Worthy men are able to be given priesthood power and authority to do things like perform ordinances such as baptism as well as heal the sick and give blessings of comfort and council. They have the same power and authority that was given to ancient prophets and apostles to be able to do those things. I am so grateful that the priesthood is on Earth again because that blessing from Elder Roylance was just what I needed. After that, I felt so much better and was able to smile a little and move on with my day with a little more energy. Sister Spencer and I went to Panda Express after that. It was a fun treat! After our lunch, we went back home and then went back out to invite people to church. We met this really nice lady who gave us some sparkling water, but she just kept on arguing everything. We just left her hopefully on a happy note for her! We also met a lot of people later who said they would be happy to come to church!
+
+Bright and early on Wednesday morning, we headed to Broomall at 7 in the morning for zone conference. Even though we left super early, there was a lot of traffic and our route was changed due to a bridge collapse, so we arrived late which was still early, but they wanted us to arrive an hour early. Anyways, the conference was awesome! Elder and Sister Ringwood came to our mission! Elder Ringwood is a member of the quorum of the 70 I believe and Sister Ringwood is the 8th daughter of President Russell M. Nelson the prophet! It was so funny because her facial features look so much like President Nelson! I learned a lot at zone conference and it was so fun! We were also able to talk to President Harding about our friend and get some council on how to move forward. It was so funny because while we were talking to him the rainclouds decided randomly to dump monsoon like amounts of water to the earth. It was the most rain I have ever seen in my entire life. After that, I felt like a huge burden was lifted off of me and the drive home was so healing watching the rain and seeing the sun peak through the clouds. It was so fun! By the time we got home, I was just so full of joy that I couldn’t stop smiling! We took about a half an hour break and then we headed straight back to Bob and Cheryl’s house. It was really fun! Sadly, Bob didn’t pray about baptism, so he probably won’t be baptized any time soon. After teaching the Barbers, we had a lesson with the Guthe’s and that was awesome! We read “The Everlasting Covenant” from President Nelson and it was really good!
+
+On Thursday, we planned out our week and then we went out finding. We also had dinner with Sister Foulk which was really good! I had my first tater tot casserole! After that we had surprise exchanges with the sister training leaders, so we only had a little bit of time to go finding. We went on main street because they had a bunch of food trucks. We invited so many people to church, but no one said they wanted to come. It was so sad! After that, we went to Vineland for exchanges and it was so funny because Sister Spencer and Sister Sessions played a game where they hit each other with tortillas while they had water in their mouth.
+
+On Friday, we had a bunch of meetings so we didn’t get to do much, but it was cool because I got to have a second lesson with the sister training leaders’ friend Jim before his baptism! We had to leave before dinner because we had a lesson with our friend Jason! He is still on date for baptism! It was so cool because we were able to teach his parents Frank and Megan and they seemed to enjoy it! They are super supportive of Jason getting baptized and we are so excited for him! After that, we tried to have a lesson with LaToya but she didn’t answer the phone. It was perfect though because the Vancours last minute invited us over for dinner and that was super fun! Their kids are so cute!
+
+On Saturday, we had a fun lunch with Sister Paul. We hadn’t been over in a while so that was really fun! After that, we invited a lot of people to church and then we tried to have a lesson with Kasim who we had met the other day, but he wasn’t home for our appointment. We decided that we would try stopping by Stephaney and it was so fun! We studied some scriptures with her and she really enjoyed that!
+
+On Sunday, we had a great church service! Sadly not a lot of people showed up, but there were some great talks! After church, we invited some people to church in Medford and ended up meeting a super nice lady named Mellissa who was moving there in a month, but happened to be there. She said she would love to come to church when she moves there in a month! It was definitely a miracle!
+
+Today, we had a really fun time playing disc golf with our bishop and his daughter and the sister training leaders. I was super bad at it and kept on throwing 90-180 degrees from where I was aiming, but it was really fun! I even got to wade in some mud trying to get my disc out of a muddy bank when I missed haha. After playing disc golf, we went with Sister Bull and Sister Sessions to Wendy’s and that was fun!
+
+I hope you all have a great day and a great week! I love and miss you all!
+
+-Sister Jensen
+
+Photo Descriptions  
+1 District Council pic!    
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_619904130203332.jpeg)
+
+2 Driving back from zone conference    
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230614_164541.jpg)
+
+3 Giant group picture!    
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_294329156268929.jpeg)
+
+4 Eating lunch at zone conference!    
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_1216876505692567.jpeg)
