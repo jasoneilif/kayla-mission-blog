@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Mission Email Week 61"
+date:   2023-08-07 14:59:00 -0700
+categories: mission
+---
+Hello everyone!
+
+This week was awesome! There were so many miracles and we did so many fun things this week! Our prayers were definitely heard!
+
+On Tuesday, we had a fun time at district council and Sister Goodman, a sister missionary serving a service mission in the Newark 1st ward, came! It was so fun! Almost everyone brought food since it had been Elder Elliot’s birthday the day before and so it was a fun party! We also brought Harry Potter wands for everyone since his birthday was Harry Potter themed. After district council, we saw we had received a referral for a man named Cameron! We were so excited and called him and he was actually interested in coming to church! Later that day, we decided to knock in this one area and we ended up meeting Joel. He had said that he tried coming to church earlier, but no one had welcomed him. We told him that if he came this time, we would help him feel more welcome. Later that day, we also had dinner with Gina and Diego and their little baby Lucia! It was so fun and the soup she made was really good! We taught them about the plan of Salvation and they really loved it! On our way back we decided to go down a street that Sister Oliver had been wanting to visit and we ended up meeting Rodney. We were like “Do you want to come to church with us this Sunday?” and he was like “Yep!”
+
+On Wednesday, we had fun doing service for parks and rec and we pulled a whole bunch of weeds! I learned about this one weed that’s called goosefoot! Also, weeds are so much easier to pull here! I was able to pull up crab grass without too much problem! Later in the day after getting all cleaned up from our service, we spent a few hours with Elin who is preparing for her mission! We were able to call this really cool guy named Kenneth and we talked to him for a while. We decided to take a break from the phone after that and went door to door with Elin! It was so fun! It was weird though because we got the worst rejections that day that I had ever had! This one guy/girl was going off about how Jesus is a scam. Hopefully Elin still enjoyed it though! We were able to meet some really cool people too which was good! We met this nice lady named Barbara who was out nature watching. We also met this other guy named Raquan who doesn’t believe in God because of challenges he has had in his life. We are so excited for him to learn about the plan of Salvation! Anyways, after that, we had dinner with the Mosers and had really good food! After that, we had a lesson with Peabo that was great!
+
+On Thursday, we had our weekly planning session like usual and then we went to a nearby parking lot and met Rose and Andre and Essence! They are all amazing people and we hope they come to church! After that, we went to the Mahoney’s and had such a fun lesson with them. Brother Mahoney is in the bishopric. Their kids were super cute and were showing us all their skills! After spending time with the Mahoney’s, we went to the Hearne’s for dinner and had tostados which were so fun!
+
+On Friday, we had a lot of lessons! We ended up meeting this nice man named Smiley who had sent in a request to meet with us! It is so funny how we have so many people we are teaching who have such unique names! Anyways, later for lunch that day, we went to a cafe to meet with Rei who had just been baptized in the last year. It was fun meeting with him. He is preparing to go to the temple and serve a mission soon, so that is exciting! After that, we had a lesson with Megan and taught her the plan of salvation. After that, we went to the Overbys for a lesson and later we went to a seafood restaurant to eat with Sister Howard. I had muscles for my first time which was really good!
+
+Then came Brittany. We called Brittany last night for the first time and got to know her. She had just opened her Bible when we called and she wanted some literature and study guides. She already has a Book of Mormon and has read a part of it that the man who gave it to her told her to read. We gave her some background on it and had a deep conversation with her about the Holy Ghost, the premortal existence, answers to prayers, and the mercy and judgment of God. She just couldn't believe in a God who didn't do all He could to have all His children in Heaven. 
+
+On Saturday, we went to the temple with Brother Leifheit for his endowment. The endowment is another ordinance like baptism and is very special and sacred. It is a gift from God! It was such an amazing experience and all those who came to support him were able to go in proxy for his siblings and parents which was really cool! I went in behalf of his sister Jeanette. We also stopped by Sister Maria Alley today. She has been struggling a lot in many different aspects and wanted guidance on how to get out of the 'gutter' so to speak and hear Jesus Christ better. We invited her to fast with us this Sunday. Later that day, we were also able to get Sister Oliver’s Book of Mormon back! We had tried going earlier, but no one seemed to know who David Abraham was. Luckily on Saturday, his niece who we had met earlier was outside and was able to go grab the Book of Mormon.
+
+Anyways, I hope you all had a great week! 
+
+-Sister Jensen
+
+Photo Descriptions  
+1 Harry Potter district     
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_301453265593586.jpeg)
+
+2 At the temple!    
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_1352627355343883.jpeg)
+
+3 I made this rice pilaf! Don't worry! We didn't eat the leaf!    
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230807_173547.jpg)
