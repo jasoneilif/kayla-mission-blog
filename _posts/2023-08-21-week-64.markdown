@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Mission Email Week 64 - Traveling Time"
+date:   2023-08-14 15:01:00 -0700
+categories: mission
+---
+Hello everyone!
+
+This week has been one crazy week! Both Sister Oliver and I ended up getting doubled out of our area. Sister Oliver went to Pennsylvania and I went back to New Jersey! It’s been super crazy! I am in the Moorestown congregation with Sister Jarvis now and the zone leaders also serve in the Moorestown congregation.
+
+It was really bittersweet saying goodbye to Sister Oliver again as well as the people in Newark. We did have a really good final hurrah before we left! We had a meal with Sister Howard at this really cool place called Casablanca. It was really good Morracan food or some other type of food like that! It was a super cool place! We washed our hands in rose water and had really good food and ate it with our hands. It was so fun and at the end me and Sister Oliver both split apples in half. It was crazy! I was super surprised when it happened haha. We also had one last time with Sister Mosher, Peabo and the Jawahirs which was really good! The Jawahirs took us to the Delaware river shore and it was so cool! This time around packing wasn’t as sad as last time probably since both me and Sister Oliver were packing. It was like we were both going on an adventure. I really miss Sister Oliver though!
+
+Wednesday was the day transfers happened. I met Sister Jarvis and she is super sweet! We kind of just jumped into missionary work and had a lesson with Jasmine a returning member. She was so sweet and we had a really cool lesson about 3 Nephi 17 and how the Savior is with us and how we can make our prayers more meaningful. After our lesson, we decided to go out and invite people to church in our area. We were kind of all over the place, but Sister Jarvis had a prompting to stop by this man who lived nearby, but that didn't work out so we awkwardly stood a few doors down trying to figure things out and then Frances came out. We invited him to church and he asked for the address. He was super intrigued and when we told him we also teach lessons, he invited us right in. We told him we needed another woman with us so he got his wife Mary to join. We taught both of them the Restoration and they really are showing a desire to learn more. They wanted us to sing them a sing next time we meet. After having a lesson, we went back to the car and got some Book of Mormons and Bibles for them. They were so happy! After that, we went to Violet Milcent’s house to teach her daughters Jevemanie, and Betsaida. They speak mostly Portuguese and it was so cool because Sister Milcent made some really good potato bake with Haitian spice and it was so good! The lesson was good too! It was kind of hard with the language barrier, but we had Nichole and Emily help translate. After that, we had a lesson with Kendra who was just baptized a week ago. It was so fun!
+
+On Thursday, we had service at the temple. It was awesome! I hadn’t served at the temple in so long. It was so nostalgic being back there in white scrubs vacuuming the floors of the temple. I also got to show Sister Jarvis around the temple to see all the rooms and the little details. Later that evening we also went to the Adiputras house for dinner. It was really fun and they had a massage chair and had us use it. We also had some really good Indonesian food. It was called rambung or something like that and we also had some weird rice cake things made of shrimp.
+
+On Friday, we planned out our week and we also met a whole bunch of really cool people like Walter Brown, Stephany, Lionel, Patricia, Sharon, and Ray. We also had a lesson with a lady named Ella and her family who used to go to church all the time, but hadn’t gone in a while. Sister Jarvis was going through a lot that day so the sister training leaders Sister Bull and Sister Spencer came and it was super fun! It was great catching up with them!
+
+On Saturday, we had a bbq with the members of our congregation and it was so fun! I met a lot of new people at once and that was crazy, but it was really fun! We did a few stop bys that day and we also met this really nice lady named Amega (Like Alpha and Omega mixed together) and her daughter Livi (Deliverance). She was so sweet and open to talking with us!
+
+On Sunday, we had church which was really good! I got to meet more people and actually get to know them and then after church we had a baptism for Septimus, Elder Vakalahi and Elder Oliver’s friend. It went really well and they had me play the piano which went really well for the first half. Right after Septimus was baptized, the font started flooding water all over the place and so it was super chaotic trying to get the water taken care of and finish the rest of the service. We ended up finishing the service in the chapel and I was so thrown off and nervous that my piano playing the second half was a little cringy, but it turned out good and Septimus was able to be baptized and confirmed. On Sunday, we also had another lesson with Kendra and our friend Patricia, but that was also super chaotic and didn’t go very well, but Kendra took it pretty well which is good. We also found out that the standards are changing for missionaries having to do with music, interactions with others and contacting friends and family. We’ll have to see how that goes!
+
+Today, I made lentil tacos which turned out good! I’ll attach some pictures!
+
+-Sister Jensen
+
+Photo Descriptions  
+1 At Casablanca with Sister Howard     
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230814_193045.jpg)
+
+2 At Delaware River     
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230815_172745.jpg)
+
+3 With Peabo     
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230815_193106.jpg)
+
+4 With Sister Mosher     
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/IMG_20230816_070327.jpg)
+
+5 District Council     
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_1991740281159112.jpeg)
+
+6 Me and Sister Jarvis     
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230816_140646.jpg)
+
+7 At the temple     
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230817_161945.jpg)
+
+8 Lentil Tacos     
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230821_172137.jpg)
+
