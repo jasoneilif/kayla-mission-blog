@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Mission Email Week 65"
+date:   2023-08-28 14:07:00 -0700
+categories: mission
+---
+Good morning!
+
+This week, I kind of felt like Eyore from Winnie the Pooh haha. It was kind of rough, but it was still a pretty good week!
+
+On Monday, we barely got everything done that we needed to with preparing for our week and then we had a kind of rough day at the end afterwards.
+
+Tuesday was a lot better! We had a really cool lesson with our new friend Frances! We had some members join over zoom and it was kind of chaotic because it took 30 minutes to set it up, but it turned out really good and we were able to have a really good lesson! After that, we decided to go stop by someone named Chasidy and we ended up meeting some really cool people! We met Chasidy’s nephew named Jason and he is really cool! We also met some other people who were awesome! It was so funny because we had invited these two ladies to church who were sitting on their porch. We went across the street and invited this lady to church. She had a lot of cute cats in front of her house! Then we knocked on a few other doors and ended up meeting this really nice lady named Kathleen! We had an interesting conversation with her about a lot of different things! While we were talking with her though, we were getting attacked by mosquitos and were itching ourselves a lot. When we turned back to go to the car, we ended up going past the two ladies on the porch again and they told us to go shower when we got home to get rid of fleas. We were really confused at first, but thanked them and walked away. Later we realized they probably thought we got fleas from the cat lady since all they saw was us itching our exposed legs. After dinner, we had an awesome lesson with our friend Debra who was baptized not too long ago. She is so cool and is preparing to go to the temple for her first time on the 2nd of September!
+
+On Wednesday, we had an awesome lesson with our friend Brittney! She has an amazing story about how she was baptized at age 12, but then fell away and then is coming back and it’s so cool! She is an amazing person! I came out of her house with every inch of exposed skin covered in dog saliva, but I also came out with a smile! Her dogs were cute, just one of them was crazy about licking haha. Later that day, we went to this apartment complex and met a lot of really cool people! After that, we went to the Dun’s for dinner with the elders and it was really fun! They got us some cheesesteaks and pizza! After that, we had a fun lesson with Kendra which went well!
+
+On Thursday, it was kind of a rough day, but we were able to plan for the week and have a cool impromptu lesson with Nodola! It was really cool! We also traveled to exchanges that day and it went really well! It was so fun because I got to talk to Melvin over the phone again and it was so fun! Then we had a fun carpool trip to the Sanchez’s and it was so fun getting to talk with them again! We had some delicious bean soup and got to share a message with them. It was so fun! Afterwards, Sister Bull and Sister Spencer took us on a surprise detour and took us to McDonalds for a treat. It was so fun!
+
+On Friday, we had so much fun! I was with Sister Bull for the day and we were able to go visit Bob and Cheryl Barber and the Guthe’s and Dottie and John. It was literally one of the happiest days! I was so happy to see all of them again! I also got to meet Dottie’s daughter which was awesome! I brought my ukulele and was able to play songs for each of the people we stopped by and it was so special! We also had lunch at the Evergreen Dairy Bar which was so fun! It was definitely a throwback to the past!
+
+On Saturday, we invited people to church all over the place. It was so fun because we were able to meet so many people!
+
+On Sunday, church was really good! I felt like I was starting to get to know everyone and it was really fun! Frances came to church for the first time and he connected really well with Septimus and Daniel and participated in the second hour class! There was also a lady named Alexa that came in that we decided to sit by since we didn’t know her. After talking to her a little bit, I realized that it was Alexa Mendez! I had taught her over the phone when I was in Medford and that was my first time meeting her in person. It was so cool! We also went to Amy Roger’s baptism. She is Septimus’s wife! The building didn’t flood this time and the service was beautiful! I was also able to receive a priesthood blessing after the baptism which really helped me after a hard week. The priesthood is God’s power, and He gives some of that power and authority to worthy men. They then can give blessings of healing or comfort and council. I know that God still works miracles through His servants and that He is the same yesterday, today and forever. The same kind of miracles that happened when Christ was on the Earth and that His disciples performed happen today as well because that priesthood power has been restored to the Earth. I am so grateful for that because it really helped me feel peace and have additional strength. I could feel that the whole rest of the day and into the next day and I still feel that. It really is a miracle!
+
+Anyways, after that, we went to Betsaida and Jevemanie’s house to teach them and we were able to make a fun analogy/diagram on a whiteboard. We asked if they wanted to be baptized on September 17th and they said yes! The rest of the night was pretty chill because we hadn’t done our studies yet, but we were able to have a fun lesson with Kendra and Vivian, a member in our congregation, and Frank, Kendra’s new friend, was able to join! It was so fun!
+
+Anyways, I hope you have a great week! Keep remembering the Savior and remember that miracles are real and the Savior’s healing power is on the Earth today!
+
+-Sister Jensen
+
+Photo Descriptions
+1 At McDonalds!     
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230824_210128.jpg)
+
+2 Sister Bull, Cheryl, and I     
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230825_161658.jpg)
+
+3 Septimus and Amy at Amy's baptism!      
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/received_811567830678168.jpeg)
