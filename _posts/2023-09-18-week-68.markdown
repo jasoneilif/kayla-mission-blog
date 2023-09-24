@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Mission Email Week 68"
+date:   2023-09-18 14:54:00 -0700
+categories: mission
+---
+Hello everyone!
+
+Here is the update from the week that I said I would send! It was such a good week! It was really busy, but it was really good!
+
+On Tuesday, we had district council. It was really fun being back in the district with a lot of missionaries I knew! After district council and lunch, we had a bunch of lessons! First, we had a lesson with Cynthia. It was a little all over the place, but it was amazing! We started to teach her about the restoration of Christ’s church on the earth, but then she started talking about how her son had been in a skiing accident and had passed away and how other members of her family had died, so we started talking about God’s plan for us on this earth and about the creation. She kind of got off topic with this because she was caught up with little details that didn’t matter that much in the big scheme of things. We were able to get back on topic though, but it kind of turned into talking about Christ’s gospel. Anyways, it was kind of all over the place, but so good! We asked if she would be able to make it to church, and she said that she was super shy so we invited her to pray for the strength to come to church so she can come to church and receive the blessings from coming to church. She said she would do that and we said we would pray for her too! After our lesson with Cynthia, we had a lesson with Devin over the phone who we had met the day before at Walmart! It went pretty good! After that, we went to Djedge’s house with Sister Ytac and had one of the most spiritual lessons I have ever had! It was amazing! Djedge was so excited to have us teach him and as we were talking, he was like “I gotta read this book!” He was so excited to read the Book of Mormon! His friend Russell is a member and he had been such a good example for Djedge! It was so cool seeing how Djedge was able to notice how the gospel blessed his friend. At the end of the lesson, we invited him to come to church and he said he had a tight work schedule that he couldn’t change on the weekends, but that we would do everything he could to make it to church. The actual lesson itself was amazing and Sister Ytac shared a powerful testimony with Djedge. Sister Bull and I came out of that lesson squeeling like little piglets, kind of like we did when we found Joey together in Valley Forge a year ago. It was so fun!
+
+On Wednesday, we had another fun day! We started off the day serving at the thrift store. It was so fun going back there and steaming clothes! After that and having lunch, we went to Walmart to invite people to church and met this really cool lady named Felicia. She was so sweet! We also met two really nice guys who spoke Spanish! We were able to get them in contact with the Spanish speaking missionaries! After that, we went to the church building for our church tour with Devin! We were super surprised because Devin was already there at least 5 minutes early. Sister Sheridan and Dave came as well and we had a great church tour! We showed Devin around the building and talked about the Gospel of Jesus Christ with him. He really enjoyed it! At one point, Sister Sheridan shared with Devin her testimony of temples and how she knew that families were forever. The spirit was so strong and I’m sure Devin felt it too! After our cool church tour, we went to Sister Foulk’s for dinner! It was so fun being back! Sister McClelland was there too and it was so fun and the lasagna was so good! After dinner with Sister Foulk and Sister McClelland, we went to the Guthe’s and shared a message with them! It was so fun seeing them again!
+
+On Thursday, after weekly planning and lunch, we had a lesson with Dottie, John, and their daughter Rhianna! It was such a fun lesson and it was really good seeing them again! I also got to see the Sanchez’s again and it was so fun! Brother Sanchez gave us cool temple pins of the Manhattan temple.
+
+On Friday, we had preparation day because that was our temple trip.for the departing missionaries. Sister Guthe took us to the temple and it was so fun getting to know her more and hearing all of her crazy stories. She has done a lot in her life! At the temple, there were so many other missionaries and it was crazy! I even got to see Sister Giles and Sister Moore. The Hardingsand a lot of other missionaries were there as well and it was so good seeing everyone! I absolutely love going to the temple ! It always brings me so much happiness and peace and it feels like coming home after a long stressful day. I also learned a lot from the actual session as well which was really needed! It was a good reminder that I am a daughter of God and have a divine nature and potential! At the temple, I also saw Sister Howard from Newark, Delaware and Sister Goodman from Newark as well! It was so good seeing both of them! After the temple trip was over, Sister Guthe took us to McDonalds and that was so fun! Later that day after finishing our emails and talking to family, we had dinner with the Vancours and it was so fun! We shared funny stories about eating bugs, getting scared of bugs, and other stories not having to do with bugs. I also had corned beef for the first time and that was really good!
+
+On Saturday, we had a great day! We ended up meeting this super nice lady named Ann! She has a lot of cats and lives by herself, so she was super down to come to church on Sunday. We also went to visit Cheryl and it was so fun seeing her. She was so surprised and happy to see us! Later that night after our proselytizing hours, we had fun playing board games! I won at chess, but later Sister Bull won at arm wrestling!
+
+On Sunday, we had a great day! We went to church which was so good! Sadly, none of our friends made it to church. I was so happy to see the members of the congregation there that I hadn’t seen in a while! After church, we went to a nearby nei then we went to the Ytac’s for lunch. It was so good! Sister Ytac made this salmon dish with rice and it was soooooooo goood! I really enjoyed it ! We also had potato tortillas which are just eggs and potatoes in a round circle like a cake. It was so fun getting to know the Ytac’s better! They are so cute and it was so fun hearing their stories and getting some fun life advice. They are the cutest! After dinner and a few meetings, we went to this one neighborhood to invite people to church. It was so crazy because we ran into Jestine who we had met at a Walmart parking lot and invited to church not too long ago. It was crazy!After inviting people to church, we stopped by the Vancours and they gave us some Cafe Rio they had picked up the day before and it was so nice of them! We had it for dinner and it was really good! Then we had a fun all mission meeting where we all ate ice cream!
+
+Anyways, I hope you have a great week!
+
+-Sister Jensen
+
+Photo Descriptions  
+1 Sister Bull and I at the temple     
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230915_125800.jpg)
+
+2 Sister Goodman and I at the temple     
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230915_130102.jpg)
+
+3 Random selfie     
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230916_183833.jpg)
+
+4 The milk expires the same day that my mission does lol 🥛      
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230918_175109.jpg)
+
+5 Found this funny tree with a face     
+![]({{site.baseurl | append: "assets/" | append:  page.path | replace: ".markdown","" | replace: "_posts/",""  }}/20230916_183822.jpg)
